@@ -1,0 +1,41 @@
+Deepfakes – spoof videos that use AI to insert a person’s face into any scene – are part of the mainstream now.
+
+Deepfakes regularly go viral, with hilarious parodies of Nicolas Cage or Donald Trump, but broadcaster and author Nina Schick says that the fast-developing technology will increasingly represent a "serious challenge" to our society.
+
+While funny clips are the public face of the fast-developing deepfake technology, the most widespread application is deepfake porn.
+
+Dutch cybersecurity startup Deeptrace estimated in late 2019 that 96% of all deepfakes online were pornographic.
+
+Sensity, another Dutch-based cybersecurity company set up to combat the growing menace of deepfakes, says that the number of deep fake porn clips – where the faces of innocent victims are added to the bodies of performers in explicit videos – is doubling every six months, and by summer 2021, there could be as many as 180,000 porn videos “starring” innocent people online.
+
+By 2022, they say, that number will be more like 720,000 – and anyone is vulnerable. All that is required is a photo, video or audio recording of the victim.
+
+One celebrity was depicted in a widely-circulated fake "sex tape" in 2017.
+
+But in 2020, the technology is so easily obtained – and simple to use – that anyone could find themselves a victim.
+
+Kate Middleton, Emma Watson and even Ivanka Trump have similarly had their images misused in this way. Avengers star Scarlett Johannson said there was so much deepfake porn featuring her face that there was no point even trying to fight it.
+
+After learning that there was even a sex robot with her face, she told the Washington Post: "Clearly this doesn’t affect me as much because people assume it’s not actually me in a porno."
+
+She added that trying to fight the deepfakers through the courts was was "a useless pursuit" but expressed concern for people who were not household names – and could potentially lose their job or suffer other serious consequence as a result of a deepfake "sex tape".
+
+But as distressing as finding yourself in a hardcore porn video might be, the greatest danger, says Nina, is when deep fake technology finds its way into political propaganda.
+
+Writing in Wired magazine, she tells the story of Belgian prime minister Sophie Wilmès, who was the subject of a deep fake created by the Belgian Branch of Extinction Rebellion.
+
+The group took a video of Wilmès making a genuine speech and used artificial intelligence too manipulate the clip to make it seem as if she was saying that Covid-19 is directly linked to the “exploitation and destruction by humans of our natural environment”.
+
+Here in the UK, more than 200 people complained to media watchdog Ofcom this week after Channel 4's " alternative Christmas message " featured an uncannily convincing deepfake of the Queen.
+
+The very real danger this technique could pose to a legitimate government has drawn concern from the US government. America’s Defense Advanced Research Projects Agency (DARPA) has launched a project called MediFor, an AI media forensics algorithm intended to spot and expose deepfakes.
+
+But the most immediate danger, warns Nina, may not be to governments or huge companies with billions of dollars to lose – and therefore millions to spend on deep fake detection.
+
+She says that in 2021, internet users all need to begin to fight back against deepfakes.
+
+Imagine receiving a completely believable video message from a relative telling you to urgently send them some money.
+
+“You know scammers are going to use it,” she told the Daily Star, “and as it becomes more accessible it won’t be CEOs of being energy companies being defrauded out of millions of Euros, it’ll be just ordinary people like you and me.”
+
+Deep Fakes and the Infocalypse: What You Urgently Need To Know by Nina Shick is published by Monoray and is available now.

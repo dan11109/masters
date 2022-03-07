@@ -1,0 +1,81 @@
+In a playground in Manchester, next to a busy road, Dr Barbara Maher captures air samples to bring back to her lab at Lancaster University. In a thimble full of air she records hundreds of thousands of microscopic particles, some rich in iron.
+
+Others are pieces of soot from traffic fumes, but up to one-fifth are metal. There is growing evidence that these often strongly magnetic particles can worm into our brains and set in motion what looks worryingly like the early stages of Alzheimer’s and Parkinson’s disease.
+
+On another day Maher looks down a special microscope at slivers of human brain. Inside cells she observes clumps of bright metal particles, rich in iron and aluminium, sometimes titanium too. “The cytotoxicity of those metals is well known,” she explains, meaning they are poisonous to our cells.
+
+Close by these metal clumps she and her medical colleagues detected damage in brain stem tissue and misfolded proteins, hallmarks of diseases such as Alzheimer’s. Maher believes these particles originated from pollution.
+
+The postmortem brain tissue in the study is from 186 individuals who lived in Mexico City. Metal-bearing nanoparticles are abundant in the air of Mexico City, with more than half containing iron, lead or zinc.
+
+Maher found metal nanoparticles in almost all samples of the brainstem she examined, including young adults. Where these particles were there tended to be damage to neurons, she says, “even in individuals as young as 11 months of age.”
+
+The same quantities were not in people from a cleaner Mexican city. In ongoing work Maher is finding such metal-rich particles in the brains of people who had lived in Manchester, though fewer of them.
+
+Crucially, most of the particles in the brain measure just 20 to 30 nanometres across. Red blood cells are giants in comparison, spanning eight microns (0.008 mm) or 400 times the size of the nanoparticles.
+
+Being so small turns out to be significant – and concerning.
+
+“We know that these particles can access the brain by routes you wouldn’t ordinarily think of,” says Dr Deborah Cory-Slechta, environmental scientist at the University of Rochester medical centre in New York. “When you breathe it in, that air pollution hits the top of your nose and the ultrafine particles are taken up and transported directly into the brain.”
+
+Another route, she says, is down the trigeminal nerve, the largest nerve in our head, which sends signals for facial expressions and chewing. This allows the particles to bypass the blood brain barrier, a moat of cells blocking toxins from crossing into our brains from the body.
+
+Cory-Slechta is troubled by pile-ups of iron particles, which seem to accumulate in the brain with age, but more so in the diseased brain.
+
+“There’s always excess iron in the brain for all the neurodegenerative diseases I’ve looked at so far.”
+
+She believes that for many people, exposure to metal pollutants begins in the womb, and continues throughout their life.
+
+She also blames air pollution. Iron is “frequently found at unusually high concentrations in ultrafine air pollution, though often with other metals such as copper and zinc” .
+
+Normally iron is chaperoned around the body by proteins, and so tightly controlled. Unlike a metal such as gold, iron is reactive and can strip electrons from our proteins. This can lead to “oxidative stress” in our brains, says Cory-Slechta.
+
+“It is not really clear that the brain has a way to get rid of iron if there’s too much,” she adds.
+
+A study in Nature Communications this year from China found nanoparticles in blood samples and also in fluid from the lungs of people living in polluted areas.
+
+Looking in brain cells, Maher saw metal-containing nanoparticles sitting within damaged mitochondria, the “power stations” that generate energy in our cells. “To see clusters of iron-rich particles sitting inside these structures is not normal. We find them associated with titanium and aluminium, and these metals definitely should not be in the brain.”
+
+Maher suspects that inhaled metal particles eventually overwhelm the brain’s protective mechanisms, so cells die, which triggers inflammation. However, it is not proven that metal particles we breathe injure our brains and lead to brain disease such as Alzheimer’s.
+
+“The concept of particulate matter accumulating in the brain and driving the pathology is a neat concept,” says Dr Matthew Campbell, neuroscientist at Trinity College Dublin. But he is unconvinced that the evidence is strong enough to show that particles are causing brain conditions such as Alzheimer’s. “What you see may not be the cause of the disease,” he says, regarding the postmortem brain tissue.
+
+A scientific journal editor suggested to Maher that one way to prove the link between pollution and brain disease is to expose primates to pollution and monitor their brains, something Maher does not want to do.
+
+Campbell agrees that such evidence is needed. He would “want to see multiple animal species being exposed to particulate matter and driving the pathology that mimics or is like Alzheimer’s disease.”
+
+Maher is convinced that there is enough evidence for policy-makers to consider actions. It is known that living close to major roads is linked to higher risk of dementia. “
+
+Seeing all these particles directly associated with neurological damage, even in very young people, is strongly suggestive that we need to be doing something to reduce their abundance in the air that we are breathing,” she says.
+
+Early signs of damage are seen in young, highly exposed people, including behavioural issues, cognitive impairment and balance problems, says Maher, and intervening in elderly people is already too late.
+
+For Campbell it makes sense to reduce particulate matter pollution anyway, including for cardiovascular health. “Nobody wants to be breathing in particulate matter.”
+
+Corey-Slechta has been studying the effect of ultrafine pollution in her lab in upstate New York. She takes in outside air and extracts the smallest particles. The ultrafine pollution is then pumped into the cages of mice, so that she can see effects from inhaling these particles.
+
+When she looks at the brains of young mice “I’m finding increased levels of two proteins that are very characteristic of Alzheimer’s disease, beta-amyloid and tau.”
+
+She has lots of questions, such as what happens if the mice are exposed early in life, and then repeatedly during life, which she hopes to answer.
+
+While enormous efforts are rightly taken to prevent deaths and illness from Covid-19, air pollution is an unseen menace that is impacting almost everyone and probably causing harm to brain health.
+
+Earlier this year Maher and researchers in Trinity College Dublin linked open-fire use in Ireland with poorer test scores in fluency and recall. The link was stronger among women, which the scientists blamed on them breathing in more fire particles by spending more time at home than men, on average.
+
+PM2.5 is a category of pollution with particles above 2.5 microns in diameter – larger than the ultrafine metal particles.
+
+In November a study in Lancet Planet Health showed that living in areas with higher levels of PM2.5 was significantly linked to an increased risk of hospital admission for Parkinson’s, Alzheimer’s and related dementias. The US study showed that there was no safe level where PM2.5 pollution causes no harm.
+
+PM2.5 is monitored and regulated. The smallest more numerous particles are not. Further, the only metal regulated in air for now is lead. Yet there is a strong case to track and regulate metals such as iron in the air, says Cory-Slechta.
+
+These metal-rich particles often spew out from cars, trucks and buses, but have no odour and cannot be seen.
+
+“Metals come from brake wear, engine exhaust and engine wear,” says Maher. “Aluminium and iron are also very common in smokestack emissions from burning coal.”
+
+She says studies show that urban air pollution is especially harmful, possibly due to metal nanoparticles.
+
+The highest concentrations waft along our busiest roads, especially where cars are braking and accelerating. Maher predicts that electric cars will generate fewer metal particles, not just by having no exhaust fumes but because they use regenerative braking, rather than friction. Which is good news.
+
+Scientists say adults should try to reduce exposure to metal nanoparticles by not walking or cycling along busy roads.
+
+Or driving on them, says Maher. “Anything you can do to reduce the amount of times you are exposed in this way is a good thing, especially pregnant women or young children whose brains are still developing.”

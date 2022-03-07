@@ -1,0 +1,9 @@
+BACKGROUND: Insufficient renal urate excretion and/or overproduction of uric acid (UA) are the dominant causes of hyperuricemia. Baicalein (BAL) is widely distributed in dietary plants and has extensive biological activities, including antioxidative, anti-inflammatory and antihypertensive activities.
+
+PURPOSE: To investigate the anti-hyperuricemic effects of BAL and the underlying mechanisms in vitro and in vivo.
+
+METHODS: We investigated the inhibitory effects of BAL on GLUT9 and URAT1 in vitro through electrophysiological experiments andC-urate uptake assays. To evaluate the impact of BAL on serum and urine UA, the expression of GLUT9 and URAT1, and the activity of xanthine oxidase (XOD), we developed a mouse hyperuricemia model by potassium oxonate (PO) injection. Molecular docking analysis based on homology modeling was performed to explain the predominant efficacy of BAL compared with the other test compounds.
+
+RESULTS: BAL dose-dependently inhibited GLUT9 and URAT1 in a noncompetitive manner with ICvalues of 30.17 ± 8.68 μM and 31.56 ± 1.37 μM, respectively. BAL (200 mg/kg) significantly decreased serum UA and enhanced renal urate excretion in PO-induced hyperuricemic mice. Moreover, the expression of GLUT9 and URAT1 in the kidney was downregulated, and XOD activity in the serum and liver was suppressed. The docking analysis revealed that BAL potently interacted with Trp336, Asp462, Tyr71 and Gln328 of GLUT9 and Ser35 and Phe241 of URAT1.
+
+CONCLUSION: These results indicated that BAL exerts potent antihyperuricemic efects through renal UA excretal promotion and serum UA production. Thus, we propose that BAL may be a promising treatment for the prevention of hyperuricemia owing to its multitargeted inhibitory activity.

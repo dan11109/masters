@@ -1,0 +1,19 @@
+WASHINGTON (Reuters) - The unprecedented cyber attack on U.S. government agencies reported this month may have started earlier than last spring as previously believed, a U.S. senator involved in cybersecurity said on Wednesday.
+
+U.S. investigators originally thought that the attack on government agencies and private industry targets began in March or April, including breaches of Treasury, State, Commerce and Energy Departments. State-backed Russian hackers were identified as the suspects. Russia has denied involvement.
+
+"The initial burrowing in may have started earlier," Democratic Senator Mark Warner of Virginia, who serves as Vice-Chair of the Senate Intelligence Committee told Reuters in an interview.
+
+Warner said extensive investigations of the hack were active but that so far the U.S. government does not have hard evidence that classified government secrets were compromised by the hackers.
+
+Warner said gaps in U.S. and international law make it difficult to track and crack down on large scale hacks and that the United States and its allies must act to tighten controls.
+
+"We still don’t have for the private sector, or for that matter the public sector, any mandatory reporting" on major hacking incidents, Warner said. "The amount of time it’s taking to assess the (latest) attack, its taking longer than we would like to take," he added.
+
+Warner said the lack of U.S. laws and policy to counter such major hacks is the product of a "lack of policy that precedes (the administration of President Donald) Trump." During the administration of President Barack Obama, he said, people in both government and private sector "pushed back ferociously" at talk of stepping up cyberspace legal controls.
+
+The latest hacking campaign, disclosed by U.S. officials in mid December, entered U.S. government and private systems by surreptitiously tampering with updates released by Texas-based software company SolarWinds, which serves government customers across the executive branch, the military, and the intelligence services, according to two people familiar with the matter. The trick - often referred to as a “supply chain attack” - works by hiding malicious code in the body of legitimate software updates https://www.reuters.com/article/idUSL4N2J425P provided to targets by third parties.
+
+Although Secretary of State Mike Pompeo and U.S. government sources have said Russia is the principal suspect in the attack, Trump himself has questioned their responsibility and suggested China might be behind the attack.
+
+"There has been obviously a reluctance out of this White House to call out Russia repeatedly," Warner said. "I don’t believe that is a problem of the intelligence community. I think that is a problem of the White House."

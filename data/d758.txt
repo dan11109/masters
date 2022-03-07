@@ -1,0 +1,21 @@
+Officially, to make them secure, voting machines are not supposed to have internet access. So how does one witness claim to have two-way communication with one of these ‘secure’ machines?
+
+More importantly, since these are the very same machines that have been the center of so much controversy in November, what does that say for all the assurances we’ve been given about how tamper-proof THEY were supposed to have been?
+
+Our readers will recognize this witness, Jovan Hutton Pulitzer of the Gold Institute of International Strategy. He’s the guy behind QR codes who has tech that can digitally differentiate between legit and bogus ballots. We’d love to see his tech unleashed on ballots in every state in the country, but that’s a different issue entirely.
+
+Here, he’s been doing the work of a white-hat hacker, looking for weaknesses that can be exploited to overturn an election that has SO very much riding on it.
+
+Weird, isn’t it, how someone can hack into tech that supposedly isn’t connected to the internet?
+
+Then Georgia State Sen. Blake Tillery commented. “We’ve heard that there’s three different types of machines: a scanner, a ballot marking device, and a polling ad. Do you know which one it is communicating?” “Right now—which we heard in the the past was coming through the thermostat and stuff—this is now a more direct access wave, so this is coming through the polling pad device where they’re checking everything,” Pulitzer answered. “But now, you know, it only takes one device where you daisy chain them together and do it. The most important thing is that it shouldn’t be doing and even shouldn’t be accessible. And it’s there.” Another questioned: “What effect could somebody with dishonest purposes—what could that person do given this access that’s going on in Fulton County?” Statistically, Pulitzer suggested, what could be occurring with an operation as described: As that data is being exchanged, somebody can siphon off that data, modify it, and feed the information right back into the system. —PostMillenial
+
+Gee, and these voting systems just happen to be the same super-secure design that was shut down in the middle of the night with Trump leading on election night only to have him trailing badly the next morning?
+
+‘Remotely.’ Now that’s an interesting turn of phrase, under the circumstances, isn’t it?
+
+IT’S SCIENCE: Tools Can Now Identify Difference Between Real And Bogus Ballots… In Seconds
+
+ Check out ClashRadio for more wit and wisdom from ClashDaily’s Big Dawg. While you’re at it, here’s his latest book:
+
+Much of the Left loathes masculinity and they love to paint Jesus as a non-offensive bearded woman who endorses their agenda. This book blows that nonsense all to hell. From the stonking laptop of bestselling author, Doug Giles, comes a new book that focuses on Jesus’ overt masculine traits like no other books have heretofore. It’s informative, bold, hilarious, and scary. Giles has concluded, after many years of scouring the scripture that, If Masculinity Is ‘Toxic’, Call Jesus Radioactive.

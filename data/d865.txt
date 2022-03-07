@@ -1,0 +1,33 @@
+PHOENIX -- The Christmas Day bombing in downtown Nashville led to phone and data service outages and disruptions over hundreds of miles in the southern U.S., raising new concerns about the vulnerability of U.S. communications.
+
+The blast seriously damaged a key AT&T network facility, an important hub that provides local wireless, internet and video service and connects to regional networks. Backup generators went down, which took service out hours after the blast. A fire broke out and forced an evacuation. The building flooded, with more than three feet of water later pumped out of the basement; AT&T and said there was still water on the second floor as of Monday.
+
+The immediate repercussions were surprisingly widespread. AT&T customers lost service - phones, internet or video - across large parts of Tennessee, Kentucky and Alabama. There were 911 centers in the region that couldn't take calls; others didn't receive crucial data associated with callers such as their locations. The Nashville police department's phones and internet failed. Stores went cash-only.
+
+At some hospitals, electronic medical records, internet service or phones stopped working. The Nashville airport halted flights for about three hours on Christmas. Rival carrier T-Mobile also had service issues as far away as Atlanta, 250 miles away, because the company uses AT&T equipment for moving customer data from towers to the T-Mobile network.
+
+'People didn't even realize their dependencies until it failed,' said Doug Schmidt, a Vanderbilt University computer science professor. 'I don't think anyone recognized the crucial role that particular building played' in the region's telecom infrastructure, he said.
+
+AT&T said 96% of its wireless network was restored Sunday. As of Monday evening, AT&T said 'nearly all services' were back up. On Wednesday, it was 'activating the last of the remaining wireline equipment."
+
+AT&T said it sent temporary cell towers to help in affected areas and rerouted traffic to other facilities as it worked to restore power to the Nashville building . But not all traffic can be rerouted, spokesperson Jim Greer said, and there was physical equipment that had to be fixed in a building that was part of an active crime scene, which complicated AT&T workers' access.
+
+'We are all too dependent on phone, cell phone, TV and internet to have outages for any reason,' Rep. Jim Cooper, the Democrat who represents Nashville in Congress, said in an emailed statement Wednesday. He said the U.S. 'needs to harden our telecom facilities so we have greater redundancy and reliability' and called for congressional hearings on reducing telecom vulnerabilities.
+
+The impact on emergency services may have raised the most serious flags. At one point, roughly a hundred 911 centers had service problems in Tennessee alone, said Brian Fontes, head of the National Emergency Number Association. A 911 call center should still be operational even if there is damage to a phone company's hub, said David Turetsky, a lecturer at the University at Albany and a former public safety official at the Federal Communications Commission. If multiple call centers were out of service for several days, 'that is of concern,' he said.
+
+Cooper and experts like Fontes also gave AT&T credit for their work on reinstating services. 'To be able to get some services up and running within 24 to 48 hours of a catastrophic blast in this case is pretty amazing,' Fontes said.
+
+Local authorities turned to social media on Christmas Day, posting on Facebook and Twitter that 911 was down and trying to reassure residents by offering other numbers to call. A Facebook page for Morgan County 911 in northern Alabama said Saturday that Alabama 911 centers were up and running but advised AT&T customers with issues to try calling via internet, and to go to the local police or fire station for help if they couldn't get through.
+
+The Nashville police department uses the FirstNet system built by AT&T, which the carrier boasts can provide 'fast, highly reliable interoperable communications' in emergencies and that is meant to prioritize first responders when networks are stressed. But problems emerged around midday Friday, said spokesperson Kristin Mumford. The department had to turn to a backup provider, CenturyLink, for its landlines and internet at headquarters and precincts and obtained loaner cellphones and mobile hotspots from Verizon.
+
+The transition to backups was 'actually rather seamless,' Mumford said, although the public couldn't make calls to police precincts. She said the AT&T service started coming back Sunday and as of Wednesday morning, overall service with cellphones, internet and landlines was 'about 90% up.'
+
+The Parthenon, a museum replica of the Parthenon in Athens located about three miles from the explosion, still didn't have a working phone four days after the blast. But its credit-card system came back online Tuesday, said John Holmes, an assistant director of Metro Parks, the museum's owner. During the weekend, the museum was cash-only, although it let in people without cash for free.
+
+It's not as if the physical vulnerability of communications networks comes as a surprise. Natural disasters like hurricanes frequently wipe out service as the power goes out and wind, water or fire damage infrastructure. Recovery can take days, weeks or even longer. Hurricane Maria left Puerto Rico in a near communications blackout with destroyed telephone poles, cell towers and power lines. Six months later there were still areas without service.
+
+Software bugs and equipment failures have also caused widespread problems. A December 2018 CenturyLink outage lasted for more than a day and disrupted 911 calls in over two dozen states and affected as many as 22 million people. That included blocked calls for Verizon customers and busy signals for Comcast customers, which both used CenturyLink's network.
+
+'Avoiding single points of failure is vital for any number of reasons, whether it has to do with physical damage, human error, hostile action or any of the above," Turetsky said. 'We need our networks to be resilient regardless of earthquake, tornado, terrorist, cyber attacker or other threat."

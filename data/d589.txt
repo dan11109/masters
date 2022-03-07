@@ -1,0 +1,88 @@
+After initially focusing on the surprisingly lopsided results of the senatorial election in Kentucky, DCReport broadened our scope to look at the electronic vote-counting software and electronic voting systems that we rely on to tally our votes. This prompted us to raise questions about Electronic Systems & Software (ES&S), America's largest voting machine company. What we found was a revolving door between government officials and ES&S.
+
+Voting results in three states that saw surprising majorities by vulnerable incumbent Republican senators—Maine, North Carolina and South Carolina—were almost all tabulated on ES&S machines.
+
+Trump and his inept legal team barely have mentioned ES&S, focusing almost exclusively on Dominion Voting Systems.
+
+Trump attorneys Rudy Giuliani and Sydney Powell and Fox hosts have been making such bold and naked claims against the ES&S competitors, without any substance or evidence, that Fox News, NewsMax and OAN have all been threatened with litigation unless they fully retract their claims and correct a number of egregious factual errors.
+
+Team Trump has been so vigorous in going after Dominion that it prompted us to look into how ES&S operates. What we have found so far is far from comforting.
+• Owned by a private equity firm, ES&S has been elusive about identifying the people in its ownership.
+• A number of ES&S executives and lobbyists have ties to top GOP election officials and politicians.
+• The ES&S executive in charge of the security previously worked in the Trump administration as a government executive at Health and Human Services before leaving under a cloud.
+• Forty of the 50 states use ES&S to cast and count some of their votes.
+• Of the 25 states Trump won, all but 3 either partially or fully relied on ES&S machines. The states where Trump won that didn't use ES&S machines were Oklahoma, Louisiana and Alaska.
+
+[caption id="attachment_21864" align="aligncenter" width="620"]Counties that used ES&S equipment in the 2020 elections. ( Verified Voting )[/caption]
+
+Concerns about the reliability of vote-counting software are not new, dating back to the 1980s. Having the ability to audit votes, and making sure ballots are counted properly, has long been a major concern of computer scientists, politicians and election officials.
+
+In December 2019, Democratic lawmakers sought answers from those top three voting machine vendors which "facilitate voting for over 90% of all eligible voters in the United States."
+
+Three separate letters were sent to the private equity firms who reportedly own or control each of these vendors, with very limited information available in the public domain about their operations and financial performance.
+
+In the second letter, addressed directly to the McCarthy Group, the private equity firm that owns ES&S, lawmakers wrote, "Voting machines are reportedly falling apart across the country, as vendors neglect to innovate and improve important voting systems, putting our elections at avoidable and increased risk."
+
+In requesting details about the ownership of ES&S, the lawmakers specifically noted, "We are particularly concerned that secretive and 'trouble-plagued companies,' owned by private equity firms and responsible for manufacturing and maintaining voting machines and other election administration equipment, 'have long skimped on security in favor of convenience,' leaving voting systems across the country 'prone to security problems'."
+
+DCReport placed numerous calls and emails to ES&S at its headquarters on John Galt Boulevard in Omaha. Only once was the phone answered. Someone who would not put us through said, "They are not going to be able to talk to you." DCReport was directed to ES&S's website. We submitted the form repeatedly but got no reply.
+
+Our democracy now relies on private companies, which build proprietary electronic systems, to reliably count our votes. It seems reasonable, if not crucial, to understand who is behind these companies as a standard to ensure election integrity. Without such knowledge we run the risk that zealots, investors with financial stakes in who wins elections or those susceptible to bribery have an incentive to use subtle software programming techniques to deliberately miscount votes to guarantee an outcome. In close elections, software code that invalidates or miscounts a mere sliver of ballots can change the outcome.
+
+One of our concerns is ES&S providing junkets and gratuities to election officials, as uncovered in June 2018 by McClatchy newspapers. For at least 11 years, the voting equipment and software company curried favor with election officials by paying for trips to Las Vegas, tickets to shows and gifts.
+
+"As many as a dozen election officials" attended a meeting in Las Vegas, with a number of them accepting airfare, lodging and meals, McClatchy reported. A company spokeswoman told McClatchy the junkets were "immensely valuable in providing customer feedback. One of our key results is customer satisfaction, and this is how we achieve that."
+
+Marci Andino, the current executive director of the South Carolina State Election Commission, received more than $19,000 worth of flights, hotels and meals from ES&S since 2009, according to South Carolina Ethics Commission disclosure forms.
+
+Andino's influence extends beyond the Palmetto State. She is also a member of the U.S. Election Assistance Commission's Standards Board and has testified on election issues. She is a former president of the National Association of State Election Directors. To have an election official tied to a voting company creates concerns about conflicts.
+
+DCReport also looked into the careers of some key ES&S executives. What we found is concerning.
+
+Kathy Rogers, ES&S's senior vice president for government affairs, landed at ES&S after controversy over her work as a Georgia state elections official. She opposed legislation trying to ensure vote counts could be verified.
+
+In 2019, The New Yorker wrote about her actions in "How Voting-Machine Lobbyists Undermine the Democratic Process."
+
+"In 2006, a bill requiring a verifiable paper record of each ballot, introduced in the Georgia legislature at the urging of election-integrity advocates, failed after the state's elections director, Kathy Rogers, opposed it," the magazine reported.
+
+Georgia used ES&S machines in 2018 but now relies on Dominion equipment.
+
+Georgia's 2018 gubernatorial race is noteworthy because it was overseen by Brian Kemp, who was then in charge of Georgia elections as secretary of state. That year, Kemp also ran for governor while overseeing his own election, a conflict of interest he disregarded.
+
+Kemp won a narrow victory over Democrat Stacey Abrams, but only after his office blocked 53,000 voter registration applications using a strict name-matching protocol comparing state records to voter registration forms.
+
+Registrations were tossed if, for example, a person used a first name, middle initial and last name, on one form, but then used all three names in full on another. This invalidated a huge number of voter registration applications.
+
+After Kemp won, a federal judge declared Georgia had to implement a completely new voting system in time for the 2020 elections, replacing what the judge called "unsecure, unreliable and grossly outdated technology." Kemp tried to keep using the ES&S equipment for future elections, prompting Peach State Democrats to assert cronyism in the Kemp administration.
+
+In January 2019, the Georgia Democratic Party challenged the integrity of voting machines that did not create an auditable paper trial, a policy he pursued through the creation of the Secure, Accessible & Fair Election or SAFE Commission.
+
+The Democrats demanded a delay on recommendations for a new voting system "following the discovery that a leading vendor under consideration, whose machines are currently being investigated in a lawsuit due to errors in the 2018 election, has deep connections to Brian Kemp's office." That vendor was ES&S. The deep ties were due to Kemp having hired a longtime associate who was a registered lobbyist for ES&S.
+
+As Politico characterized it at the time: "Georgia likely to plow ahead with buying insecure voting machines." It also reported, "Critics argued that the bill appeared to be written with one vendor in mind: the voting technology giant Election Systems & Software, whose former top lobbyist, is now Kemp's deputy chief of staff."
+
+How many other states are conducting elections on grossly outdated or otherwise unreliable ES&S technology in 2018 and in 2020? This is an issue we are still investigating.
+
+In Georgia, it was Brad Raffensperger, a Republican who succeeded Kemp as the elections overseer, who announced Dominion Voting Systems as the new elections vendor.
+
+The most recent Georgia election seems to be the first election in recent Georgian history not marred by voting-machine controversy other than Trump's nakedly false claims of vote stealing and corruption aimed at Republican Raffensperger.
+
+The 2020 voting took place on a new system with an auditable paper ballot system. Three recounts, including an audit requiring "roughly 5 million votes in that contest to be recounted by hand" and as Secretary of State Raffensperger stated, showed results as close as imaginable.
+
+"We have now counted legally cast ballots three times, and the results remain unchanged," Raffensperger said. Furthermore, a judge declared Trump's legal team produced "precious little proof" in their pleadings.
+
+ES&S's revolving door policy means its lobbyists are taking top government official positions as well as government political appointees are becoming ES&S executives.
+
+One of these is Chris Wlaschin, who left the Trump administration in March 2018. He was the chief information security official in the Health & Human Services Department. A few weeks later he landed at ES&S as "its new vice president of systems security responsible for the company's security efforts."
+
+Wlaschin abruptly left the Trump administration after HHS Secretary Alex Azar received a letter from a lawyer representing two HHS executives. The letter asserted that Wlaschin improperly had removed the pair and cited an eye-popping false claim Wlaschin used to justify disciplinary action.
+
+"Mr. Wlaschin has stated that my clients were removed from their positions in order to protect an ongoing OIG investigation," wrote lawyer I. Charles McCullough, a former inspector general for the National Security Community.
+
+"You can, therefore, imagine the shock and surprise of my clients when they were both recently advised, unequivocally and categorically, by senior investigators from the HHS OIG, that neither of them are currently or were at any time in the past under investigation" by the inspector general's office, McCullough wrote.
+
+The letter was dated March 12, 2018. Wlaschin's resume says he joined ES&S the next month.
+
+The integrity of voting systems, and especially the ability to audit vote counts, has been the subject of public debate for more than four decades. But most of the recent attention has been focused on one company, Dominion Voting Systems, most recently because of frivolous lawsuits filed by Trump lawyers Rudy Giuliani and Sydney Powell and others. But is that simply a distraction.
+
+We think the issue of who counts our votes, how they are counted, and what ties the companies selling these systems have to politicians deserves more attention. Politicians who must win elections, in order to wield power, must not be able to exert influence on the companies we rely on to tally our votes. We need serious scrutiny over our elections so we can be assured that they represent the will of the people, not of the politicians themselves, and the companies they hire to process our ballots.

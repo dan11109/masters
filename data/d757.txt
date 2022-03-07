@@ -1,0 +1,15 @@
+Jovan Hutton Pulitzer is no ‘ordinary’ tech expert. He invented optical scanning tech that our entire economy now runs on. And he has a way to use that same tech expertise to authenticate the vote.
+
+The key problem with the absentee vote is the chain of custody question. How many of these ballots were mailed out, filled in by hand, returned (by mail), and lawfully cast? And how many were (as some have claimed) ‘unspoiled’ and — for example — never folded?
+
+What the human eye could never have detected, the computer can, easily and quickly.
+
+It can, with a quick and simple scan, examine the crease-and-fold patterns that would distinguish a properly mailed ballot from a dumped one, it can spot the difference between computer-filled circles and hand-completed ballots.
+
+We ran a story about his tech, what seems like forever ago — turns out it was only a couple of weeks ago on December 12th.
+
+Here’s a quick glimpse of what he’s looking at, and how his tech could really get to the bottom of this problem.
+
+Pulitzer explained how he could quickly audit their results using his technique of identifying fraudulent paper ballots and said he will do it for free. Mr. Pulitzer said he has “no regard for the smoke and mirrors of how the machines work.” – IT’S ALL ABOUT THE PAPER BALLOTS. “I don’t care about the machine. I don’t even care about the code that was written in the machine. What I care about is that physical artifact [ballot] and that physical artifact has material differences district to district that should not be there.” —TheSpectator
+
+The decision by the Senate Judiciary Committee to audit these votes was unanimous.

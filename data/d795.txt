@@ -1,0 +1,61 @@
+The Lenovo ThinkPad X1 Fold is one of the most futuristic devices of the year — the world’s first foldable PC. But like so many other first-generation products, it’s not for everyone.
+
+The who, what and how
+
+Who it’s for: As the world’s first foldable PC, the ThinkPad X1 Fold is for early adopters and those who are OK using an imperfect machine. Lenovo got the design right, and as it’s a ThinkPad, we don’t have many durability concerns. However, Windows 10 isn’t optimized for foldables, and it shows on the X1 Fold.
+
+What you need to know: At $2,499 with no keyboard and $2,749 with that attachment, it’s expensive to say the least. Add to that its buggy software, middle-of-the-row performance and not-so-great battery life, which hold it back. The ThinkPad X1 Fold is not for most people, and you likely shouldn’t buy this unless you truly don’t mind splurging for a cutting-edge but niche device.
+
+How it compares: The ThinkPad X1 Fold feels as durable as any other ThinkPad. It has the classic black color and is built tough. We also don’t have qualms about opening and closing it several times during a day. The issues begin to arise with Windows 10; the operating system as a whole is not ready for a device like this, and in use, it falls behind that of other laptops and 2-in-1s like the Surface Pro 7. You’ll also find that while it can handle light tasks, it’s not the best for things like Photoshop, video editing or gaming.
+
+Dating back to the IBM days and still true today, Lenovo’s ThinkPads are tanks in the world of computers. They’re not fragile or flimsy; rather, they’re strong and can take a beating.
+
+The ThinkPad X1 Fold packs that durability into a foldable. Unlike with the Galaxy Z Flip 5G, Motorola Razr or Galaxy Z Fold 2, we don’t have immediate concerns with opening and closing the X1 Fold.
+
+The physical frame of the X1 Fold is a combination of carbon fiber and magnesium alloy. It also comes in just one color: black. What’s different about the X1 Fold, when it comes to materials, is a leather back that feels quite high-end and makes the PC look like a luxury device. It feels really nice, and when the X1 Fold is closed, it resembles a classy notebook or casing.
+
+That leather back has a portion that can fold out, essentially allowing you to prop the X1 Fold up when it’s fully open. This way it can act as a display and you can use it as a desktop — although, truthfully, the experience is more equivalent to a Windows tablet, like a Surface Pro 7. After all, it’s only a 13.3-inch display.
+
+When it’s closed, you’ll see the glossy finish of the X1 Fold on the top, as the leather itself recoils back when folded. But when fully opened, the leather spans the back of the device. There are just two USB-C ports on the X1 Fold, and both can handle charging the device. You won’t find many buttons, either — just a power button with an LED indicator and a volume rocker.
+
+It’s best to think of this as a 13.3-inch clamshell Windows tablet that can be folded fully in half. You can use it unfolded in a vertical or horizontal position. It can be folded to a 90-degree angle, like the Z Flip, and used like a netbook or mini laptop with the optional keyboard. Although, let’s be frank: If you buy the X1 Fold, get the keyboard. It just doesn’t make sense not to.
+
+The design of the X1 Fold is equal parts futuristic and functional. It’s relatively compact at just over 2 pounds. For comparison, that’s lighter than a MacBook Air but heavier than an iPad Air. And it’s a design that’s highlighted by the hinge, which allows this device to be multimode in a way that’s radically different from a conventional laptop.
+
+You’ll know exactly where the hinge is, thanks to larger bezels around the display. The hinge is physically open on the sides. That’s a bit concerning, but we also didn’t encounter any issues with the fold or items getting lodged in the small opening.
+
+And if you opt for the keyboard, you can leave it on the display when the PC is folded. It will actually fill in the fold where a paper clip or a sharp object could potentially slide in and puncture the display.
+
+When unfolded, the display stretches to fill the full 13 inches and creates tension. This is by design and makes the display stronger in this position. Remember, this is an OLED polymer display and not glass. You also don’t need to be gentle when opening or closing the X1 Fold — that’s a noticeable difference from folding phones. However, when using it in a laptoplike format, we noticed discoloration, as the bottom half of the display is noticeably darker.
+
+The ThinkPad X1 Fold’s display is a 13.3-inch OLED with a 1536 x 2048 resolution. Images are reproduced accurately, but it lags behind other laptops with a full 4K display. The plastic nature of the display increases the glossy factor, as it’s super reflective. It’s really hard to use it in direct light or outdoors — especially when you add in the fact that it can’t get that bright.
+
+Performance is good enough, but software is buggy
+
+The ThinkPad X1 Fold has two big shortcomings: Windows isn’t optimized for foldables, and Lenovo’s customization only does so much. Intel’s Lakefield stacked processor provides expected performance but doesn’t shine with efficiency or a runway for high-powered tasks.
+
+Lenovo’s answer to switching from one big screen to a clamshell is a Mode Switcher. When it’s working, it will detect when you’re folding or turning the X1 Fold through the accelerometer. With that, you can select which app is where depending on your orientation. It’s an easy way to set you up for success, and it was handy for staying within two apps. But too many times it ended up not engaging when we needed it.
+
+You’ll also find that many apps aren’t optimized to run in these smaller scenarios or in the mini clamshell mode. Essentially, you snap the keyboard onto the right side of the X1 Fold (or the bottom half), and it turns that portion of the display off, leaving you with the top half. It allows you to use the X1 Fold as a mini laptop. You can use the keyboard and trackpad to navigate a 7-inch display. It’s been handy for quickly triaging an email inbox, but not much else.
+
+More importantly, though, for the apps that worked with it, the keyboard functioned well. You’ll also find that the keyboard, which attaches magnetically and charges wirelessly, uses a lot of power. In this mode, we suggest being plugged in, which takes away from the practicality of using this on the go.
+
+And when it’s working properly, the X1 Fold recognizes the keyboard is there in just a matter of seconds. The dock will get moved up and you’ll be ready to rock. And while instances of it not recognizing the keyboard were more prominent before several updates, it still occasionally occurs when turning the X1 Fold on or after a restart.
+
+It all comes down to the fact that Windows 10 isn’t designed for a device like this. Windows 10X, an optimized version of Windows 10 for foldables, would likely squash a lot of issues, but it’s delayed. It was teased alongside the Surface Neo, a folding Surface device, which is also delayed. A lot of the updates fall on Lenovo, and it tried to squash as many issues as it could. The other half falls on individual app developers to take advantage of a design like this.
+
+When the X1 Fold works, namely the mode switcher, it’s great. But when it doesn’t, it really feels like a first-generation product. And as far as the processor goes, the X1 Fold performs well for a mobile architecture chip from Intel. To get specific, it’s an Intel Hybrid Processor — the i5-L16G7 — with 8GB of RAM. And for most tasks it will be enough to power them; web browsing, word processing, big spreadsheets and even the occasional photo edit worked well on the X1 Fold.
+
+It just cannot scale, but then again the X1 Fold is designed as a business laptop. We tried some gaming on it and The Sims 4 was playable. Any high-powered title, though, would crash or just not run when we tried. We also found that for some titles, the auto orientation will cause the app to crash or quit, so be careful of your movements while using this PC.
+
+To put the performance into perspective, we ran the ThinkPad X1 Fold through Geekbench 5, which stress-tests a machine with real-world use cases. The ThinkPad X1 Fold scored an 822 on the single-core test and a 1,738 on the multi-core test. It’s middle of the road and lags behind several devices, including the Intel MacBook Air, the M1 MacBook Air and the Surface Laptop Go.
+
+It’s just not a very efficient processor in its current state. The efficiency concerns carry over into battery life as well. In everyday use, we found that the keyboard drained a lot of power and shrunk our workdays. And when we used the X1 Fold for a full workday, it required a charger nearby.
+
+It scored behind all of the aforementioned laptops and several others in our battery test, clocking in at six hours and 15 minutes.
+
+From the costly price alone, the ThinkPad X1 Fold isn’t for most. And the fact that it’s a foldable PC makes it an even tougher sell. In its current state, the ThinkPad X1 Fold is a pretty niche product and you’ll likely be better served from a ThinkPad X1 Carbon, a Dell XPS 13, a Surface Pro X or even a Surface Pro 7. Those 2-in-1s feature great hardware and a nearly perfect software experience.
+
+Even so, we appreciate what Lenovo has done here. The hardware and design of the X1 Fold is excellent. It’s the first foldable screen that we aren’t afraid to apply pressure to. But there’s still work to be done here — the software experience needs to improve, and a good chunk of that falls on the Windows team.
+
+Lenovo is clearly on to something here with the X1 Fold, though.

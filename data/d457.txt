@@ -1,0 +1,117 @@
+In a Zoom session with the camera turned off, Mayowa describes how he scoops up U.S. unemployment benefits fattened by COVID-19 relief, an international imposter attack that has contributed to at least $36 billion being siphoned away from out-of-work Americans.
+
+Mayowa is an engineering student in Nigeria who estimates he’s made about $50,000 since the pandemic began. After compiling a list of real people, he turns to databases of hacked information that charge $2 in cryptocurrency to link that name to a date of birth and Social Security number.
+
+In most states that information is all it takes to file for unemployment. Even when state applications require additional verification, a little more money spent on sites such as FamilyTreeNow and TruthFinder provides answers – your mother’s maiden name, where you were born, your high school mascot. Mayowa said he is successful about one in six times he files a claim.
+
+“Once we have that information, it’s over,” Mayowa said. “It’s easy money.”
+
+Mayowa agreed to take USA TODAY inside the fraud in an interview arranged by security firm Agari, using only his first name to hide his identity. The security company gives him another source of cash: It pays him in Bitcoin to provide information about active scams.
+
+Coronavirus-era unemployment fraud was first identified in the state of Washington in May and since has spread to all 50 states, skipping to new targets as government agencies plug holes exposed by the massive scams. Mayowa and his crew of foreign scammers focused in November on Hawaii, Florida and Pennsylvania.
+
+In addition to the crushing volume of legitimate claims during COVID-19 and public pressure to speed up payments, mobile banking apps and prepaid debit cards issued by some state unemployment offices paved the way for fraud this year, security experts said.
+
+The step-by-step playbook the scammers follow is shared on Telegram, an app that provides cloud-based anonymous messaging and acts as an internet bulletin board of tips and questions.
+
+Asked whether he feels bad about stealing from unemployed Americans, Mayowa pointed out that 70% of his peers in school are working the scams as side hustles, too.
+
+“No, no remorse,” Mayowa said. “We don’t know them. We don’t know who they are; it’s nobody.”
+
+States for years had prepared for low-level fraud, focusing on whether actual state residents filing for unemployment were telling the truth. The recent wave of imposter fraud – including from overseas – caught them off guard.
+
+In Washington, alarms began flashing red for Suzi LeVine on May 12. It was 10 p.m. and the message was clear: We are under attack.
+
+The commissioner of the state’s unemployment system knew claims were increasing as the pandemic and its economic devastation spread. But suddenly claims were 10-fold what LeVine expected.
+
+Things got crazy quickly. Within two weeks of CARES Act funding enriching weekly benefits, $600 million had been bled from the state system – roughly 8% of the $8.6 billion paid over the summer. The state pulled the plug on all payments for two days while it struggled to figure out what was happening.
+
+Eventually, the state’s computers started to flag anomalies: out-of-state banks, duplicate email addresses and multiple names using the same bank accounts. But there and elsewhere, antiquated state computer systems failed to flag foreign IP addresses, repeated computer serial numbers and techniques to mask that number.
+
+Washington generally sees a few dozen fraudulent claims from imposters a year. Since March, the state has identified 122,000.
+
+“When you consider the policy factors accelerating benefits and getting them to the neediest people and the expanded $600 available … we had the perfect storm,” said LeVine, who served as ambassador to Switzerland during the Obama administration. “They have been lying in wait for this moment.”
+
+Washington should’ve been a wakeup call for every other state. Instead, it took some states six months or more to introduce new two-factor authentication systems and third-party ID verification tools and to block suspicious addresses. Many also began relying more heavily on a national shared database to detect suspicious actors.
+
+A failure to move quickly combined with the ingenuity of the scammers has allowed the fraud to continue rippling across the country, contributing to delays in payments to out-of-work Americans, according to Michele Evermore, a policy analyst at the National Employment Law Project.
+
+“These fraudsters are like velociraptors,” Evermore said. “Once they find one piece of the gate is mended, they’ll move on to another part to attack.”
+
+The Department of Labor’s Office of the Inspector General estimated in a November report that these schemes and others targeting pandemic unemployment payments represented about $36 billion in losses through November.
+
+USA TODAY contacted unemployment departments in all 50 states to ask how much fraud had been paid out, and how much had been recovered. Of the half that responded, only eight have released the amount of taxpayer dollars they improperly paid out in fraud – a fraction of the national estimate.
+
+Many states are reticent to discuss the situation, citing security concerns as well as difficulty quantifying what meets the definition of a fraud scheme. Some declined to even estimate loss numbers – or downplayed their significance.
+
+Nevada officials say determining that a claim is fraudulent requires interviews with claimants and a “due process opportunity to present evidence.”
+
+The Arkansas Division of Workforce Services “has chosen not to respond to this request,” wrote Zoë Calkins, spokeswoman for the unemployment insurance agency.
+
+In September, the federal Labor Department gave $100 million to state systems to combat fraud. But state unemployment commissioners say they’re still chronically underfunded, working with decades-old technology that can’t keep up with increasingly complex schemes to bypass identity safeguards.
+
+“One of the consequences of having a system that hasn’t been modernized is that it is extremely challenging to deal with the concerted fraudulent attacks,” said Rosa Mendez, a Nevada spokeswoman.
+
+The Department of Labor, the FBI and the Secret Service say they’re working together to uncover fraud, plug holes in identity verification systems and claw back millions in improper payments.
+
+Prosecutors have tracked down a handful of “threat actors” and “money mules” – U.S. residents who help carry out the schemes. Agari, the security contractor, estimated that Nigerians are responsible for half of all international scams that fall under the umbrella of business email compromise, including unemployment, romance and "get rich quick while you work from home" offers. About a quarter of those reach the U.S.
+
+The goal is to recover as much of the pilfered funds as possible. Washington state, for instance, has recovered $357 million of the $600 million stolen.
+
+In late October, Kelly Maculan received a letter from the Illinois unemployment system confirming her last day of work had been April 3.
+
+Except Maculan wasn't out of work. She was employed full time as an office manager near Chicago. So, she called the number on the letter to notify the state of the error and figured that would be the end of it.
+
+Days later, she received another notice that an $822 direct deposit to her had been flagged as fraud – and that she would need to repay it or face legal action.
+
+Maculan was irate. She has spent the past eight weeks struggling through long wait times and unfulfilled promises to call her back. After her employer got involved, the state told her this month to disregard all the notices.
+
+Scammers need actual people to file their fictitious claims, looking for those who have not already filed on their own. In Maculan’s case, she has no idea how someone got her personal information, although she noted that her Discover card was breached years ago.
+
+She blames the state for not having “a system set up to avoid this issue.”
+
+Illinois officials declined to comment specifically on Maculan’s case, and they were among those who wouldn’t estimate how much in improper payments they’ve issued since March. Spokesman Will Gomberg did say the Illinois Department of Employment Security has stopped over 341,000 claims due to identity theft since March 1.
+
+“If a victim received a notice stating that they owe us money after they reported fraud, this notice of overpayment was sent in error,” Gomberg said. “We want to apologize for any anxiety this may have caused, and we want to reassure victims that they do not owe any money as a result of a fraudulent claim.”
+
+Unemployment payments rarely flow directly to the scammers. Instead, experts say fraudsters launder the money through online accounts and people with legitimate U.S. bank accounts.
+
+That not only obscures the scammer’s identity but makes it harder for the government to detect the fraud and recoup funds.
+
+Mobile banking and other online money-transfer apps have opened up new avenues for moving money around more easily. They allow access to accounts without anyone ever appearing in person – even avoiding cameras at ATMs – and offer debit cards that are easily moved on the black market.
+
+Scammers used Green Dot accounts to transfer funds in bulk in the Washington fraud, LeVine said. Mayowa, the scammer in Nigeria, said fraudsters also use Venmo, PayPal, Cash App and Walmart2Walmart to extract funds.
+
+“Once those funds go to a Green Dot account, they’re often transferred through a series of movements into mules based in the U.S. probably, then moved offshore in two to three hops,” said Armen Najarian, chief identity officer of Agari, the security firm.
+
+Philip Lerma, chief risk officer at Green Dot, said the company is aware of its role in the unemployment fraud and is taking an active role in identifying problems.
+
+“For cases related to unemployment funds, we immediately engage state agencies and other third parties to make them aware of potentially fraudulent activity and help them assess, confirm and address it quickly and effectively,” Lerma wrote. “In many cases, using advanced device forensics, data analysis and other proprietary controls, we’ve been able to identify suspicious activity and prevent fraudulent transfers before they go through.”
+
+A network of so-called “money mules” includes full co-conspirators and those who have been groomed – sometimes for years – and may be unaware of their role. Najarian estimated that half are unwitting partners of puppeteers in Nigeria, South Africa or the United States.
+
+Judy Middleton, 70, of Ridgeland, Mississippi, is accused by federal prosecutors of serving as a money mule for a sophisticated scam, one of those that targeted Washington’s unemployment system. She appears to have no other criminal history. The retiree and grandmother told the court she has two homes, a motor home and two vehicles.
+
+In a federal case filed in Jackson, Mississippi, in November, prosecutors said a criminal ring filed unemployment claims on behalf of eight people whose direct deposit payments flowed to Middleton’s bank account, $79,922 in total. It’s unclear from the court records who was orchestrating the scam.
+
+Prosecutors say Middleton withdrew the money via ATMs and cashier’s checks. She also bought Walmart and Kroger gift cards and sent money via wire transfers to other bank accounts.
+
+In one instance, prosecutors say, Middleton packaged up $19,000 in cash and mailed it through the U.S. Postal Service to a man in Colorado.
+
+If convicted of all 19 fraud charges, Middleton would face hundreds of years in prison, fines and supervision. Her trial has been delayed until March. Neither she nor her attorney answered phone calls seeking comment.
+
+Since March, backlogs and political pressure have forced the resignation of two state insurance commissioners in Florida and Oklahoma. Two others, in Kentucky and Wisconsin, have been fired.
+
+Pressure mounted for Washington Gov. Jay Inslee to fire his commissioner, LeVine, too, after hundreds of millions in public funds were stolen.
+
+So far, LeVine has kept her job. She says the department worked quickly to find holes and plug them while alerting other states to prepare. She got training from her staff on verifying identification and worked alongside the National Guard, which had offered emergency help.
+
+“We’ve been humbled by being the first out of the gate to suffer this attack, but we’ve grown and improved our responsiveness,” LeVine said.
+
+California officials drew headlines recently for announcing they suspect as much as $2 billion was paid out in improper payments. Other states have reported lower losses: $242 million in Massachusetts, $200 million in Michigan, $18 million in Rhode Island, $8 million in Arizona and $6 million in Wisconsin.
+
+Three states that declined to share their numbers – Oregon, Tennessee and West Virginia – issued identical statements to USA TODAY, saying they “cannot discuss details involving ongoing fraud prevention tactics, investigations, or the scope of potentially fraudulent activity.”
+
+None of those officials would say where the statement came from. All states belong to the same lobby organization, the National Association of State Workforce Agencies. That association did not respond to requests for comment.
+
+Nick Penzenstadler is a reporter on the USA TODAY investigations team. He can be reached at npenz@usatoday.com or @npenzenstadler, or on Signal at (720) 507-5273.

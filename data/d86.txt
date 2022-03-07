@@ -1,0 +1,63 @@
+Los Angeles is launching a digital iPhone receipt for COVID-19 vaccinations, which could one day become a 'vaccine passport' that would be required for such activities as airline travel and live concerts.
+
+The plan being rolled out this week will see Los Angeles County partner with tech firm Healthvana to issue the digital verifications, which can be put in an Apple Wallet or the Android equivalent, Bloomberg reported.
+
+The project is initially aimed at ensuring that people who get the first shot of the approved Pfizer or Moderna vaccines also get the required booster shot, including through follow-up notifications.
+
+But the digital receipt could also be used 'to prove to airlines, to prove to schools, to prove to whoever needs it,' that a person has been vaccinated, Healthvana CEO Ramin Bastani told Bloomberg.
+
+But critics fear it marks the emergence of a vaccine surveillance state, where digital 'passports' are required for everything from flying on a plane to going to the movies.
+
+LA's vaccine receipts come as the county has emerged as the latest U.S. epicenter of the coronavirus pandemic, topping 7,000 Covid hospitalizations for the first time Monday.
+
+Health officials hope that digital records can help streamline the complex two-step vaccination process, ensuring that no doses go to waste on people who fail to get the required booster shot.
+
+But privacy groups have warned of the potential future effects of a 'data grab' of medical information by government and private companies.
+
+'This great moment of hope must not be seen opportunistically as yet another data grab,' the advocacy group Privacy International said in a statement.
+
+'The deployment of vaccines, and in particular any 'immunity passport' or certificate linked to the vaccination, must respect human rights,' the group added.
+
+In May, the ACLU wrote: 'Any immunity passport system endangers privacy rights by creating a new surveillance infrastructure to collect health data. It is one thing for an employee to voluntarily disclose their COVID-19 status to an employer on a one-off basis. But it is another for that information to be collected and retained, either by the government or by private companies offering immunity certifications.
+
+'The existing legal framework may not be sufficient to prevent this information from being shared, especially if it is held by private entities.'
+
+A 'vaccine passport' system would also raise questions about what to do with people who have natural antibodies to the virus after recovering from an infection.
+
+The vaccines currently being administered in the U.S. are also currently not approved for anyone under the age of 16, because of the lack of clinical data for that age group, raising questions about how children would be treated under a passport regime.
+
+And as vaccination has proceeded much more slowly than the federal government had projected, with little more than two million shots administered to date, a passport system raises concerns about a two-tiered society that shuts out those who have been unable to access the vaccine.
+
+The ACLU wrote: 'As tempting as immunity passports may be for policymakers who want a quick fix to restart economic activity in the face of widespread suffering from the COVID-19 pandemic, they present both public health and civil rights concerns that cannot be overlooked.
+
+'Immunity passports incentivize vulnerable people to contract the disease, and raise the prospect of another hierarchical system, separating us into two categories — those with COVID-19 immunity, who are given preferential access to employment, housing, or public accommodations — and those without.
+
+'This division would likely worsen existing racial, disability, and economic disparities in America and lead people struggling to afford basic necessities to deliberately risk their health.'
+
+Privacy International have said: 'Until everyone has access to an effective vaccine, any system requiring a passport for entry or service will be unfair. The vaccine is a public health exercise, and must not be a new discriminator.'
+
+Australian airline Qantas has already announced that it will start requiring coronavirus shots for all passengers on its international flights.
+
+Businesses such as concert venues and live sports, which are desperate to bring back crowds as soon as possible, have also suggested that vaccine passports could jump-start the economy, a stopgap measure until the pandemic is crushed once and for all.
+
+Last month, Ticketmaster announced that it would be rolling out an option within its digital ticket app that would allow event organizers to require proof of vaccination or a recent negative COVID test.
+
+The company quickly backpedaled after facing backlash, issuing a statement clarifying that 'there is absolutely no requirement from Ticketmaster mandating vaccines/testing for future events.'
+
+A number of companies are working on digital vaccination verification systems, including IBM and Clear, a security company that uses biometric technology to confirm people's identities at airports.
+
+The International Air Transport Association (IATA) is promoting a vaccine passport called the IATA Travel Pass, which is still under development.
+
+The system would inform passengers which tests, vaccines and other measures they require before traveling, and provide digital verification of tests and vaccinations to airlines or other authorities.
+
+Heath data faces stringent regulations under federal law, which the companies pursuing vaccine passports all say they are complying with.
+
+The patchwork of different proposals has also raised fears that vaccine verification systems adopted in one state or country may not be compatible with those elsewhere.
+
+The Commons Project, in conjunction with The World Economic Forum and a range of public and private partners, hopes to solve that problem with CommonPass, 'a trusted, globally-interoperable platform.'
+
+'You can be tested every time you cross a border. You cannot be vaccinated every time you cross a border,' Thomas Crampton, chief marketing and communications officer for The Commons Project, told CNN Business.
+
+However, Ramin Bastani, the CEO of Healthvana, expressed doubt that any one vaccine verification service would become ubiquitous across the country.
+
+'It's not going to be like one credit card you can use across the U.S.,' he told Bloomberg. 'Sometimes you can pay cash, sometimes you can use your Apple Wallet.'
