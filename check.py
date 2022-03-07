@@ -2,7 +2,7 @@ from KL_Divergence import get_result
 import nltk
 nltk.download('pukt')
 nltk.download('stopwords')
-#nltk.download('wordnet')
+nltk.download('wordnet')
 exit()
 
 print()
