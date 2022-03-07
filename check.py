@@ -1,9 +1,9 @@
 from KL_Divergence import get_result
 import nltk
-#nltk.download('pukt')
-#nltk.download('stopwords')
+nltk.download('pukt')
+nltk.download('stopwords')
 #nltk.download('wordnet')
-#exit()
+exit()
 
 print()
 #query_doc=input("Enter the doc which you need to check for\n")
