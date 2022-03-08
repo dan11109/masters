@@ -54,7 +54,7 @@ class Index:
                 elif 'stemming' in type_op:
                     [self.dict_lemm_or_stem[key].append(stemmer.stem(x)) for x in self.dict_list[key]]
 
-                self.dict_lemm_or_stem[key]=[x for x in self.dict_lemm_or_stem[key] if x is not '']
+                self.dict_lemm_or_stem[key]=[x for x in self.dict_lemm_or_stem[key] if x != '']
            
     
     def preprocess_query_doc(self,filename,encoding="utf-8"):
@@ -64,7 +64,7 @@ class Index:
         f = io.open('data/'+filename, mode="r", encoding=encoding)
         lines = f.read()
         process_string = re.sub('[^a-zA-Z0-9]', ' ', lines.rstrip())
-        string_updated = [x for x in process_string.lower().split(" ") if x not in self.stop_words if x is not '']
+        string_updated = [x for x in process_string.lower().split(" ") if x not in self.stop_words if x != '']
         lemmatizer=WordNetLemmatizer()
         stemmer=PorterStemmer()
         if 'lemmatize' in self.operation:
@@ -72,7 +72,7 @@ class Index:
         elif 'stemming' in self.operation:
             result=[stemmer.stem(x) for x in string_updated]
 
-        result=[x for x in result if x is not '']
+        result=[x for x in result if x != '']
         
         '''
         if(filename == 'd1.txt'): #checking words left 
