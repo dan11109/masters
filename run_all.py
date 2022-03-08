@@ -5,8 +5,10 @@ import math
 import re
 from collections import Counter
 from build_index import Index
+from scipy import spatial
 import cosine
 import json 
+import pickle
 
 
 multi_source = False 
@@ -23,100 +25,192 @@ if __name__ == "__main__":
 
 	kl,source,kf1,kf2 = get_result(source_file) #sorted(get_result('d1.txt').items(), key = lambda kv:(kv[1], kv[0]),reverse=True)
 
+
+
+	#Load sentences & embeddings from disc
+
+	with open('embeddings.pkl', "rb") as fIn:
+	    stored_data = pickle.load(fIn)
+	    stored_order = stored_data['order']
+	    stored_embeddings = stored_data['embeddings']
+
+
+
+
+
+	cos_bert = []
+	for i in range(len(stored_embeddings)): 
+
+		if(stored_order[i] == source_file[:-4]):
+			continue
+
+		emb = stored_embeddings[i]
+		dist = 1 - spatial.distance.cosine(stored_embeddings[0], emb)
+		
+		cos_bert.append( (dist,stored_order[i]) )
+
+
+
+	cos_bert.sort(reverse=True)
+	
+	bert_order = []
+	top_bert = []
 	top_cos = []
 	top_kl = []
 	kl_order = []
 	cos_order = []
-	print('Art\t\tKL\t\t\t\tArt\t\tCOSINE')
+	print('Art\t\tKL\t\t\t\tArt\t\tCOSINE\t\t\t\tArt\t\tBERT')
 
-	for i in range(len(kl)):
+	for i in range(len(kl)): #filter for sourse 
 
-		kl_order.append(kl[i][0])
-		cos_order.append(cos[i][1])
+		if(multi_source or (info[source_file[:-4]]['source'] != info[kl[i][0]]['source'])):
+			top_kl.append(kl[i][0])
+			kl_order.append(kl[i][1])
+		
+		if(multi_source or (info[source_file[:-4]]['source'] != info[cos[i][1]]['source'])):
+			top_cos.append(cos[i][1])
+			cos_order.append(cos[i][0])
 
-		if(len(top_kl) < 20 or len(top_cos) < 20):
-			if(multi_source or (info[source_file[:-4]]['source'] != info[kl[i][0]]['source'])):
-				print(kl[i][0]+"\t\t"+str(kl[i][1]),end = '\t\t')
-				top_kl.append(kl[i][0])
-			
-
-			if(multi_source or (info[source_file[:-4]]['source'] != info[cos[i][1]]['source'])):
-				print(cos[i][1] + '\t\t' + str(cos[i][0]))
-				top_cos.append(cos[i][1])
+		if(multi_source or (info[source_file[:-4]]['source'] != info[cos_bert[i][1]]['source'])):
+			top_bert.append(cos_bert[i][1])
+			bert_order.append(cos_bert[i][0])
 		
 
+	for i in range(20):
+		print(top_kl[i] +"\t\t"+str(kl_order[i]),end = '\t\t')
+		print(top_cos[i] + '\t\t' + str(cos_order[i]),end ='\t\t')
+		print(top_bert[i] + '\t\t' + str(bert_order[i]))
 
-	set_cos = set(top_cos)
-	set_kl = set(top_kl)
-	only_cos = set_cos - set_kl
-	only_kl = set_kl - set_cos
 
-	print("Only in cos top 20:")
+
+
+	set_bert = set(top_bert[:20])
+	set_cos = set(top_cos[:20])
+	set_kl = set(top_kl[:20])
+
+
+	only_cos = set_cos - set_kl - set_bert
+	only_kl = set_kl - set_cos - set_bert
+	only_bert = set_bert - set_cos - set_kl
+
+
+
 	print()
+	print('Number in commom: bert and cosine top 10: ')
+	print(len(  set(top_bert[:10]).intersection(set(top_cos[:10]))  ))
+	print()
+	print('Number in commom: KL and cosine top 10: ')
+	print(len(  set(top_kl[:10]).intersection(set(top_cos[:10]))  ))
+	print()
+	print('Number in commom: bert and KL top 10: ')
+	print(len(  set(top_bert[:10]).intersection(set(top_kl[:10]))  ))
+	print()
+	print('Number in commom all for top 10:')
+	print(len(  set(top_bert[:10]).intersection(set(top_kl[:10])).intersection(set(top_cos[:10]))  ))
+	print()
+
+	print()
+	print('Number in commom: bert and cosine top 50: ')
+	print(len(  set(top_bert[:50]).intersection(set(top_cos[:50]))  ))
+	print()
+	print('Number in commom: KL and cosine top 50: ')
+	print(len(  set(top_kl[:50]).intersection(set(top_cos[:50]))  ))
+	print()
+	print('Number in commom: bert and KL top 50: ')
+	print(len(  set(top_bert[:50]).intersection(set(top_kl[:50]))  ))
+	print()
+	print('Number in commom all for top 50:')
+	print(len(  set(top_bert[:50]).intersection(set(top_kl[:50])).intersection(set(top_cos[:50]))  ))
+	print()
+
+	print()
+	print('Number in commom: bert and cosine top 100: ')
+	print(len(  set(top_bert[:100]).intersection(set(top_cos[:100]))  ))
+	print()
+	print('Number in commom: KL and cosine top 100: ')
+	print(len(  set(top_kl[:100]).intersection(set(top_cos[:100]))  ))
+	print()
+	print('Number in commom: bert and KL top 100: ')
+	print(len(  set(top_bert[:100]).intersection(set(top_kl[:100]))  ))
+	print()
+	print('Number in commom all for top 100:')
+	print(len(  set(top_bert[:100]).intersection(set(top_kl[:100])).intersection(set(top_cos[:100]))  ))
+	print()
+
+	#write to html
+	file = open("output.html","w")
+
+	file.write("<br />\n")
+	file.write("Only in cos top 20:")
+	file.write("<br />\n")
 	for i in only_cos:
-		print(kl_order.index(i))
-		print(info[i]['title'])
-		print(info[i]['url'])
-		print()
+		file.write('KL index: ' + str(top_kl.index(i)))
+		file.write("<br />\n")
+		file.write(info[i]['title'])
+		file.write("<br />\n")
+		file.write(info[i]['url'])
+		file.write("<br />\n")
+		file.write('<a href="' + info[i]['url'] + '"> Link </a>')
+		file.write("<br />\n")
+		file.write("<br />\n")
 
-
-	print("Only in kl top 20:")
-	print()
+	file.write("Only in KL top 20:")
+	file.write("<br />\n")
 	for i in only_kl:
-		print(cos_order.index(i))
-		print(info[i]['title'])
-		print(info[i]['url'])
-		print()
+		file.write('Cos index: ' + str(top_cos.index(i)))
+		file.write("<br />\n")
+		file.write(info[i]['title'])
+		file.write("<br />\n")
+		file.write(info[i]['url'])
+		file.write("<br />\n")
+		file.write('<a href="' + info[i]['url'] + '"> Link </a>')
+		file.write("<br />\n")
+		file.write("<br />\n")
 
 
-	print("Common to both:")
-	print()
-	for i in set_cos.intersection(set_kl):
-		print(info[i]['title'])
-		print(info[i]['url'])
-		print()
+	file.write("Only in BERT top 20:")
+	file.write("<br />\n")
+	for i in only_bert:
+		file.write('Cos index: ' + str(top_cos.index(i)))
+		file.write("<br />\n")
+		file.write('KL index: ' + str(top_kl.index(i)))
+		file.write("<br />\n")
+		file.write(info[i]['title'])
+		file.write("<br />\n")
+		file.write(info[i]['url'])
+		file.write("<br />\n")
+		file.write('<a href="' + info[i]['url'] + '"> Link </a>')
+		file.write("<br />\n")
+		file.write("<br />\n")
 		
 
-	print("Source article:") # source url title
-	print(info[source_file[:-4]]['title'])
-	print(info[source_file[:-4]]['url'])
-	#print(info[source_file[:-4]]['source'])
 
-	print()
-	print("Cosine closest")
-	print(info[top_cos[0]]['title'])
-	print(info[top_cos[0]]['url'])
-	print()
+	file.write("Common to all:")
+	file.write("<br />\n")
+	for i in set_cos.intersection(set_kl).intersection(set_bert):
+		file.write(info[i]['title'])
+		file.write("<br />\n")
+		file.write(info[i]['url'])
+		file.write("<br />\n")
+		file.write('<a href="' + info[i]['url'] + '"> Link </a>')
+		file.write("<br />\n")
+		file.write("<br />\n")
 
+		
 
-
-	print('KL closest')
-	print(info[top_kl[0]]['title'])
-	print(info[top_kl[0]]['url'])
-	print()
-
-
-	'''
-
-	print()
-	print("Source article:")
-	print(source)
-	print()
-
-	print("Cosine closest")
-	print()
-	print(file1)
-	print()
-	print(file2)
-
-	print('KL closest')
-	print()
-	print(kf1)
-	print()
-	print(kf2)
-	print()
+	file.write("Source article:") # source url title
+	file.write("<br />\n")
+	file.write(info[source_file[:-4]]['title'])
+	file.write("<br />\n")
+	file.write(info[source_file[:-4]]['url'])
+	file.write("<br />\n")
+	file.write('<a href="' + info[source_file[:-4]]['url'] + '"> Link </a>')
 
 
-	'''
+
+	file.close()
+
+
+
 
 

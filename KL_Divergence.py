@@ -60,3 +60,5 @@ def get_result(data):
         result = sorted(final.items(), key = lambda kv:(kv[1], kv[0]),reverse=True)
 
     return result,inn.all_files[query_doc1],inn.all_files[result[0][0]],inn.all_files[result[1][0]]
+
+    

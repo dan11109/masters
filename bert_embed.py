@@ -1,22 +1,48 @@
 
-
-
+import math
+import re
+from collections import Counter
+from build_index import Index
+from scipy import spatial
+import pickle
 from bert.sentenceTransformers.sentence_transformers import SentenceTransformer
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-#Our sentences we like to encode
-sentences = ['This framework generates embeddings for each input sentence',
-    'Sentences are passed as a list of string.', 
-    'The quick brown fox jumps over the lazy dog.']
+
+
+query_doc = "d1.txt"
+query_doc1 = query_doc[:-4]
+
+inn=Index()
+inn.retrieve_file()
+inn.tok_lem_stem(type_op='lemmatize')
+inn.inverted_index_constr()
+inn.calculate_tf_idf(test_file=query_doc)
+inn.tfidf_of_query(query_doc1)
+
+
+sentences = []
+order = []
+for file in inn.all_files.keys():
+    tmp = file + ".txt"
+    string =  ' '.join(inn.preprocess_query_doc(filename=tmp))
+    sentences.append(string)
+    order.append(file)
+    
+  
+
 
 #Sentences are encoded by calling model.encode()
 embeddings = model.encode(sentences)
 
-#Print the embeddings
-for sentence, embedding in zip(sentences, embeddings):
-    print(len(sentence))
-    print(len(embedding))
-    print("Sentence:", sentence)
-    print("Embedding:", embedding)
-    print("")
+
+
+#Store sentences & embeddings on disc
+#with open('embeddings.pkl', "wb") as fOut:
+#    pickle.dump({'sentences': sentences, 'embeddings': embeddings}, fOut, protocol=pickle.HIGHEST_PROTOCOL)
+
+
+with open('embeddings.pkl', "wb") as fOut:
+
+    pickle.dump({'order': order, 'embeddings': embeddings}, fOut, protocol=pickle.HIGHEST_PROTOCOL)
 

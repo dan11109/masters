@@ -25,10 +25,10 @@ class Index:
         
         
         #print(self.directory)
-        for _,filename in enumerate(os.listdir(self.directory  + '/data')): # + '/data'
+        for _,filename in enumerate(os.listdir(self.directory  + '/olddata')): # + '/olddata'
             if filename.endswith(".txt"):
                 #print(filename)
-                f = io.open('data/' + filename, mode="r", encoding=encoding) # 'data/' + 
+                f = io.open('olddata/' + filename, mode="r", encoding=encoding) # 'data/' + 
                 lines = f.read()
                 self.all_files[filename.replace('.txt','')]=re.sub('[^a-zA-Z0-9]', ' ', lines.rstrip())
                 #self.all_files is a dict that contains all the text present in a word doc in the format{"FILE_NAME":"TEXT IN THE FILE"}
@@ -61,7 +61,7 @@ class Index:
         
         #Preprocess the query document in the same order as the corpus was preprocessed
         
-        f = io.open('data/'+filename, mode="r", encoding=encoding)
+        f = io.open('olddata/'+filename, mode="r", encoding=encoding)
         lines = f.read()
         process_string = re.sub('[^a-zA-Z0-9]', ' ', lines.rstrip())
         string_updated = [x for x in process_string.lower().split(" ") if x not in self.stop_words if x is not '']
@@ -121,4 +121,3 @@ class Index:
                     self.tfidf_query_doc.append(y[1]) 
 
 
-#kilars2@rpi.edu
