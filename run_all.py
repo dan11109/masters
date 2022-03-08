@@ -97,7 +97,7 @@ if __name__ == "__main__":
 
 	print()
 	print('Number in commom: bert and cosine top 10: ')
-	print(len(  set(top_bert[:10]).intersection(set(top_cos[:10]))  ))
+	print(len(  set(top_bert[:10]).intersection(set(top_cos[:10])) ))
 	print()
 	print('Number in commom: KL and cosine top 10: ')
 	print(len(  set(top_kl[:10]).intersection(set(top_cos[:10]))  ))
