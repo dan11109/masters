@@ -43,7 +43,7 @@ class Index:
             lemmatizer=WordNetLemmatizer()
             stemmer=PorterStemmer()
             self.dict_list[key]=[]
-            [self.dict_list[key].append(x) for x in self.all_files[key].lower().split(" ") if x not in self.stop_words if x is not '']
+            [self.dict_list[key].append(x) for x in self.all_files[key].lower().split(" ") if x not in self.stop_words if x != '']
             # self.dict_list is a processed version of self.all_files with case folding done and stop words removed
             
             #To perform lemmatization of stemming based on user input
