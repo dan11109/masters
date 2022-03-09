@@ -36,6 +36,7 @@ if __name__ == "__main__":
 
 
 
+	sourse_embed = stored_embeddings[stored_order.index(source_file[:-4])]
 
 
 	cos_bert = []
@@ -45,7 +46,7 @@ if __name__ == "__main__":
 			continue
 
 		emb = stored_embeddings[i]
-		dist = 1 - spatial.distance.cosine(stored_embeddings[0], emb)
+		dist = 1 - spatial.distance.cosine(sourse_embed, emb)
 		
 		cos_bert.append( (dist,stored_order[i]) )
 
