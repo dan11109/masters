@@ -1,0 +1,19 @@
+Puzzle fans are racing to download Wordle after it emerged they could save over 2,000 days’ worth of the game’s current incarnation, as speculation mounts that its new owner the New York Times will start charging a fee for use.
+
+Technology policy expert Aaron Rieke revealed that users worried about the free game’s future could simply save the webpage where the game currently runs.
+
+Wordle, created by the Welsh software engineer Josh Wardle, was sold to the New York Times this week for an undisclosed seven-figure sum after going viral over the past month.
+
+The game involves users attempting to guess a five-letter word, which changes each day, within six guesses, receiving hints along the way if they guess correct individual letters.
+
+The New York Times said Wordle would “initially” remain free. However, in the longer-term the game may be incorporated into the news organisation’s $5 a month puzzle subscription.
+
+Because Wordle runs in a web browser, with the game and its next 2,135 words contained in the page’s source code, users can simply download an offline version of the game, which they can play for almost six years.
+
+They would also be able to play the game on historical versions of the webpage, stored by the non-profit Internet Archive.
+
+Mr Rieke said: “You could save [a] copy of the website right now, unplug your computer from the internet, and play Wordle every day for years.”
+
+Last month, a swarm of paid-for Wordle clones hit Apple and Google’s app stores, since the game is easy to replicate and does not have an app. Apple has since removed many of these clones.
+
+At least 2m people are believed to play Wordle daily. The game has grown after Mr Wardle made it easy to share results, which show up in a combination of yellow and green blocks.

@@ -1,0 +1,43 @@
+If you’ve been on Twitter recently, you may have noticed a rise in people posting Tetris-like blocks made up of yellow, green and grey squares. The graphic is usually accompanied by two random numbers and the made-up word, “Wordle”.
+
+A short investigation reveals that these tweets are the personal results of a game, which is currently taking social media by storm.
+
+Wordle was created by New York City-based software engineer Josh Wardle for his partner, Palak Shah, who loves word games.
+
+Wardle and Shah played the game for months and soon after it became a family favourite, Wardle decided to share it with the world, he told The New York Times.
+
+He first released it to the public in October, with 90 people playing on 1 November. By 2 Jan, 2022, the game had more than 300,000 players.
+
+While Wordle is a daily word game which gives users just one round of play per day, it has become so popular that one Twitter user has now created a version that can be played without limits.
+
+In a tweet on 29 December, software engineer Katherine Peterson said she had built the new version following a request from her brother.
+
+“My brother’s been playing Wordle every day, and he asked me to build him a version that he could play more than once a day,” she said, sharing a link to her invention.
+
+But what exactly is Wordle, and how do you play?
+
+Wordle is a daily word game, that can be played once a day. It does not require users to download an app and can be played through your web browser here.
+
+How do you play?
+
+While the seemingly random numbers and coloured blocks on Twitter may have led to some confusion, the game is relatively easy to get the hang of.
+
+The aim of the game is to guess a mystery five-letter word, known as the “wordle” in six tries.
+
+After each guess, the colour of the tiles will change to reflect how close your guess was to the word.
+
+For example, if a tile turns green, that means that letter is in the word and in the correct spot.
+
+If it turns yellow, it means the letter is in the word but in the wrong spot. A grey tile means the letter is not in the word anywhere.
+
+For the first round, we recommend trying a word with a good mixture of vowels and consonants.
+
+Each day, players will have six chances to guess the correct word. This means you can use the first five guesses to learn hints about which letters are in the word and where they are placed.
+
+Why is it so popular?
+
+Part of the fun behind Wordle is that every player is guessing the same word each day, which makes the experience of sharing your scores and seeing others’ more fun.
+
+Additionally, as it is only to be played once a day, it doesn’t take up too much time.
+
+Wardle and Shah told NYT that he has submitted 2,500 words to the game so far, which means there are enough daily rounds to keep us going for the next six years at least.

@@ -1,0 +1,23 @@
+Quantum computers are often touted as the solution to all our problems – be it curing disease, alleviating hunger or solving climate change. But there is still a lot of uncertainty surrounding what these devices might actually be useful for in the near term.
+
+Many potential uses of quantum computers hinge around what’s known as an optimization problem. Optimize the placement of electric charging stations, say, and you might make a fleet of cars more energy efficient.
+
+With even tiny improvements in optimization leading to massive savings, the hope is that quantum computers will let us optimize these processes better than classical computers could ever do. But as Pradeep Niroula from the University of Maryland explains, our hopes for quantum-enhanced optimization are being held back by the fact that we simply don’t understand the problem well enough.
+
+If you’re a member of the Institute of Physics, you can read the whole of Physics World magazine every month via our digital apps for iOS, Android and Web browsers. Let us know what you think about the issue on Twitter, Facebook or by e-mailing us at pwld@ioppublishing.org.
+
+For the record, here’s a rundown of what else is in the issue.
+• CERN sets stringent limits on antiprotons – Researchers from the BASE experiment have carried out the most precise measurement of the proton and antiproton charge-to-mass ratios ever made, as Hamish Johnston reports
+• NASA celebrates JWST deployment – The James Webb Space Telescope has completed a series of daring manoeuvres as it moves closer to becoming an operational observatory, as Michael Banks finds out
+• Bullying in physics affects us all – Marie Hemingway and Mark Geoghegan say that physics can only be more inclusive and welcoming if agreements that stop people speaking out about harassment and bullying in the workplace are banned
+• Smaller is better – James McKenzie thinks that small modular nuclear reactors could help many countries to meet their “net-zero” emissions targets
+• Physics on the cheap – The simplest questions are often the best. Robert P Crease tries to answer one from a physics student in Kenya
+• Hyped as the solution to many problems – both hard and easy – quantum-enhanced optimization is a burgeoning research field. But with untrainable circuits, “barren plateaus” and deceptive local minimas, nature itself may prevent the use of quantum solutions for hard problems, as Pradeep Niroula explains
+• The technosignature researcher on the lookout for exo-civilizations – Meet Sofia Sheikh, one of a handful of postdoctoral researchers who have specialized in the search for extraterrestrial intelligence. She talks to David Appell about strange signals, Star Trek, picking a tricky research field and the importance of mentorship
+• A physicist’s experience of the mental-health system – Having suffered from depression and other mental-health problems for more than 10 years, Alexander Mendelsohn wonders why the mental-health system lacks the quantitative rigour that physics benefits from
+• A most improbable physicist – David Appell reviews A Quantum Life: My Unlikely Journey from the Street to the Stars by Hakeem Oluseyi and Joshua Horwitz
+• The transformative power of physics – Joanne O’Meara reviews Ten Days in Physics that Shook the World: How Physicists Transformed Everyday Life by Brian Clegg
+• Laughing in the face of danger – Laura Hiscott reviews the film Don’t Look Up, directed by Adam McKay and available now on Netflix
+• Branching out in your career – Akihiro Kojima and Mike Lee are two of seven physicists who shared the 2022 Rank Prize for Optoelectronics for developing new materials for solar cells. They speak to Laura Hiscott about how they switched into different career areas long after doing the work that led to the award
+• Ask me anything – Career advice from Donna Strickland, optical physicist at the University of Waterloo, Ontario, Canada, who shared the 2018 Nobel Prize for Physics for developing the technique of “chirped pulse amplification”.
+• Error carried forward – David Marshall on the traumas of correcting mistakes in physics textbooks.

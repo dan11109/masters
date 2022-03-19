@@ -1,0 +1,23 @@
+In the midst of a union election for over 600 tech workers at The New York Times, newly leaked documents reveal that managers at the publication are engaging in union-busting practices in hopes of quashing the effort, the Guardian found.
+
+In leaked Slack messages, leaflets and at least one memo, company leadership discouraged workers within the New York Times Company’s tech guild (known as XFun) from voting for union representation. Ballots for the election, which started on January 24, are due back on February 28.
+
+Last month, New York Times Company CEO Meredith Kopit Levien sent a memo to employees entitled “Why a Tech Union Isn’t Right for Us,” The Guardian’s Michael Sainato found. “In short, we don’t believe unionizing in XFun is the right move. But that’s not because I’m anti-union,” Kopit Levien wrote, echoing language from other companies that also claim to be pro-union while engaging in anti-union practices.
+
+Kopit Levien then referenced recent negotiations with Wirecutter, the Times’s product recommendation and review section. “It took Wirecutter two years to reach an agreement with the NewsGuild,” she wrote, adding that the negotiation process caused “uncertainty and discord to negotiate terms that were largely in line with what they and their non-union colleagues already had in place.”
+
+She went on to say that a union would erode the relationship between the company and its employees – again, a common union buster’s refrain – and said that the union would make it harder for the company to reach diversity, equity and inclusion goals. “This is an unproven experiment with permanent consequences,” she warned.
+
+The Guardian also found that chief product officer Alexandra Hardiman and chief growth officer Hannah Yang sent messages on Slack encouraging workers to vote “no” in the election. “A union is not a silver bullet,” said Hardiman. “It will introduce another layer into our process that we believe will make it harder to work – and achieve – together.”
+
+Raising Wirecutter’s case as a warning against unionization is ironic; contract negotiations for Wirecutter workers only took as long as they did, the union said, because the company’s management had offered extremely scant proposals and refused to capitulate to workers’ demands. Before the workers went on strike for Black Friday last year, for instance, the company had offered guaranteed raises of only 0.5 percent – less than annual average inflation rates. In retaliation for the strike, the company withheld wages from striking workers, which the union says is illegal.
+
+Unionizing workers have also said that the company often offers non-union members better benefits as a union-busting tactic. Just before the election began last month, NewsGuild filed a complaint with the National Labor Relations Board (NLRB) against the Times company for saying that only non-union employees would get Indigenous Peoples’ Day, Veterans Day and Juneteenth as paid holidays. The company disputed that this was true.
+
+The company has also withheld parental leave for union members. Last year, the company announced that it would be giving non-union members 20 weeks leave for all new parents; at the time, Amanda Hess, vice president of NewsGuild of New York and New York Times writer, said that she had been fighting for this policy at the bargaining table. After pressure from the union, the company eventually changed the policy to include union members as well.
+
+“Last week, [New York Times] leadership announced additional paid holidays that only apply to non-union employees. We’ve seen this anti-union tactic before when the company rolled out enhanced family leave,” wrote the New York Times Tech Guild on Twitter. “We didn’t fall for it then, and we won’t fall for it now. [Meredith Kopit Levien], stop using our colleagues as bargaining chips.”
+
+Unionizing workers recently gained the support of a group of investors who represent over $1 trillion in assets under management, who sent a letter to Times management on Tuesday expressing concern over the company’s refusal to voluntarily recognize the union, forcing it to go through an election that the company is tampering with.
+
+“Rather than accept the union’s request to be voluntarily recognized, it appears the Company is using the National Labor Relations Board (NLRB) process to aggressively limit the size and scope of the union and to delay a vote for months in order to conduct an ongoing series of anti-union meetings,” the investors wrote. “These tactics suggest that the Company is not operating in a neutral or good faith manner to have a free and fair election, but is instead seeking to weaken the union as much as possible.”

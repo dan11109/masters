@@ -1,0 +1,9 @@
+MOSCOW, February 2. /TASS/. A new data compression algorithm developed by Russian Space Systems (part of the Roscosmos state space corporation) will help boost satellite data transmission tenfold, Roscosmos announced on Wednesday.
+
+"The technology that Russian Space Systems is developing will help boost the data transmission volume by 1.2 - 10 times without altering the design of RSS [Earth’s remote sensing satellites]," the Russian space agency said.
+
+Russian engineers will use a special adaptive mathematical algorithm to archive satellite transmission data directly in orbit, substantially reducing the size of a transmitted file, Roscosmos elaborated.
+
+"This algorithm can be introduced into RSS space vehicles, including those that transmit large datasets to Earth, like Resurs and Kondor satellites, as the most promising results can be received from the technology of compressing optical images that account for the largest amount of transmitted data and can be compressed without losses, the press office quoted Head of the Company’s Digital/Analog Equipment Department Alexander Mordvinov as saying.
+
+Today performance characteristics can no longer be improved by conventional methods because modern high-speed radio lines have actually reached the Shannon limit (the maximum rate, at which data can be transmitted through a communication channel for a particular noise level), Roscosmos said.

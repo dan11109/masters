@@ -1,0 +1,11 @@
+Two members of Google’s Ethical AI group have announced their departures from the company, according to a report from Bloomberg. Senior researcher Alex Hanna, and software engineer Dylan Baker, will join Timnit Gebru’s nonprofit research institute, Distributed AI Research (DAIR).
+
+In a post announcing her resignation on Medium, Hanna criticizes the “toxic” work environment at Google, and draws attention to a lack of representation of Black women at the company.
+
+“Prior to Timnit’s hiring, Google Research management had never recruited a Black woman as a research scientist,” Hanna states. “In one town hall around Googlegeist (Google’s annual workplace climate survey), a high-level executive remarked that there had been such low numbers of Black women in the Google Research organization that they couldn’t even present a point estimate of these employees’ dissatisfaction with the organization, lest management risk deanonymizing the results.”
+
+Gebru, the former co-lead of Google’s AI Ethical research group, was fired by the company in 2020 after co-authoring a research paper that called attention to the potential risks of large-scale language models, a concept similar to the one Google Search employs. The search giant fired another AI ethics researcher, Margaret Mitchell, for her involvement in Gebru’s paper shortly thereafter.
+
+While the company’s diversity report from last year showed an overall increase in the number of Black employees it hired, there was still an increase in the number of women of color that left the company — at the time of the report’s release, Black women made up 1.8 percent of Google’s workforce. And in December, California’s Department of Fair Employment and Housing (DFEH) launched an investigation over Google’s treatment of Black female workers.
+
+“We appreciate Alex and Dylan’s contributions — our research on responsible AI is incredibly important, and we’re continuing to expand our work in this area in keeping with our AI Principles,” Google spokesperson Brian Gabriel said in a statement emailed to The Verge. “We’re also committed to building a company where people of different views, backgrounds and experiences can do their best work and show up for one another.”

@@ -1,0 +1,23 @@
+The latest internet game, Wordle, has become a viral sensation, and now there’s a new website, Wordle Archive, that allows players to complete more than one game a day.
+
+Wordle is a game that can be played through your web browser, as the aim of it is to guess a five-letter word within six attempts. After each guess, the colour of the tiles changes to show how close your guess was to the correct word.
+
+As noted by The New York Times, which just purchased Wordle, the game first appeared in October 2021 and up to 90 people were playing it by November. And those numbers have greatly increased ever since, with over 300,000 players by the middle of January 2022. Now, millions of people play it daily, per NYT.
+
+And although new Wordle games are only available once per day, the Wordle Archive website has found a way around that. The site, which was launched by designer Devang Thakkar earlier this month, features all the previous Wordles that have been shared so people can attempt to solve them over and over again.
+
+As of 1 February, a total of 226 Wordles are on Wordle Archive. On the site, you have the option to navigate through all these puzzles, before deciding which Wordle you want to solve.
+
+In a tweet posted on 9 January, Thakker described this site as a “Remembrance of Wordles Past”. He also revealed why he decided to make Wordle Archive.
+
+“I, like a lot of people on this website, love my daily Wordles,” he wrote. “But if you forget to do one, there is no way to go back to it. So I decided to make one.”
+
+He also noted that the most challenging part about creating Wordle Archive was finding previous Wordles.
+
+“I try to think of alternate solutions which is how I think of changing my computer time to see if it would trick Wordle, and trick Wordle it did,” Thakker wrote. “I was able to access previous Wordles!”
+
+Many Twitter users applauded Thakker for creating this site, as they are also major fans of Wordle.
+
+“Thank you so much!!!” one wrote. “Chronically ill, used to be a teacher, and bored as h***! I’m solving one after the other. At least I know my brain still works!”
+
+“Wowwwww!” another user wrote, in response to Thakker’s tweet. “So cool! I enjoy the methods analysis as much as I am grateful for the final product!”

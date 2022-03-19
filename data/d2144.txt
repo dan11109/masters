@@ -1,0 +1,17 @@
+Following a massive recall in December, Tesla, Inc. recalls tens of thousands of more vehicles due to software issues that could put certain vehicles at risk of a fender bender.
+
+According to the National Highway Traffic Safety Administration (NHTSA), Tesla recalls 2016-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y because of the "rolling stop" feature in the Full Self-Driving (Beta) software may allow the car to automatically roll through an all-way stop intersection without coming to a stop.
+
+NHTSA said this recall affected nearly 54,000 Tesla vehicles (various models listed above). The Austin, Texas-based company will perform an over-the-air software update to disable the "rolling stop" functionality.
+
+Shares of Tesla fell around 1% premarket to $927. Last month, the stock plunged into a bear market, dropping as much as 34% but rallying on the last day of the month by a little more than 10%.
+
+Tuesday's recall follows December's massive recall of 475,000 vehicles. The recall consisted of vehicles that could be prone to wiring harness damage and quality issues with the front truck (or, as some call it, a "frunk").
+
+Tesla has been plagued with countless quality control issues. Some owners have reported bumpers ripping off in adverse weather conditions, roofs flying off, and trim and paneling gaps, among many other defects.
+
+... and it's not just us reporting Tesla defects.
+
+For example, Car and Driver lambasted Tesla over the summer. They said Tesla Model S, Model 3, and Model Y were "hampered by quality problems" and said, "the cruise control system on the Tesla Model Y abruptly stopped working with no warning." Sharon Silke Carty, Car and Driver's editor-in-chief, told CNN: "All of a sudden I was going 30 in the middle of the highway."
+
+CNet and Consumer Reports have also trashed the Model Y for quality issues.

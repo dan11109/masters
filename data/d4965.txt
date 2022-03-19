@@ -1,0 +1,81 @@
+If the world were to end all meat and dairy production and transition to a plant-based food system over the next 15 years, it would prevent enough greenhouse gas emissions to effectively cancel out emissions from all other economic sectors for the next 30 to 50 years.
+
+That’s according to new research published today in the journal PLOS Climate. The paper’s authors say such a shift would “substantially alter the trajectory of global warming,” as animal agriculture is estimated to account for around 15 percent of global greenhouse gas emissions.
+
+Pat Brown, a professor emeritus of biochemistry at Stanford University and the founder and CEO of the plant-based meat company Impossible Foods, and Michael Eisen, a professor of genetics and development at the University of California Berkeley, modeled the long-term “climate opportunity cost” of continuing business-as-usual meat and dairy production. (Seafood’s environmental impact was not included in the analysis.)
+
+First, they calculated the effects of ending animal agriculture — and the high levels of methane, nitrous oxide, and carbon dioxide emissions it generates — and replacing it with a plant-only food system.
+
+But direct emissions aren’t animal agriculture’s only contribution to climate change; 30 percent of the Earth’s land is used to either raise farmed animals or to grow crops to feed them. The report’s authors model that restoring or “rewilding” all of that land to ecological health would create a massive carbon sink, capturing and storing carbon that otherwise would’ve added to climate change.
+
+“There is an amazing potential to do something that no other existing scalable technology has, which is to actually reduce atmospheric levels of all three major greenhouse gases [methane, carbon dioxide, and nitrous oxide],” said Eisen. “[It’s] something we have to do.”
+
+“The current levels of these greenhouse gases are enough to send us over the edge from a climatic sense,” he added. “It’s no longer enough to just stop putting stuff into the atmosphere — we have to go backward.”
+
+A 15-year phase-out of meat and dairy is almost certainly not going to happen. And it’s worth noting that a massive shift to plant-based eating would financially benefit Brown and Eisen. Brown’s Impossible Foods is a highly valued maker of plant-based beef, pork, and chicken, while Eisen is an adviser for the company. Both are shareholders in the company. The authors disclose their conflicts in the paper.
+
+Despite the financial conflict of interest, the science appears solid, according to Matthew Hayek, an assistant environmental studies professor at New York University and a recent Vox contributor.
+
+“Your background doesn’t necessarily have to impact the rigor of your results. To me, this looks like a rigorous analysis of how earth’s atmosphere would physically respond to such a drastic change in agriculture and emissions,” Hayek told me. “But your funding affects the scope and gamut of research questions that you ask, and the manner in which you aim to solve those questions.” That goes for both pro-meat and anti-meat researchers.
+
+Brown said he encourages skepticism. “You should be skeptical, and you should take into account any conflict of interest for authors. I always do that,” he said. “But the great thing about it is, you can check the data analysis, and you can do it yourself.”
+
+While the financial stakes are meaningful for Brown, the planetary stakes are high for everyone. Research has found that even if we eliminate all fossil fuel use (and emissions from other sectors), the world will not reach the Paris climate agreement’s target of keeping the increase in global temperature to 1.5°C or 2°C above pre-industrial levels.
+
+In other words, reducing meat and dairy production isn’t just a nice-to-have in the effort to avert the worst effects of climate change, it’s a significant part of the global toolbox. And humanity needs to act soon.
+
+“The rapidity is just as important as the magnitude,” Brown told me. “Every single day we’re not doing something about it, we’re getting further and further down the road to irreversible damage.”
+
+It’s obvious but has to be restated: A 15-year phase-out of meat and dairy production is something that is only likely to happen in an academic model. It would be logistically impossible, and it would require significant state action, which is a political nonstarter; regulating meat production and consumption is universally politically toxic.
+
+It would also be an impossible transition for the estimated 2 billion people, most in the global South, who raise their own animals for food and income, though they eat far less meat than consumers in rich nations.
+
+Why did Brown and Eisen model a 15-year phase-out? They said they want the climate community to pay more attention to the food system’s role in the climate crisis. Eisen said he hopes the impact would be “for people to realize just what kind of potential climate benefit we’re sitting on.”
+
+Brown opposes political mandates and insists this shift needs to be market-driven and can be done, pointing to historical precedents like the rapid transition from analog cameras to digital ones. But the market alone couldn’t make such a swift change happen; plant-based meat accounts for less than 1 percent of the global meat market today. Big Food is selling more plant-based meat and dairy, but not fast enough to rapidly change the food system.
+
+According to the Good Food Institute, a nonprofit that advocates for plant-based meat and dairy alternatives, the sector may even have trouble sourcing and producing enough ingredients to meet projected demand by 2030, let alone dominate the food industry in the late 2030s.
+
+The study serves more usefully as a thought experiment, illustrating meat and dairy’s enormous carbon footprint, how much humanity would benefit from shifting to plant-based eating, and, hopefully, spurring efforts to reimagine how we produce protein with a growing global population that is eating more meat each year.
+
+It’s a challenge governments and corporations — and the consumers who keep eagerly eating more meat — have largely ignored at our peril, producing ever more burgers, wings, and bacon and racking up a climate tab future generations will be left to pay.
+
+This is not the first study to imagine how a radically different food system would alter the course of climate change. Just last month, a paper published in Nature Food found that if 54 high-income nations adopted the EAT-Lancet diet — a primarily plant-based diet — they could cut their emissions from food by nearly two-thirds.
+
+But Brown and Eisen’s research is new in that it looks at the emissions savings from globally phasing out meat and dairy and how it would, in essence, cancel out the yearly forecasted increase in total greenhouse gases from all other sources, like energy and transportation, for 30 to 50 years.
+
+Other changes, like improving agricultural yields, reducing food waste, and reducing the emission intensity of livestock production would help minimize the food system’s environmental toll, the study authors say, but they wouldn’t have near the same effect as phasing out livestock production.
+
+Eisen and Brown also found that 90 percent of this emissions reduction could be achieved by just cutting the production of ruminant animals like cows, sheep, and lamb, since they emit high amounts of methane, a greenhouse gas much more potent than carbon dioxide, unlike poultry.
+
+But as Vox’s Kelsey Piper has written, while poultry may be more efficient from a climate perspective, the industry is an animal welfare catastrophe. Chickens are treated much worse than cattle because they’re so small and they’re farmed in much higher numbers. (68 billion chickens globally are raised each year compared to 302 million cattle.) Piper calls it “swapping one moral disaster for another.”
+
+But how exactly would such a phase-out even work for much of the global poor who rely on livestock production for survival and want to eat much more meat? That critical question gets some attention in the study, but not a thorough investigation.
+
+“The transition away from animal agriculture will face many obstacles and create many challenges,” the authors write. “Meat, dairy, and eggs are a major component of global human diets, and the raising of livestock is integral to rural economies worldwide, with more than a billion people making all or part of their living from animal agriculture.”
+
+The authors add that “substantial global investment will be required to ensure that the people who currently make a living from animal agriculture do not suffer when it is reduced or replaced.” But it’s unclear where such substantial investment would come from.
+
+When I asked Brown about this, he said the share of the global population that relies on subsistence agriculture is shrinking, “and that train is not going to stop,” and points to the West as the main culprit of high food emissions, where a shift to plant-based eating would make the biggest impact for the climate.
+
+Aside from the logistical and political impossibility of phasing out meat and dairy production in 15 years, rewilding the land used to house and feed farmed animals would also be met with steep economic and political obstacles.
+
+There is a major voluntary effort underway in the UK to do just this, which has seen some success, but it’s also rankled some farmers who worry they’ll be forced to change farming practices and be excluded from key decisions on how UK land is used.
+
+We’d still need land to support a plant-based food system, but far less, according to Brown and Eisen. Right now, about one-third of Earth’s land is used to feed or house farmed animals, but if everything we ate was directly derived from plants, Brown and Eisen say we’d only need to use 7 percent of it.
+
+To be sure, consumers are showing excitement about plant-based foods, thanks in part to more realistic-tasting replicas of burgers, eggs, and poultry made by Impossible Foods and other startups.
+
+The plant-based industry is growing rapidly, and Big Food is starting to incorporate plant-based food into its broader climate pledges. For example, Burger King UK and Panera Bread aim to make their menus 50 percent vegetarian in coming years, and major European grocer Tesco aims to increase its plant-based food sales 300 percent by 2025. KFC rolled out meatless chicken nationwide last month, and McDonald’s McPlant burger, made with Beyond Meat, lands in 600 locations on February 14.
+
+But these types of launches and pledges are additive. Big Food isn’t committing to reduce meat and dairy production in the way that large automakers are transitioning their gas-powered fleets to electric, and plant-based meat still makes up less than 1 percent of the retail market.
+
+Education and framing could help. New research from environmental nonprofit World Resources Institute found that messaging on restaurant menus about the environmental impact of beef can make consumers twice as likely to choose vegetarian options instead.
+
+Plant-based meat prices are coming down, which should also influence consumer uptake, but the impact may not be as big as plant-based boosters would hope. According to research from the Breakthrough Institute, a tech-focused environmental think tank, a 10 percent reduction in the price of plant-based beef could increase plant-based beef consumption by 23 percent, but it would only reduce cattle production by 0.15 percent.
+
+However, the organization says that while the politics of meat feel quite fixed today, that could quickly change. If plant-and cell-based meat and dairy alternatives can greatly improve in taste and become cost-competitive with animal meat, the political, corporate, and social barriers against widespread adoption might start to weaken.
+
+Brown says this change has to be market-driven. “Try to regulate [meat], you get thrown out of office,” he said. “Try and force people to change their diets, you’re not going to be their friend anymore. It has to be market-driven.”
+
+Eventually — for the reasons Brown and Eisen have bluntly laid out — governments will need to craft policy to change meat and dairy production in order to reach climate targets, especially those of high-income countries, which emit an outsized proportion of the global share of greenhouse gas emissions. Influencing consumer behavior and what’s available on fast-food menus and grocery store shelves — market-driven approaches — will be critical, but can only do so much.

@@ -1,0 +1,87 @@
+A supplemental court filing by special counsel John Durham confirms previous reporting that Department of Justice (DOJ) Inspector General Michael Horowitz concealed crucial information from Durham in connection with two separate investigations—the ongoing prosecution of former Clinton campaign lawyer Michael Sussmann and the criminal leak investigation of former FBI General Counsel James Baker.
+
+The Jan. 28 filing by Durham updated the court on precisely when Durham first learned of two cellphones that had been used by Baker while he was with the FBI. The existence of these phones was first mentioned in a Jan. 25 filing, in which Durham claimed that the Inspector General’s Office (OIG) had failed to disclose its possession of two FBI cellphones belonging to Baker.
+
+Following the Jan. 25 filing, Horowitz’s office apparently told Durham that the existence of one of the cellphones may have been mentioned on a conference call that took place four years ago.
+
+“The OIG Special Agent had a conference call with members of the investigative team, including Mr. Durham, during which the cellphones likely were discussed,” reads the Jan. 28 court filing.
+
+However, Durham states in the filing that he not only doesn’t recall the conference call, but also that he had no knowledge of Horowitz’s possession of Baker’s cellphones before being informed of their existence by a separate investigative team within the FBI on Jan. 6.
+
+Notably, Horowitz is unable to say with certainty that Baker’s phone was even mentioned on the Feb. 12, 2018, conference call. Moreover, at the time of the conference call, Horowitz’s office was not in possession of either of Baker’s cell phones.
+
+While Horowitz did gain possession of Baker’s phone several days later, on Feb. 15, 2018, there’s no record that he informed Durham. Nor is there any record of subsequent communications between Howowitz’s office and Durham regarding the Baker phone. This despite the fact that Durham was conducting a criminal leak investigation into Baker at around the same time that Horowitz gained access to Baker’s cellphone.
+
+Although it isn’t currently known when Horowitz took possession of a second Baker cellphone, there appears to have been no follow-up from either Horowitz or Durham at the time, suggesting that neither of the phones had ever been mentioned to Durham. This is further supported by the fact that as recently as Jan. 5, Durham was seeking Baker’s “call log data” from the FBI’s Inspection Division, suggesting he didn’t know about Horowitz’s possession of Baker’s phones.
+
+While Horowitz’s objection to Durham’s Jan. 25 filing may have been intended to deflect from his office’s disclosure failures, the latest filing raises further questions.
+
+Even if Horowitz’s new claims about the alleged 2018 conference call were true, this wouldn’t have absolved him from disclosing this information in 2021, when he was formally requested by Durham to do so.
+
+However, the most significant revelation contained in the supplemental filing is that Horowitz didn’t object to the other assertions made by Durham in his Jan. 25 filing.
+
+That filing highlighted Horowitz’s failure to cooperate with Durham’s special counsel investigation. In addition to not disclosing the existence of Baker’s cellphones, Horowitz also failed to disclose that he and his general counsel had personally met with Sussmann regarding a “cyber matter” in March 2017, and Horowitz may have failed to disclose the identity of a Hillary Clinton-connected individual who provided the underlying data to Sussmann that led to the in-person meeting.
+
+All of these undisclosed facts are crucial to Durham’s case against Sussmann.
+
+Notably, Durham didn’t learn about this information from Horowitz, but rather from other sources, including Sussmann himself.
+
+On Oct. 13, 2021, Durham’s office formally requested that Horowitz provide “all documents, records, and information” in the OIG’s possession regarding Sussmann. Durham also requested any transcripts or other documents within Horowitz’s possession that contained certain search terms related to Sussmann.
+
+However, according to Durham’s Jan. 25 filing, the only thing Horowitz’s office produced prior to mid-December 2021 was “relevant transcripts of interviews” conducted by Horowitz’s office during its review of the FBI’s Crossfire Hurricane investigation into alleged collusion between Donald Trump’s campaign and the Russian government.
+
+On Dec. 17, 2021, Horowitz produced one additional item, a forensic report on the “cyber matter” which Sussmann had reported to the OIG in March 2017, specifically that one of Sussmann’s clients “had observed that a specific OIG employee’s computer was ‘seen publicly’ in ‘Internet traffic’ and was connecting to a Virtual Private Network (VPN) in a foreign country.”
+
+When Horowitz provided this report to Durham, Horowitz told Durham’s team that he “had ‘no other file[s] or other documentation’ relating to this cyber matter.” Durham’s office then provided this written forensic report to Sussmann’s defense team six days later, on Dec. 23, 2021.
+
+But in a Jan. 20 discovery conference call between Durham’s prosecution team and the defense, Sussmann’s lawyers informed Durham’s team that Horowitz had withheld crucial information, specifically that Sussmann had met personally with Horowitz in March 2017 when he brought the “cyber matter” information to OIG.
+
+Critically, the OIG employee whose internet activity had been monitored by Sussmann’s client appears to have been important enough to warrant a direct meeting with Horowitz, raising further questions as to this individual’s identity. It’s also notable that Sussmann’s March 2017 meeting with Horowitz took place shortly after Horowitz announced on Jan. 12, 2017, that, due to congressional requests, he was initiating an investigation into events surrounding the 2016 election.
+
+Sussmann’s visit with Horowitz also followed shortly after Sussmann had pushed derogatory information about Trump to the CIA in Feb. 2017.
+
+Moreover, Sussmann’s attorneys informed Durham’s team during this same Jan. 20 conference call that Sussmann’s client who developed the “cyber matter” information was Rodney Joffe.
+
+Joffe, a computer expert with close connections to the FBI, is of great import to Durham’s case against Sussmann and to the wider investigation into the origins of the Russia collusion investigation.
+
+Joffe was named by Durham in the Sept. 2021 indictment of Sussmann as the “Tech Executive” who allegedly “had exploited his access to non-public data at multiple Internet companies to conduct opposition research concerning Trump.” According to the indictment, Sussmann and Joffe had “coordinated with representatives and agents of the Clinton campaign” with regard to the false data about contacts between the Trump Organization and the Russian Alfa Bank.
+
+Those alleged contacts were then used by Hillary Clinton and her campaign to push the narrative that Trump was compromised by the Kremlin.
+
+It remains unknown how or why Sussmann and Joffe were privy to the internet activities of the as-yet-unnamed OIG employee or why Sussmann felt the need to personally brief Horowitz about these activities.
+
+Upon learning on Jan. 20 of Horowitz’s personal briefing from Sussmann, Durham immediately reached out to Horowitz for clarification.
+
+On Jan. 22, Horowitz responded to Durham’s inquiry, confirming to Durham that Sussmann’s assertion was correct—Horowitz had indeed met with Sussmann in March 2017. As Durham was careful to note in his Jan. 25 filing, Horowitz hadn’t previously informed Durham’s office of his meeting with Sussmann.
+
+Three days later, on Jan. 25, Durham made his initial filing which disclosed, in part, how Horowitz had withheld key evidence from Durham.
+
+The follow-up Jan. 28 filing by Durham has provided additional details and dates regarding the events surrounding Durham’s discovery of Horowitz’s possession of Baker’s cellphones.
+
+How Durham Found Out About Baker’s Phones
+
+On Jan. 5, 2022, Durham’s team conducted a conference call with the FBI’s Inspection Division, which is currently conducting its own internal investigation of FBI personnel involved in the 2016 Crossfire Hurricane investigation into the Trump campaign. Durham’s team was attempting to obtain information regarding “call log data” for Baker.
+
+The day after that call, on Jan. 6, personnel from the FBI’s Inspection Team followed up with an email to Durham’s team, informing the special counsel team that Horowitz’s office was “maintaining custody” of Baker’s two FBI-issued cellphones along with “forensic reports” that had analyzed the content of the two phones. According to Durham, this was the first time he was informed of Horowitz’s possession of Baker’s phones. The next day, on Jan. 7, Durham’s office requested information from Horowitz regarding Baker’s cellphones.
+
+Horowitz provided the information that Durham requested regarding Baker’s cell phones on Jan. 10, 2022. That day, Sussmann’s defense team requested that Durham’s office provide any information relating to an undated meeting attended by reporters from The New York Times and Baker, along with Bill Priestap, the then-FBI assistant director for counterintelligence, and Michael Kortan, the then-FBI assistant director for public affairs.
+
+This meeting likely relates to events in Sept. 2016, after Sussmann had gone to Baker with the Alfa Bank allegations. Following his initial meeting with Sussmann, Baker was subsequently told that Sussmann was also speaking to reporters at the NY Times. It was later reported that the FBI had asked the newspaper to temporarily hold off on its reporting.
+
+Sussmann’s request for information regarding this meeting is notable not only for the high-level FBI officials who met with the NY Times, but also in light of Baker’s criminal leak investigation that had been previously conducted by Durham.
+
+Durham apparently wasn’t fully satisfied with the information provided by Horowitz’s office on Jan. 10, as Durham subsequently requested that Horowitz’s office conduct an “additional forensic examination” of Baker’s two cellphones.
+
+As Durham was waiting for a response from Horowitz regarding the additional forensic exams, Durham learned from Sussmann’s lawyers on Jan. 20 that Horowitz had met personally with Sussmann in March 2017 regarding the “cyber matter.”
+
+Durham’s discovery of the meeting between Sussmann and Horowitz, which was confirmed by Horowitz two days later on Jan. 22, may have been the impetus for Durham’s Jan. 25 filing.
+
+At the time of Durham’s Jan. 25 filing, Horowitz still hadn’t provided the requested “additional forensic examination” of Baker’s two cellphones. It was this filing by Durham that first detailed issues surrounding key information that Horowitz had failed to disclose to Durham’s office.
+
+On the evening of Jan. 26, a day after Durham’s filing, Horowitz finally responded to Durham’s request, providing Durham with “those additional, completed forensic reports” that he had previously requested.
+
+While it isn’t known exactly what information was contained in these new reports from Horowitz, on the morning of Jan. 28, Durham issued his most recent filing, which added the new details regarding Baker’s cellphones, and also disclosed the existence of additional cellphones that are in the possession of Horowitz’s office. Those phones are in addition to Baker’s two phones and related to Durham’s criminal leak investigation of Baker. Durham’s office has issued a request to Horowitz to review these “additional phones.”
+
+While Durham’s latest filing is labeled as an update on Baker’s cellphones, its real purpose appears to be to publicly pressure Horowitz to disclose further materials in the OIG’s possession, including the additional cellphones which Durham seems to have only found out about in the past few days.
+
+Notably, it was Sussmann, the defendant, who provided Durham with information that focused special counsel’s attention on materials being withheld by Horowitz. It’s highly unusual for the defense to provide the prosecution with information that the prosecution isn’t aware of. Strategically, it would seem this information would be better saved for Sussmann’s defense in the actual trial. It isn’t known why Sussmann offered this information at this time.

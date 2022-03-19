@@ -1,0 +1,11 @@
+The Biden administration has threatened Russia with cutting it off from its semiconductor supply should it invade Ukraine.
+
+According to Axios, the idea is unprecedented and would damage Russia's economy, but could also affect U.S. companies.
+
+The strategy, Axios reports, is to threaten to use government regulations to block not only U.S.-made chips, but also chips from foreign companies relying on American designs, equipment, tools or software.
+
+Since U.S. technology is ubiquitous in chip-making, this could be a staggering blow to the Russian economy. Ed Mills, Washington policy analyst for Raymond James, told Axios that ''semiconductors are the new weapon. If you can link arms and deny a country access to semiconductors, their ability to function as a modern economy is eliminated.''
+
+A person familiar with the White House's approach told Axios on Tuesday that chip restrictions could either be aimed at Russia as a whole or more narrowly targeted at certain industries.
+
+A senior administration official said last week that these restrictions focus on areas that Russian President Vladimir Putin says are important to Russia strategically, including quantum computing and artificial intelligence.

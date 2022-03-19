@@ -1,0 +1,33 @@
+State-backed hackers or private criminals may conduct cyberattacks targeting the Beijing Olympic games, the FBI said in a warning to computer network operators on Tuesday.
+
+The warning followed a major speech on Monday by FBI Director Christopher Wray accusing China’s government of conducting a “massive, sophisticated” ongoing campaign of cyberattacks aimed at stealing American technology and data.
+
+“The FBI is warning entities associated with the February 2022 Beijing Winter Olympics and March 2022 Paralympics that cyber actors could use a broad range of cyber activities to disrupt these events,” the bureau stated in a warning notice. “These activities include distributed denial of service (DDoS) attacks, ransomware, malware, social engineering, data theft or leaks, phishing campaigns, disinformation campaigns or insider threats, and when successful, can block or disrupt the live broadcast of the event, steal or leak sensitive data, or impact public or private digital infrastructure supporting the Olympics.”
+
+Athletes taking part in the Games or travelers to China for the sporting competition also face the danger of electronic infiltration of their mobile devices.
+
+Chinese officials are requiring all Olympic participants to download smartphone applications that will allow the government to monitor their activities, citing the need to identify and contain COVID-19 outbreaks inside the “bubble” where events are being held.
+
+The applications “could increase the opportunity for cyber actors to steal personal information or install tracking tools, malicious code, or malware,” the notice said.
+
+The FBI earlier said the use of Chinese government-mandated tax software by businesses operating in China had increased the danger that Beijing hackers will install malware on computer networks.
+
+Use of digital “wallets” or applications that track COVID testing or vaccination status could be hacked to steal personal information or install malware. Athletes are required to install the Chinese government’s MY2022 app to track health and travel data.
+
+The FBI urged all athletes at the games to keep personal cell phones at home and use temporary devices while in China.
+
+No specific cyber threats currently have been detected targeting the Olympics, the notice stated, urging those taking part to remain vigilant of cyberattacks and employ strong security practices.
+
+China’s government has already accused the Biden administration of conducting a covert operation to sabotage the Games by paying athletes to protest and otherwise disrupt the two-week global gathering. The State Department on Sunday denied the claims, although President Biden has said no U.S. officials will attend the game as part of a “diplomatic boycott.”
+
+China has restricted foreign visitors to the Olympics because of concerns about the outbreaks of the COVID virus, prompting would-be spectators to rely on streaming services and social media to watch events.
+
+“Adversaries could use social engineering and phishing campaigns leading up to and during the event to implant malware to disrupt networks broadcasting the event,” the FBI said.
+
+Hotels, mass transit, ticketing services, event security infrastructure and other support functions also could be targeted by cyberattacks, the bureau notice said.
+
+The FBI noted that during the 2020 Tokyo Olympics, the NTT Corp. that provided services during the games was hit by more than 450 million attempted cyber incidents. None were successful due to strong cyber security measures.
+
+In 2018 during the Winter Olympics in South Korea, Russian hackers carried out a destructive cyberattack against the opening ceremony that was enabled through the use of “spear phishing” — the use of fraudulent emails — and through malicious mobile apps.
+
+The FBI urged all service providers to prepare for disruptions by preparing contingency plans to continue operations during cyberattacks.

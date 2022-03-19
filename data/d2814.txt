@@ -1,0 +1,29 @@
+Migrating birds navigate across continents and back to the same breeding sites year after year. But how do they return to the same locations with such precision after traveling hundreds of miles? A new study, “Magnetic stop signs signal a European songbird’s arrival at the breeding site after migration,” published in the journal Science, explores how migrating European songbirds accomplish this feat.
+
+The study, which was led by researchers from the University of Oxford and included scientists from the University of Oldenburg, indicates that the songbirds use the inclination of the Earth’s magnetic field to let them know when they’ve reached their precise breeding site, reported Phys.org.
+
+“[W]hilst we know an increasing amount about how birds inherit migratory information from their parents, how they return to the same site year-on-year with pinpoint accuracy has remained elusive,” said Dr. Joe Wynn, a researcher at Germany’s Institute for Avian Research who is formerly of the University of Oxford, Phys.org reported. “It’s quite exciting, therefore, that we’ve been able to find evidence that magnetic cues could be used by songbirds trying to re-locate their homes.”
+
+But how are birds able to detect the Earth’s magnetic field? It turns out they may be able to “see” the lines, using them to discern where they are and which direction they’re facing while searching for home.
+
+In their investigation of whether the migratory songbirds use the magnetic field to help them find their breeding sites, the research team used data from nearly 18,000 Eurasian reed warblers (Acrocephalus scirpaceus) — songbirds that cross the Sahara Desert to summer in Europe. The team discovered that when the Earth’s magnetic field shifted, so did the sites upon which the reed warblers landed.
+
+“Because Earth’s magnetic field shifts slightly year by year, the magnetic parameter values characteristic of an individual’s natal or breeding site will exist in a different location the following year,” the authors of the study explained, as ScienceAlert reported.
+
+The birds seemed to use the magnetic inclination as a “stop sign” telling them when they had reached their destination. Magnetic inclination is “the dip angle between Earth’s magnetic field and Earth’s surface,” according to ScienceAlert.
+
+For the study, researchers used the data of “ringing recoveries” — birds marked with metal rings — from 1940 to 2018.
+
+“Ringing data are a fantastic way to answer questions about migration, simply because they’ve been gathered for so many years across a very large area… and when looking at where birds [are] ringed and then recovered, it seems that reed warblers use a single magnetic coordinate a bit like a ‘stop sign’; when they reach the right magnetic field value, they stop migrating,” Wynn said, as reported by Phys.org.
+
+So why do Eurasian songbirds use Earth’s magnetic field as a navigation device? The answer is simple: predictability.
+
+“Magnetic information seems to be pretty stable, meaning the magnetic field doesn’t change very much in a given location year-on-year,” explained Wynn, as Phys.org reported. “Aiming for a specific magnetic value during migration might make sense then, and the cue we think birds are using, inclination, appears the most stable aspect of the magnetic field. We think this gives the birds the best chance of making it back to the breeding site.”
+
+The results of the study could be used to track how the breeding sites of migratory birds change due to shifts in the magnetic field in order to protect their habitats.
+
+“One of the most important things we need to understand to protect biodiversity and mitigate biodiversity loss is to understand the basics of [bird] behaviour,” said professor Richard Holland of Bangor University, New Scientist reported. “How do they determine where to stop? If they don’t know where to stop, they are in the wrong place for breeding or even the wrong place for surviving the winter.”
+
+In gathering data on bird migration, the observations of bird-watchers can be useful, and Wynn hopes that this will inspire people to get out and get excited about the natural world.
+
+“[T]he trans-continental migration of birds that weigh less than a teaspoon is remarkable for so many reasons, but the ability to precisely pinpoint the breeding site from half the world away is perhaps the most extraordinary aspect of all,” said Wynn, reported Phys.org. “That we can investigate this using data gathered by scientists and bird-watchers alike is extremely exciting, and we hope that this use of citizen science data inspires others to go out, watch birds and get excited about science more generally.”

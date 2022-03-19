@@ -1,0 +1,113 @@
+Web3 is a world-changing opportunity to make a better version of the internet and wrest it away from the behemoths who control it today.
+
+Web3 will make some people a lot of money. But many other people will lose their shirts on it.
+
+The fact that Web3 is hard to define — I’ll try to do that in a bit — isn’t necessarily a bug. It’s a nascent idea floated by a mix of buzz, optimism, confusion, theological battles, and pure unadulterated speculation, which means it’s incredibly malleable. You can explain why Web3 is a fundamental remaking of the internet, and some people will take you very seriously. And you can argue that it’s an MLM scheme built to enrich people who are already rich, and find plenty of people nodding along.
+
+What you can’t do, right now, is ignore Web3 if you work in or around tech. Because it’s all anybody has wanted to talk about for the past several months.
+
+I see and hear Web3 pitches, debates, and dunks daily. When I talk to investors, executives, or just people who work or dabble in tech, it usually takes them a minute or two to tell me — either with pride or embarrassment — that “they’ve gone down the rabbit hole” into Web3 and are convinced there’s something very Big and Important down there. Maybe the fact that the stock market in general — and the tech sector specifically — has been tumbling in recent weeks will cool interest in this stuff eventually. But it certainly hasn’t yet.
+
+This week, for example, YouTube CEO Susan Wojcicki announced that Web3 represented a “previously unimaginable opportunity to grow the connection between creators and their fans”; on the same day, two of her executives announced they were leaving to join … Web3 companies.
+
+This stuff also makes people irrationally angry — even by Twitter standards. Last month, we got to see Elon Musk team up with Jack Dorsey to have a Web3 Twitter spat/wrestling match with Marc Andreessen, perhaps Silicon Valley’s most prominent VC, and Chris Dixon, who works at Andreessen’s firm and may be the most prominent Web3 evangelist.
+
+No surprise: These men have a lot to gain and lose, depending on the way this shakes out.
+
+Web 3 “is intrinsically tied with financial value,” says Li Jin, a venture capitalist and one of the few prominent women in the Web3 world. “Anytime you introduce financial success, that’s what really incites strong emotion.”
+
+It’s easy to dismiss all of this out of hand, especially if you’re an oldster like me who has seen tech bubbles before. But lots of interesting and important things were hatched during tech bubbles — like the web browser you’re using to read this story right now — even if people blew a lot of money on a lot of dumb stuff while the bubble was inflating. So when and if the bubbles deflate — which may be exactly what’s happening now — you can still find value in the aftermath.
+
+Which means maybe people like Tina He, a 25-year-old product designer-turned-startup CEO, will be right. Six months ago, He co-founded Station, which she’d like to be the Web3 version of LinkedIn, connecting workers anywhere in the world. Instead of relying on a résumé to tell prospective employers or co-workers what you’ve done, He thinks Station will use tech to provide comprehensive, verified evidence of your actual work so people can evaluate you based on your output, not your job title or credentials.
+
+She thinks Web3 is a big, big idea, big enough to transform her life and the lives of people around the world.
+
+“It’s an immense opportunity to give people the opportunity to transcend time, space, and financial constraints,” she tells me. “To pursue what they want, and be legitimized by the work they do — not just their identity that was given to them.”
+
+That techno-optimism is bracing when you hear it on the phone. In print, it can seem like a fairy tale. But in the world I live in, or at least the one I’m adjacent to, it’s increasingly the norm. Which is why a flurry of tech workers who are already very well compensated are leaving their current gigs at established web 2.0 companies for something Web3.
+
+So I’ve been spending time — and trying to adopt a mindset of cautious skepticism — attempting to figure out Web3 for myself. Spoiler: I didn’t quite figure it out. But I found enough smart, thoughtful people who are genuinely fascinated with this stuff to make me think that there still may be something here, even while so much of it is nonsensical or worse. So I’ll keep paying attention. You might want to, too.
+
+Let’s start here: At its core, Web3 is a rebranding of crypto and blockchain, the technology based around a worldwide network of computers that talk to each other and validate and record transactions without human intervention or centralized oversight.
+
+Blockchain tech has been around in some form for more than a decade, and for much of that time most people who thought about it focused on bitcoin, the digital currency created in 2009 that was most closely associated with blockchain. But you couldn’t really do much with bitcoin except buy or sell it and debate whether it was going up or down. And it has gone up, a lot: At the end of 2014, a single bitcoin was worth around $400; today, even after crashing more than 40 percent from its peak, it’s worth $38,000.
+
+Now you can actually do some things with the blockchain. Not many things, yet. And most of it is still about buying and selling stuff — except now instead of digital currency, you can also buy and sell digital art, or plots of digital land or other items you can earn in a handful of video games. Which is why you’ve seen headlines about someone paying $69 million for a digital collage, or someone mistakenly selling a digital ape cartoon that was supposed to be worth $300,000 for $3,000. Or maybe you’ve heard about “play to earn” video games that are supposed to let you make real money by acquiring digital goods you can sell to other gamers.
+
+It’s entirely possible that this is all Web3 will be: an interesting way for people to collect and/or speculate on digital artifacts. That’s potentially meaningful for people who create art and people who like to buy art — and here you can use the word “art” broadly, meaning “things people like to look at or consume somehow.” But if it stops there, it’s not world-changing.
+
+But Web3’s most fervent evangelists think it goes much further. They believe it will bring about a remaking of the entire internet. Hence the name.
+
+Web1, the argument goes, was about getting normal people onto the internet, helped along first by browsers — that’s Marc Andreessen’s work, not coincidentally — and then via internet access and search services like AOL and Yahoo. Web2 was about converting the time people spent on the internet, and all the content they share online, into real businesses, and then consolidating those businesses into massive operations that now seem too big to fail (think Facebook and Google).
+
+But with Web3, the argument goes, you take control back from the Facebooks of the world.
+
+How’s that supposed to happen? Well, it’s complicated. And, for the most part, theoretical. But: The blockchain lets people create their own money, without permission from any country or bank. It could also, Web 3 boosters say, let them build anything on the internet they want, without having to rely on existing platforms like Google or Facebook, or tools like Amazon’s AWS cloud computing services. And crucially, the new services could be owned, in part, by the people who built and use them.
+
+And that idea, many of Web3’s believers tell me, is the thing that gets them excited, for multiple, intertwined reasons. There’s the possibility of profit, for starters: Many of the folks who are intrigued by Web3 also feel stymied by the current version of the internet, where their ability to create meaningful new companies — especially those aimed at consumers — seems capped by the current internet giants, who can buy, build, or crush upstarts.
+
+“The reason why VCs and startup people who are not baked into the old winners are excited about this is the opportunity to create new winners,” says an investor who is all-in on Web3 … but doesn’t want me to use his name.
+
+And some of the interest in Web3 comes from political fears, real or imagined: You might like the fact that Donald Trump lost his social media access a year ago, but you should also be worried that a handful of companies could deplatform the former president of the United States, Web3 advocates say. In a Web3 world, Donald Trump would only get kicked off a social network if the social network’s users — who would be the social network’s owners — wanted that to happen. And even if they did, there would be other platforms on Web3 for Donald Trump — or any other person you like, instead of loathe — to set up shop instead.
+
+But I think the primary appeal of Web3 comes from the fact that it really doesn’t exist yet. So in its yet-to-arrive shape, it could be anything. And that sounds great to people longing for something new, whether they’re young techies who’ve only known a world where a handful of giant tech companies dominate the internet, or wizened folks who remember the initial excitement and possibilities of the early web days.
+
+The possibilities are seemingly endless. And mostly theoretical.
+
+That new part sounds great. And so does the part about bringing back the spirit of the mid-90s, when no one knew what could and couldn’t be done because no one had tried it yet.
+
+But, also: I remember that even in the web’s earliest days, you could easily imagine ways it might be helpful to you, an average person. Sports scores delivered to your desk instead of a nightly newscast or a daily newspaper. Sending an email to someone on the other side of the world instead of dropping a letter into a mailbox. Recipes! Porn! Fill in your own blanks.
+
+With Web3, though, I find myself squinting and trying to figure out how I’m going to use it beyond buying and selling digital collectibles. Again, that’s a real business and a real pastime. But I’m not really into it, and plenty of other people won’t be either. So what else is there?
+
+Right now, not much, many Web3 advocates concede. But they also argue that I should broaden my mind. Start with NFTs: That’s “non-fungible tokens,” which are the Web3 items you’re most likely to have heard about. NFTs are the blockchain version of a title for a car or a deed to a house — they’re supposed to prove that you own at least a part of the digital thing in question. (Whether that’s true or not, and what “ownership” means for a digital good anyone can copy, is a whole other discussion.)
+
+You’ve heard about NFTs because that’s the art experiment someone named Beeple sold for $69 million. Or maybe someone on Twitter has tried to convince you that you should buy some digital lion cartoons because they’re going to be the next digital ape cartoons.
+
+Here’s Paris Hilton on the Tonight Show this week, comparing digital ape NFTs with Jimmy Fallon — right before Hilton announced that she’d be giving everyone in the Tonight Show audience one of her own line of NFTs, which don’t exist yet.
+
+NFTs barely existed two years ago. Last year, people spent a reported $25 billion on them. This seems as bubble-y as a bubble can get.
+
+But! The fact that NFTs are supposed to be automated contracts that cut out the need for humans to review and approve their terms and execution means that a) you can apply the technology to any digital good and b) you can write interesting rules into the contract that, say, pay the original creator of the NFT a slice of the transaction price any time the asset is sold. That could, in theory, create new ways to fund and profit from all kinds of new projects, and it might make more sense than traditional models.
+
+Mirror, for instance, is a Web3 version of the online publishing platform Medium: an easy way to write stuff on the internet. But it also offers the ability to sell “editions” of your work to fans and super-fans — like this article, by journalist Adam Davidson, about his interest in ... Web3.
+
+Does that make it more interesting than regular Medium, which sells subscriptions to bundles of writers using regular old credit cards, or Substack, which sells subscriptions to individual writers using credit cards? Maybe?
+
+In theory, Davidson will capture more of the value people place on his work than he would if was using a traditional platform, and the people who purchase his work can benefit if other people think it’s valuable because they can sell it to someone else. And if that happens, Davidson can get a slice of that sale, too, so his work can keep generating income for him even after he’s sold it. For a certain kind of creator — likely one who’s very online and willing to continually market themselves and their work — this could be very intriguing.
+
+Meanwhile, other Web3 believers think the most important part of the tech has nothing to do with buying stuff. They’re most interested in the way it can help people organize themselves online and create organizations that could rival or replace existing companies like Facebook or Google. That’s primarily through something called DAOs — decentralized autonomous organizations — which are essentially internet collectives, where automated blockchain tech is supposed to make it easy to divvy up ownership and decision-making power among members. You can get into a DAO by buying into it, or you can get equity based on work you’ve done for the group, or whatever.
+
+But like NFTs, there’s a good chance that if you’ve heard of DAOs before, it’s probably because you’ve heard of the most head-slapping versions of them, like the DAO that comically raised millions to buy a copy of the US Constitution, then found itself outbid by a Wall Street tycoon. Other nonsensical DAOs include one that wants to buy an NBA team, or one that bought a rare-ish copy of a Dune book and thought that would give them the ability to make a movie or show based on its contents. Spoiler: It doesn’t.
+
+But more rational people who talk up DAOs think they are an excellent way to quickly and fairly spin up groups of people to work together, whether it’s a full-fledged company or a one-off project. You can, say, efficiently hand out equity stakes in a project to financial investors, strategic partners, and people who are actually working on it — all stuff that traditionally takes lots of lawyers and paperwork and time, and gets even more complicated if those participants live in different states or countries.
+
+And, in theory, you can also measure the work that each participant contributes to a project — one person wrote code, another helped with marketing, someone else helped manage a Discord server where the DAO members meet up. That’s where Tina He’s Station would like to come in, by tracking that work and making it easy to find and start collaborating with people who are looking for work. Again, all of this is mostly theoretical for the time being, but I’ve talked to very sober people who tell me DAOs will be transformative for, say, startups that want to quickly get off the ground: One investor tells me the difference in speed is like the difference between email and the kind that arrives in an envelope.
+
+“Right from the beginning of any project, you can now have an instrument of sharing the value of that project with more stakeholders,” says Jonathan Glick, an entrepreneur and investor who’s become intrigued by Web3 in general and DAOs in particular. “It is a quantum leap improvement in the way to organize people around projects.”
+
+The good, the bad, and the unknown
+
+All of that sounds ... interesting. But if there’s anything that Web2.0 taught us, it’s that even the most exciting technology comes with complications and unintended consequences. At first blush, Twitter seemed like a fun way to tell people what you had for lunch, and then for a moment like a tool that could help liberate oppressed populations. It took a while for us to realize it could also be a cesspool of hate and lies. This time around, we ought to be much more thoughtful about possible downsides.
+
+For starters, people much smarter than me argue that blockchain is an incredibly bad way to utilize computing power, and that crypto currency “mining” — stringing racks of computers together to generate crypto currency — is an irresponsible waste of energy in a world facing a dire climate crisis; some estimates peg yearly bitcoin electrical usage as the equivalent of a country the size of Sweden. (Reasonable people also argue that these concerns are overblown, or that future crypto efforts will become more energy efficient.)
+
+Another bracing challenge is that Web3, at least in its current form, is not even remotely user-friendly. In the course of writing this, I thought I’d try buying an NFT to support Davidson’s work on Mirror. I downloaded MetaMask, a popular crypto “wallet” — a place for you to store the keys to your crypto assets — that runs as a Chrome browser extension. Then I dutifully recorded the 12-word “seed phrase” that’s the only way to access your account if you forget your password, and that MetaMask warns you to keep incredibly safe (they suggest, among other strategies, placing it in a safety deposit box, and tell you that if you lose it you’ll never be able to access your account again, ever.) Then I needed to buy some ethereum to put into my account, which MetaMask suggested I do using services like Wyre, which I’d never heard of before — and which it turns out I can’t use in New York because it’s not licensed here. At which point I bailed because I wasn’t remotely ready to connect my savings account to a crypto service I’d never heard of before. It’s probably fine. But what if it isn’t?
+
+Davidson, by the way, says he was scammed out of $28,000 as he started to learn the Web3 ropes. He’s still a believer.
+
+Also, because Web3 is so new — and because the very concept of it rejects centralized control or management — right now, there’s very little in the way of consumer protection. None, basically. Web 3 fans argue that you don’t need government agencies or megaplatforms protecting you and your assets because their system of linked computers creates a “trustless” economy. Since every transaction is recorded in public and verified by the blockchain, you’re not supposed to need the oversight of Big Government or Big Companies. In reality, Web3 has plenty of ineptitude, costly bugs, and outright scams, like intriguing projects that disappear as soon as the organizers collect your money. Or in crypto terms: You’ve been “rugged,” as in, you’ve had the rug pulled out from under you.
+
+Speaking of misbehavior: New tech doesn’t mean we are a new species. Which means that even the most optimistic version of Web3 may recreate some of the existing problems of Web2 or the rest of the world.
+
+While boosters like to point out that Web3 allows anyone anywhere with a web connection to participate, no matter who they are or what they look like — many Web3 folks are completely anonymous — its early user base and supporters certainly seem to skew as male as traditional tech does today. The fact some of the most vocal boosters tend to take on a public tone that’s alternatively proselytizing and defensive also makes me dubious about the whole thing. Then again, perhaps that’s because so much of the Web3 discourse happens on Twitter, which still seems designed to bring out the worst in people.
+
+And basic supply and demand still exists on Web3, which means we may still have hierarchies where people in developing countries are willing to do more work for less pay than people who are already rich. For instance: Axie Infinity — a “play to earn” game — quickly developed a huge user base/workforce in the Philippines, leading to reports that the game represented a new way for people to make a living; as new players flooded the game and depressed the value of Axie’s currency, those players are reportedly making less than that country’s minimum wage.
+
+Meanwhile, I continue to struggle with one of the key Web3 pitches: that you can now own your digital assets on the internet. Which seems fine and maybe useful for stuff I really want to own. But I also don’t want to have to engage in a transaction everytime I do something on the internet. And I don’t necessarily want to own the platforms and services I use on the internet. I’m fine that former Twitter CEO Jack Dorsey and his investors made a lot of money from me and other Twitter users because I got to use Twitter for free. I’m also fine with the fact that Twitter could decide to kick me off its platform, and that I wouldn’t have any recourse, except to go somewhere else, because that means Twitter can also deplatform people who are genuinely bad actors.
+
+In the Web3 world, the power of the platforms to deplatform is something to fear. In my world, it’s the difference between trusting your security at a club to a bouncer versus a mosh pit. I’ve had fun in mosh pits! But I also appreciate a guy who can kick out a goon.
+
+So ... I don’t know. Web3 turns on a lot of my early warning indicators that light up when things don’t make sense to me. And I’m convinced that a lot of people who are piling into NFTs and lots of other get-rich-quick pitches are going to get burned because that’s what happens to most people who go for get-rich-quick pitches.
+
+We may find out quite soon, especially if the value of the crypto currencies that fuel so much of Web3 keeps falling. On the other hand, if only some of the claims Web3 fans make about it end up panning out, then the tech world is headed for a reshuffling, at the very least. And the fact that I can’t tell you what the future is going to look like doesn’t mean I won’t keep looking at it. So I’ll keep my eyes on this stuff.

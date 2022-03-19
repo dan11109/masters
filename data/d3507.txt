@@ -1,0 +1,43 @@
+Tesla recalls autos over software that allows them to roll through stop signs
+
+DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their "Full Self-Driving" software lets them roll through stop signs without coming to a complete halt.
+
+Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update. The "rolling stop" feature allows vehicles to go through intersections with all-way stop signs at up to 5.6 miles (9 kilometers) per hour.
+
+The recall shows that Tesla programmed its vehicles to violate the law in most states, where police will ticket drivers for disregarding stop signs. The Governors Highway Safety Association, which represents state highway safety offices, said it is not aware of any states that allow rolling stops.
+
+Tesla agreed to the recall after two meetings with officials from the National Highway Traffic Safety Administration, according to documents. Tesla said in documents that it knows of no crashes or injuries caused by feature.
+
+The recall covers Model S sedans and X SUVs from 2016 through 2022, as well as 2017 to 2022 Model 3 sedans and 2020 through 2022 Model Y SUVs.
+
+Selected Tesla drivers are "beta testing" the "Full Self-Driving" software on public roads. The company says the cars cannot drive themselves and drivers must be ready to take action at all times.
+
+A firmware release to disable the rolling stops is expected to be sent out in early February.
+
+Messages were left early Tuesday seeking comment from Tesla, which has disbanded its media relations department.
+
+NHTSA said in documents that failing to stop for a sign can increase the risk of a crash. "The Vehicle Safety Act prohibits manufacturers from selling vehicles with defects posing unreasonable risks to safety, including intentional design choices that are unsafe," the agency said in a statement. "If the information shows that a safety risk may exist, NHTSA will act immediately."
+
+Tesla introduced the "rolling stop" feature in a software update that was sent out to the testing owners on Oct. 20, 2020. NHTSA met with Tesla on Jan. 10 and 19 this year to discuss how the software operates, the documents said. On Jan. 20, the company agreed to disable the rolling stops with the software update.
+
+The "rolling stop" feature let the Teslas go through all-way stop signs as long as the owner enabled the function. The vehicles have to be traveling below 5.6 mph while approaching the intersection, and no "relevant" moving cars, pedestrians or bicyclists can be detected nearby. All roads leading to the intersection had to have speed limits of 30 mph or less, the documents said. The Teslas would then be allowed to go through the intersection at 0.1 mph to 5.6 mph without coming to a complete stop.
+
+Philip Koopman, a professor of electrical and computer engineering at Carnegie Mellon University, said 4-way stop signs are commonly placed to protect intersections for children when no crossing guard is present. He said Tesla's "machine learning" system can mistakenly identify objects. "What happens when FSD decides a child crossing the street is not 'relevant' and fails to stop?" he asked. "This is an unsafe behavior and should never have been put in vehicles."
+
+Koopman said traveling through a stop sign at 5.6 mph is akin to treating it as a yield sign.
+
+Governors safety group says Tesla keeps "pushing the bounds of safety"
+
+Jonathan Adkins, executive director of the governors safety association, said he's not surprised that Tesla programmed vehicles to violate state laws. "They keep pushing the bounds of safety to see what they can get away with, and they've really been pushing a lot," he said. "Each time it's just a little bit more egregious. It's good to see NHTSA is pushing back."
+
+The automaker should make safety a priority "not taking advantage of some of our worst behaviors on the road," Adkins said.
+
+In November, NHTSA said it was looking into a complaint from a California Tesla driver that the "Full Self-Driving" software caused a crash. The driver complained to the agency that a Model Y went into the wrong lane and was hit by another vehicle. The SUV gave the driver an alert halfway through the turn, and the driver tried to turn the wheel to avoid other traffic, according to the complaint. But the car took control and "forced itself into the incorrect lane," the driver reported. No one was hurt in the Nov. 3 crash.
+
+In December, Tesla agreed to update its software to prevent video games from being played on center touch screens while its vehicles are moving.
+
+NHTSA also is investigating why Teslas using the company's less-sophisticated "Autopilot" driver-assist system have repeatedly crashed into emergency vehicles parked on roadways.
+
+Last week Tesla said in its earnings release that "Full Self-Driving" software is now being tested by owners in nearly 60,000 vehicles in the U.S. It was only about 2,000 in the third quarter. The software, which costs $12,000, will accelerate Tesla's profitability, the company said.
+
+CEO Elon Musk said he'd be shocked if the software can't drive more safely than humans this year. In 2019, Musk predicted a fleet of autonomous Tesla robotaxis on the roads by the end of 2020.

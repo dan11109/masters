@@ -1,0 +1,75 @@
+WASHINGTON — As the United States saw a nearly vertical increase in coronavirus cases in late December and a growing backlash over a shortage of rapid tests, President Joe Biden promised that his administration would mail 500 million of them to Americans, free of charge.
+
+There was a major hitch: The administration had yet to secure a single test kit for the program. The announcement sent officials hunting for stockpiles in warehouses around the country and uncommitted supply from large manufacturers.
+
+Today the federal government is mailing tens of millions of rapid tests requested through a new Postal Service website that has sustained heavy traffic, with roughly 60 million households ordering the tests, according to the White House. The nation has a little more than twice that many households overall, suggesting enormous interest. Orders are limited to four per household for now.
+
+Sign up for The Morning newsletter from the New York Times
+
+Testing shortages have bedeviled the government since the beginning of the pandemic, and the resurgent supply of at-home tests, which deliver results in about 15 minutes, may be coming too late, given that the omicron variant has already peaked in many regions. But the home deliveries, and broadened access to tests overall, represent a striking turnaround for an administration that had struggled to meet demand as it focused largely on vaccination.
+
+It succeeded partly by turning to a cast of new players in a fast-expanding market, including one company that had never before made rapid tests. The administration also spent billions late last summer and in the fall buying tests directly from manufacturers, and sped up the process for reviewing and authorizing new tests.
+
+Biden’s announcement days before Christmas came as tests had all but disappeared from retail shelves. The world’s largest testing manufacturers, which were already racing to meet skyrocketing demand from public and commercial buyers around the world, could not possibly provide that many tests for Americans on such short notice.
+
+So the administration turned at first to several little-known companies that had supplies of federally authorized tests in warehouses, ready to ship. One of them, Medea Inc., in Pleasanton, California, had previously imported vodka bottles equipped with LED lights promoted by Shaquille O’Neal, drawing ridicule from a top Republican senator at a recent hearing.
+
+By mid-January, the administration announced a series of much larger contracts with test manufacturers — and a plan to double the number of free tests that Biden planned to send Americans, bringing the total to 1 billion.
+
+The contractors for the program have committed to providing more than 550 million tests, a White House spokesperson said. They include Abbott Laboratories, a company based in Illinois that makes a popular at-home test called BinaxNOW and is receiving about $300 million; Roche, the Swiss pharmaceutical giant that is distributing tests made by a Korean manufacturer and is being paid roughly the same amount; and the German company Siemens Healthineers. Roche and Siemens received federal clearance for their tests in December.
+
+The administration made its biggest bet — with a $1.3 billion contract — on iHealth, a company based in Sunnyvale, California, that until late last year had never made a rapid test. Now it is a major supplier not just to the federal government, but also to states and cities. (The administration announced another order with the company Friday, purchasing nearly 105 million more test kits.)
+
+The company, which previously focused on making medical devices like forehead thermometers, got authorization from the Food and Drug Administration for its test in November. Its Chinese manufacturer has since hired 16,000 additional workers and is sending more than 10 million tests a day to the United States on cargo jets, according to Jack Feng, iHealth’s chief operating officer.
+
+Abbott said it manufactured 70 million tests in January and would ramp up to 100 million a month by March. Feng said iHealth was making 300 million tests per month.
+
+Officials said the federal government contracted for as many tests as the companies could make, as long as they did not interrupt other orders. Feng said the Biden administration set its sights on iHealth because more established manufacturers had already committed their near-term supply to other customers around the globe.
+
+“We are only focused on the U.S. market,” he said.
+
+When Biden took office last winter as the virus raged, he vowed to make testing cheap and easily accessible. He formed what he called a “pandemic testing board” to improve supply and access, but its work remained all but invisible. While the first over-the-counter rapid antigen test was authorized in December 2020, the tests did not become readily available in pharmacies until last spring.
+
+Some experts have said that the FDA was slow to review and authorize new tests last year because of meticulous standards that made swift market growth challenging, even in a public health emergency. In the fall, the agency worked with the National Institutes of Health to introduce an accelerated review process that has allowed regulators to clear tests within days of receiving final data.
+
+There are now 14 authorizations of over-the-counter rapid antigen tests, compared with around a half-dozen at the end of the summer.
+
+The Biden administration could have also moved more aggressively by making larger, European-style investments in at-home tests earlier in 2021, some experts said, guaranteeing a larger, more stable market for manufacturers and allowing the administration to stockpile for future variant-driven surges.
+
+The administration did make a targeted effort last year to supply tests, said Tom Inglesby, the White House testing coordinator. He cited billions of dollars worth of rapid and lab tests delivered to schools and long-term care facilities.
+
+“It’s kind of portrayed that somehow that the government stopped being interested in testing,” Inglesby said. “Absolutely not true.”
+
+By the spring and early summer, virus cases had fallen significantly, and demand for at-home testing cratered. Abbott discarded heaps of test supplies in Maine and temporarily shuttered its Illinois factory. At the time, the Centers for Disease Control and Prevention said that fully vaccinated people exposed to the virus did not need to test unless they displayed symptoms, guidance that was later reversed.
+
+The administration did not make its most substantial commitments to at-home testing until late summer and fall, when fewer tests were authorized. In September and October, the administration pledged $3 billion to guarantee purchases of at-home tests, helping companies such as Abbott and Quidel keep supply lines open, officials said.
+
+The investment is now paying off, White House officials said, as tests return to pharmacy shelves and are sent to community clinics and schools.
+
+Inglesby said the administration’s $3 billion investment had propped up test makers when demand was substantially lower in the late summer and fall. The number of over-the-counter tests available to the U.S. market grew from 25 million in August to 375 million in January, with another increase projected for February, he said. That inventory is separate from the tests in the administration’s mail program.
+
+The Biden administration last year also regularly invoked the Defense Production Act, which can be used to compel companies to prioritize the manufacturing of key supplies; it also took other actions that had a similar effect, including by helping pipette manufacturers get better access to resin needed for test kits, said Tim Manning, a White House supply official.
+
+The new accelerated review process has attracted interest from a wide range of testing manufacturers, who must prove they can make a substantial number of tests. One test, made by Maxim Biomedical, was authorized in mid-January after an expedited review.
+
+It is still unclear whether a better supply of rapid tests could have contained a variant as infectious as omicron, which also overwhelmed countries where such tests were in wide use even before its arrival.
+
+But the tests have another important public health purpose: New treatments for the virus must be given early in the course of infection, so identifying cases quickly is crucial.
+
+The tests are also providing an extra layer of security to Americans who are now more in the habit of using them. In an Axios-Ipsos poll conducted in late January, 44% of respondents said they had already ordered free tests through the government. Eighty-four percent of respondents said they supported the plan, including a majority of unvaccinated respondents.
+
+Mailing out the tests has required an elaborate effort in itself. The Health and Human Services Department recently hired Steven Goddard, a senior FedEx official, to help with the logistics. The Postal Service, which is managing the deliveries, hired thousands of temporary employees and arranged dozens of fulfillment centers.
+
+The website where people can order the free tests — which has been largely free of glitches — suggests using them at least five days after close contact with someone infected with the virus; if symptoms appear; or before gatherings, especially with vulnerable people.
+
+The Biden administration has said it is not cannibalizing supplies of tests from states, since its contracts for the mail program specified that companies could not divert supplies intended for other customers. But Gene Burk, the director of procurement for Connecticut, said that iHealth told him the federal government’s contract initially slowed shipments of that company’s tests to his state, although the problem was fixed.
+
+Burk added that although Connecticut was in talks with Roche to supply future tests, “their ability to supply product to states is directly affected by their ability to meet their commitments to the federal contract.”
+
+Feng of iHealth acknowledged that he gave the federal government priority at first and that states had complained about slower deliveries.
+
+Noting that the mailed tests are most likely arriving too late to have much effect on the omicron surge, Dr. Mark B. McClellan, a Duke University health policy professor, said that another new Biden policy, requiring insurers to reimburse people for at-home tests, “seems like a more promising longer-term direction.”
+
+Still, Mara Aspinall, an expert in biomedical diagnostics at Arizona State University who is also on the board of OraSure, which makes rapid coronavirus tests, said that the Biden administration should use the lesson it learned over the past six weeks.
+
+“The world has changed,” she said. “The culture among Americans has changed. People are now willing and interested to do COVID tests at home.”

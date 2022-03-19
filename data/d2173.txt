@@ -1,0 +1,11 @@
+The paper
+
+M. Tesfaye et al., “Impact of depression and stress on placental DNA methylation in ethnically diverse pregnant women,” Epigenomics, 13:1485–96, 2021.
+
+The mental health of pregnant people can influence the development and health of their children who are still in utero, though the molecular mechanisms linking maternal depression or stress and fetal outcomes remain unclear. As part of a broader study on fetal growth, the National Institutes of Health (NIH) assessed maternal mental health through questionnaires administered between 2009 and 2013 to more than 300 ethnically diverse women at six points during their pregnancies, and coupled these data with placental tissue samples collected shortly after delivery.
+
+Examining the associations between the survey responses and placental DNA methylation, NIH genetic epidemiologist Fasil Tekola-Ayele and colleagues found that maternal depression was correlated with 16 distinct methylation sites, while stress was linked to another two sites. Furthermore, methylation at two of the depression-linked sites was significantly associated with changes in the expression of ADAM23 and CTDP1, genes implicated in neurodevelopment and psychiatric conditions such as schizophrenia and bipolar disorder.
+
+The authors say that the strength of the study lies in its use of an ethnically diverse cohort to identify placental methylation sites possibly related to fetal neurodevelopment. “When the problem involves diverse groups, the study should also mirror that demographic,” Tekola-Ayele says. “Scientific advances . . . and the benefits in terms of health that come out of it [will] reach wider population groups when we start with diverse and representative samples.”
+
+Thomas O’Connor, a University of Rochester Medical Center clinical psychologist who was not involved with the study, hopes the researchers will “extend this to see how those changes in placental DNA methylation map onto—or not—child health outcomes.” He adds that while using placentas in health diagnostics is not yet “actionable,” the work suggests it may be in the future.

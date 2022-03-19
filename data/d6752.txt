@@ -1,0 +1,45 @@
+A Tesla model S sits parked outside of a new Tesla showroom and service center in Red Hook, Brooklyn, New York City on July 5, 2016. (Spencer Platt/Getty Images)
+
+Tesla To Recall Near 54,000 Vehicles After Automated Software Rolls Cars Through Stop Signs
+
+Tesla announced on Feb. 1, that it will recall 53,822 cars and SUVs as its Full Self-Driving Beta (FSD Beta) software allows certain models to make rolling stops at intersections, posing a safety risk, in accordance with U.S, government auto safety regulators.
+
+According to a report by the National Highway Traffic Safety Administration (NHTSA), the recall will cover 2016-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.
+
+The NHTSA said that the automated navigational software known as FSD Beta, allows vehicles to travel through all-way stop intersections at up to 0.1 mph to 5.6 miles per hour without first coming to a stop.
+
+Tesla said it will disable the feature with an over-the-internet software update that disables the “rolling stop” functionality in early February, according to the NHTSA.
+
+The automaker agreed to the recall on Jan. 20 after two meetings earlier in the week with officials from the auto safety agency.
+
+Tesla said that it knows of no crashes or injuries caused by the feature and as of Jan. 27, it was not aware of any warranty claims.
+
+The Governors Highway Safety Association, which represents U.S. state highway safety offices, said that there are no states where a rolling stop is legal.
+
+Tesla appears to have programmed its vehicles to violate state laws, which require vehicles to come to a complete halt at stop signs.
+
+Moving a vehicle through a stop sign at 5.6 mph is akin to treating it as a yield sign, according to auto safety experts.
+
+The “rolling stop” functionality was originally released on Oct. 20 as a software update.
+
+The company claimed that the “rolling stop” system would only activate as long as the owner enabled the function and when no moving cars, pedestrians, or bicyclists were detected near the intersection.
+
+The NHTSA also objected to the requirement that drivers opt-in for what it called its self-driving “Assertive” mode.
+
+The company told the press last week, that the number of FSD Beta vehicles being tested by volunteer testers in the U. S. has increased to nearly 60,000 from a few thousand at the end of last September.
+
+The software, which costs $12,000 per vehicle, will accelerate Tesla’s profitability, according to the company.
+
+Tesla’s CEO Elon Musk said that he would be shocked if his company’s automation systems could not drive more safely than human drivers by the end of 2022.
+
+Tesla has been testing the improved version of its FSD software on public roads, but the navigational systems as of yet, do not make the cars autonomous.
+
+In November, Tesla recalled nearly 12,000 vehicles sold since 2017 for another software update when sensors caused a false forward-collision warning and unexpected activations of the emergency brakes.
+
+The NHTSA is looking into a complaint from a California Tesla owner, after FSD software caused a non-fatal crash on Nov. 3, when his Model Y car took control and forced itself into the incorrect lane after he had tried to avoid other traffic.
+
+In December, Tesla agreed to update its software on 580,000 vehicles to prevent video games from being played on front center touchscreens while its vehicles are moving.
+
+The agency is also investigating Tesla’s “Autopilot” driver assistance system in 765,000 vehicles after about a dozen crashes involving Tesla vehicles and emergency vehicles parked on roadways.
+
+Tesla did not immediately respond to a request comment.

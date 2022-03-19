@@ -1,0 +1,19 @@
+El Salvador is enlisting US technological expertise to help fix bugs causing government issued bitcoin wallets to malfunction.
+
+The Chivo wallet has faced technological issues since being rolled out in September, when El Salvador became the first nation in the world to make Bitcoin legal tender. In a statement issued yesterday, the government of El Salvador confirmed that it had begun working with US company AlphaPoint which will provide the technological infrastructure for the wallet going forwards.
+
+“El Salvador and President Bukele are truly leading the world with the adoption of bitcoin on a national scale,” said AlphaPoint co-founder and chief executive Igor Telyatnikov.
+
+“We at AlphaPoint are honored to be involved in the process and provide the reliable, scaled solutions needed for this effort. The Chivo Wallet app is currently supporting millions of Salvadorans, many of them accessing financial services for the first time,” he continued.
+
+AlphaPoint started working on Chivo’s problematic front and back end payments infrastructure in December after reaching an agreement with El Salvador’s President Nayib Bukele, CoinDesk first reported.
+
+At the time, multiple Twitter threads emerged in which citizens of El Salvador aired grievances about missing funds and failed transactions with a viral thread by user “El Comisionado” detailing reports of losses which totalled $120,000.
+
+Wallet users in El Salvador have detailed a string of technological and security issues including unauthorised charges, blocked accounts, phishing schemes targeting users, failed transfers and identity theft.
+
+The government has reportedly terminated its contract with Athena Bitcoin, which previously provided the technology infrastructure for the Chivo wallet.
+
+Despite the technological hitches Nayib Bukele continues to claim that the Chivo wallet is popular with users. In a recent tweet he claimed that government the issued bitcoin wallet already has 4m users, quite a feat for a country with a population of just 6.5m.
+
+Read more: Crypto criticism swells as thousands protest in El Salvador against Bitcoin policies

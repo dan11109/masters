@@ -1,0 +1,35 @@
+Heading into today's post-market earnings juggernaut, which includes EA, SBUX, PYPL, GM, and others, the one company investors were most focused on was Google, pardon Alphabet, the third largest US company by market cap As Bloomberg writes in its preview, investors will be laser focused on progress in Alphabet’s Google Cloud segment. The internet company’s cloud-computing unit is the No. 3 player in the U.S., behind Amazon Web Services and Microsoft’s Azure.
+
+But the far bigger question is whether Alphabet would continue the trend of earnings beats set last week with Microsoft and ahead of the coming earnings from Amazon and Facebook.
+
+The answer, at least judging by the stock's kneejerk reaction which is 3.5% higher, was a solid yes. Here are the results:
+
+Net income of $20.6 billion makes Q4 2021 a record quarter for profit. And visually:
+
+Commenting on the quarter, CEO Sundar Pichai said that “our deep investment in AI technologies continues to drive extraordinary and helpful experiences for people and businesses, across our most important products. Q4 saw ongoing strong growth in our advertising business, which helped millions of businesses thrive and find new customers, a quarterly sales record for our Pixel phones despite supply constraints, and our Cloud business continuing to grow strongly.”
+
+CFO Ruth Porat said that the success this quarter was due to strong consumer activity online and advertising spending:“our fourth quarter revenues of $75 billion, up 32% year over year, reflected broad-based strength in advertiser spend and strong consumer online activity, as well as substantial ongoing revenue growth from Google Cloud. Our investments have helped us drive this growth by delivering the services that people, our partners and businesses need, and we continue to invest in long-term opportunities.”
+
+Alas, don't expect her to give any official guidance, that said as Bloomberg adds, "analysts will be keen to hear color on what she expects the current quarters to bring."
+
+The company's gains were driven by the core advertising business, which has benefited from continued growth in commerce, especially during the lockdown. Curiously, the big beat did not come from YouTube, as everyone was expecting. Expect to hear more about this on the call - how much room there is when it comes to monetization and whether it’s negatively exposed to reopenings.
+
+According to a recent Morgan Stanley survey, Google’s e-commerce strategy has gained more traction, finding that Amazon customers were increasingly starting their shopping searches on Google. And indeed, with the $43 billion in revenue the Search business generated last quarter -- trouncing the very strong $32 billion from a year earlier -- there must be some truth to the idea that the shopping strategy is paying off.
+
+As Bloomberg notes, a somewhat unexpected bright spot in the report is Google’s ad tech business, called “Google Network.” It connects ad buyers to websites, and its stronger-than-expected $9.3 billion in revenue shows that demand remains strong to advertise across the web.
+
+Google also recently made a change so that the highest bid wins ad auctions rather than the second-highest bid. It said at the time this might mean more money to publishers.
+
+Unlike last quarter when investors were disappointed by Cloud, this time the Cloud narrowly beat Wall Street’s estimates, in another sign that the division’s growth is robust and predictable. Cloud generated revenue of $5.54 billion, up +45% y/y and beating estimates of $5.42 billion; This however translated into a cloud operating loss of $890 million, worse than the consensus estimate of $820.9 million. The lack of profit shows that while Cloud is growing, it is still not accelerating fast enough to overtake Amazon or Microsoft anytime soon.
+
+The one potential weakness was YouTube, where ad revenue fell short of analyst estimates. The video site’s ad business is thought of as more costly to maintain and difficult to grow than the company’s Search-ads business.
+
+Unlike some of its gigatech peers, Google generated profit in just one division: consumer services, which was the only one that made money (Cloud lost $890 million, Other Bets, including Waymo self-driving cars and Verily, which focuses on health-care tech, lost $1.45 billion -- a wider loss than a year earlier). CFO Porat has been mum on when exactly these companies might be spun off.
+
+Alphabet disclosed that it now has 156,500 direct employees. (It has an undisclosed number of contract and temp employees.) At the end of 2018, the company had less than 100,000 full-time staff.
+
+But the kicker for investors was that Alphabet approved a 20-for-one stock split, and as part of the stock split, the company will give $0.001 for each share of the company’s Class A stock, Class B stock and Class C stock.
+
+It appears that GOOGL is going after the reddit crowd: this is how CFO Porat explained the stock split: "The reason for the split is it makes our shares more accessible. We thought it made sense to do; the timing is to increase the number of authorized shares."
+
+In kneejerk reaction, GOOGL stock is surging some 7% after hours, and is pushing not just its immediate advertising peers Snap, Pinterest, Meta, and Twitter higher, but is lifting the entire Nasdaq.

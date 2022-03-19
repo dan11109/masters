@@ -1,0 +1,13 @@
+(Reuters) - Enterprise software startup Chargebee has raised $250 million at a valuation of $3.5 billion, in a funding round lead by Tiger Global and Sequoia Global, the company's founders said.
+
+The latest round of funding more than doubles the company's valuation in just nine months, highlighting the potential of its tools and services in helping companies manage their subscription-based models and integrate with payment networks such as Stripe and Paypal.
+
+Founded in the southern Indian city of Chennai by two friends, Krish Subramanian and Rajaraman Santhanam, more than a decade ago, Chargebee caters to a range of companies from startups to big enterprises, including Study.com, cloud-based software maker Freshworks and lifestyle brand Goop.
+
+"There is room for a lot of innovation in the B2C (business to consumer) side. In B2B, subscription is the norm," Subramanian told Reuters.
+
+Although business-to-business initiative accounts for about 70% of Chargebee's volumes, a spurt in e-commerce-related activity is helping it add more clients on the business-to-consumer side.
+
+"We believe every company will be a subscription company in the future. The predictability of a subscription business model is extremely attractive," Sequoia India Managing Director Tejeshwi Sharma said.
+
+Funds from the latest financing round will be used towards product innovation and global expansion, as well as corporate growth initiatives, Chargebee said.

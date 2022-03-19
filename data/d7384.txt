@@ -1,0 +1,11 @@
+KNOXVILLE, Tenn. (AP) — A Tennessee community college suffered a data security attack that may have resulted in unauthorized access to personal information of former and current students, faculty and staff, officials said.
+
+Pellissippi State Community College is sending out notifications about a ransomware attack focused mainly on encrypting school data to force a ransom payment, the Tennessee Board of Regents said in a news release Tuesday. Pellissippi State did not pay a ransom, the Knoxville college said on its website.
+
+The college’s main database and credit card payment systems were not involved, and no data from those systems was accessed by unauthorized users, said the board, which oversees the state's community colleges.
+
+The investigation did confirm unauthorized access to a system that included names, email addresses, internal identification numbers and school passwords, the board said.
+
+The investigation showed “it was impossible to determine with certainty whether any additional personally identifiable information was accessed,” the news release said. Free credit monitoring is being offered to those who could have been affected.
+
+Copyright 2022 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.

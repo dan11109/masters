@@ -1,0 +1,29 @@
+From chihuahuas to great Danes, dogs differ more in size than any other mammal species on the planet. A mutation behind such variation has been traced to an unexpected source: ancient wolves.
+
+The mutation lies near a gene called IGF1, which researchers flagged 15 years ago as having a major role in the size variation of domestic dogs. It was the first of around two dozen such genes identified. But efforts to pinpoint the gene variant responsible had come up empty.
+
+“IGF1 has been a thorn in our side,” says Elaine Ostrander, a geneticist at the US National Human Genome Research Institute in Bethesda, Maryland, who led the 2007 study that first identified IGF1’s role in dog size, as well as the 27 January study in Current Biology that now fulfils the quest.
+
+Ancient dogs, domesticated from wolves in the past 30,000 years, differed in size to some extent. But the current extreme size differences — the largest breeds are up to 40 times bigger than the smallest — emerged in the past 200 years, as humans established modern breeds.
+
+Ostrander and colleagues including geneticist Jocelyn Plassais at INSERM-University of Rennes, France, analysed the genomes of more than 1,400 canids, including ancient dogs, wolves, coyotes and 230 modern dog breeds.
+
+When they compared variation in the region around the IGF1 gene with body size in dogs and wild canids, one variant stood out. It lies in a stretch of DNA that encodes a molecule called a long non-coding RNA, which is involved in controlling levels of the IGF1 protein, a potent growth hormone.
+
+The researchers identified two versions, or alleles, of the variant. Across all breeds, dogs with two copies of one allele tended to weigh less than 15 kilograms, whereas two copies of the other version were more common in dogs weighing more than 25 kilograms. Dogs with one copy of each allele tended to be intermediate in size, says Ostrander. Canines with two copies of the large-bodied allele also had higher levels of the IGF1 protein in their blood, compared with those with two copies of the ‘small’ allele.
+
+When the researchers looked at the genomes of other canids, they found a similar relationship. “This wasn’t just a dog story. This was a wolf story and a fox story and a coyote story and everything story. It was canine-wide,” says Ostrander.
+
+The researchers think that the allele linked to small bodies is, evolutionarily, much older than the large-bodied version. Coyotes, jackals, foxes and most other canids they analysed had two copies of the ‘small’ version, suggesting that this version was present in a common ancestor of these animals.
+
+It’s not clear when the large-bodied allele evolved. The researchers found that an ancient wolf that lived in Siberia around 53,000 years ago carried one copy of this version. Other ancient wolves and modern grey wolves tend to have two, suggesting that the large-bodied allele might have been beneficial to wolves.
+
+The prevailing view among scientists used to be that small body size was probably linked to relatively new genetic changes, potentially unique to domestic dogs, says Robert Wayne, an evolutionary biologist at the University of California, Los Angeles. “This turns the whole story on its head. That’s what’s marvellous about the whole thing.”
+
+The study could be a sign that dogs were domesticated from smaller-bodied wolves, dissimilar to present-day grey wolf populations, says Elinor Karlsson, a geneticist at the University of Massachusetts Chan Medical School in Worcester. “We don’t know what the wolves that led to dogs even looked like,” she says.
+
+Researchers also caution that the story of dog size is far from complete. Plassais wants to work out how the variants influence levels of the IGF1 protein. And the variant isn’t the only determinant of size in dogs: the IGF1 gene itself accounts for about 15% of variation between breeds.
+
+“We’re not talking about a mutation that makes a wolf chihuahua-sized,” says Karlsson. “We’re talking about one of many mutations that tends to make you a bit smaller.”
+
+This article is reproduced with permission and was first published on January 27 2022.

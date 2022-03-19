@@ -1,0 +1,87 @@
+Doug Olson was thrilled a month after his treatment when a bone marrow biopsy showed he had no more cancer cells.
+
+His doctors were happy, too, of course, but were less convinced that the experimental therapy they'd given him would prove effective long-term.
+
+"We did not think this would be a curative therapy at all," said Dr. Carl June, the University of Pennsylvania researcher who helped develop the method of triggering the patient's own immune system to fight cancer.
+
+But more than a decade later, Olson, now of Pleasanton, California, still has no signs of the leukemia that otherwise would have killed him long ago.
+
+Now, June and his colleagues said in a news conference Tuesday that they're ready to use the C-word: cure.
+
+"Oncologists, cancer doctors, researchers don't use words like 'cure' lightly or easily or frankly very often," said Dr. Doug Porter, who treated Olson for his leukemia. "We really believe we can start to use the word 'cure.'"
+
+Others are stopping short of that word but remain impressed by the promise of so-called CAR-T cells, a "living drug" that has now been given to tens of thousands of patients, regularly providing extra years of healthy life.
+
+In a study published Wednesday in the journal Nature, the Penn team showed that CAR-T cells given to Olson and another patient, William Ludwig, in 2010 were still present. In a dish those cells were still able to kill leukemia cells.
+
+Ira Mellman, vice president of research oncology at Genentech in South San Francisco, California, said that while the findings were just in two people, the impact is profound and the potential is inspiring.
+
+"It does emphasize that cellular-based cancer therapies are probably the therapy of the future," he said. "What we're looking at now are still very preliminary, almost crude approaches as compared to what I think will be possible when you can bring the full breadth of cell engineering to bear on cancer."
+
+The CAR-T approach has been approved to treat a handful of cancer types, and eventually "all blood cancers will end up being treated with some form of CAR-T cells," June said.
+
+Olson and Ludwig's long-term success remains exceptional, but a large majority of leukemia and lymphoma patients do see some benefit from CAR-T therapy, said Dr. Michel Sadelain, director of the center for cell engineering at Memorial Sloan Kettering Cancer Center in New York City.
+
+Biden to relaunch 'Cancer Moonshot:' Aims to cut cancer deaths in half over the next 25 years
+
+In CAR-T therapy, doctors remove some of the patient's T cells, often considered the "soldiers" of the immune system, and re-engineer them in a lab to target a protein found on the surface of cancer cells. When these CAR (chimeric antigen receptor) T cells are put back in the body, they seek out and destroy cells with that protein.
+
+Olson's cells had largely evolved in his body from the type of T cells that rapidly kill to "helper T" cells – like soldiers on watch for the enemy.
+
+The fact that those cells could survive in him for nearly a decade offers researchers an opportunity to figure out how to help others get the same results, Sadelain said.
+
+"At the end of the day, it still remains mysterious as to why did those cells persist so, so long," he said. "If anybody in the field could understand this better, we could probably all design even better CAR-T cells."
+
+One hurdle is making CAR-Ts work more consistently in blood cancer patients, probably by moving them earlier in the treatment course rather than waiting until other options have failed, June said.
+
+When chronic lymphocytic leukemia, or CLL, was first treated with CAR-Ts, 25% to 35% of patients achieved complete remission, Porter said. Now, by combining them with other therapies, response rates can be over 70%.
+
+"Many of the remissions are sustained," he said. "It doesn't work for everybody, but when it works, it can be quite dramatic."
+
+CAR-Ts work even better in Non-Hodgkin lymphoma, he said, and a similar approach to treating multiple myeloma was approved by the Food and Drug Administration last year.
+
+But researchers still haven't gotten CAR-Ts to work against solid tumors, which account for the vast majority of cancers.
+
+"The field is currently at an impasse," June said. "There's a need for more research by the field to make solid tumors respond like blood cancers do."
+
+Solid tumors have ways of sidelining T cells, turning them from "being active killer T cells to being basically bystanders," he said.
+
+Another major hurdle is cost. CAR-T therapy can cost more than $400,000. June said that's less costly than other treatments that are less effective.
+
+But it still limits their usefulness.
+
+Sadelain said he's optimistic the cost will come down as the technology and manufacturing evolve.
+
+Biggest cancer advances: 50 years after the US declared war against cancer, the fight continues.
+
+In Olson, the CAR-T cells that remain are all descendants of three single cells. If scientists can figure out what made those cells work and give patients fewer, more effective cells, that will bring down the cost of therapy, Sadelain said.
+
+To date, CAR-T cells have largely been made in "mom and pop" academic labs, he said. Now, about 140 biotechnology companies and most of the large pharmaceutical companies have CAR-T programs. They will innovate the manufacturing process and improve the therapy.
+
+"I'm convinced it's going to get better," Sadelain said. "Hopefully, that will be reflected in a lower price."
+
+Olson was 49, married with four kids and running a lab instrumentation company. He didn't need active treatment for the first six years and achieved remission for five years with chemotherapy. By 2010, though, about half of his bone marrow cells were cancer cells.
+
+Back then, many patients declined to participate in such an experimental approach, Sadelain said, but Olson was impressed by the results in mice and figured he didn't have much to lose.
+
+Olson got his first infusion of CAR-T cells in September 2010. He felt nothing until a few weeks later when he developed severe flu-like symptoms and ended up in the hospital for three days.
+
+At the end of his hospital stay, Porter entered his room and and announced that already 19% of his bone marrow cells were the engineered CAR-Ts.
+
+The next week, Porter could find no evidence of cancer cells. "I was pretty convinced I was done with cancer," said Olson, now 75.
+
+He did experience one of the major potential side effects of CAR-T. So many cancer cells dying so quickly, dumping their contents into the blood, can lead to electrolyte and kidney damage. But the problems were short-lived.
+
+Other patients suffer cytokine release syndrome, in which chemicals released by the immune system can cause extremely high fevers, nausea, muscle and joint pain and even organ damage. "We now understand why it happens and have good treatments," Porter said.
+
+A third problem is neurologic toxicity – some patients have trouble thinking or getting words out after the treatment. That can lead to seizures, but in the vast majority of patients it resolves on its own, he said.
+
+Doctors who have a lot of experience dealing with CAR-T patients have learned how to manage the side effects, Porter said.
+
+Olson has had no ill effects since those earliest days. The treatment destroyed his immune system's B cells, which have the same protein on their surface as cancer cells. So every month or so he gets an infusion to replace them. But other than that, he said, he never has to think about his battle with cancer.
+
+June said it's experiences like Olson's that lead him to consider CAR-T a possible cure.
+
+"We need many more patients to be followed," he said, "but at least in these first two patients with 10 years follow-up, there is no more leukemia."
+
+Health and patient safety coverage at USA TODAY is made possible in part by a grant from the Masimo Foundation for Ethics, Innovation and Competition in Healthcare. The Masimo Foundation does not provide editorial input.

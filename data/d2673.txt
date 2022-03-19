@@ -1,0 +1,77 @@
+Putting a pause to aging has been dismissed as science fiction until the emergence of NAD+ supplements for longevity. Suddenly, everyone is talking about boosting their NAD levels with a pill.
+
+NAD+ supplementation provides numerous benefits. NAD+ supplements are known to rejuvenate your body from the inside. NAD+ or nicotinamide adenine dinucleotide is a coenzyme necessary in various metabolic processes. It helps repair and fuel each cell in your body.
+
+Cells are the building blocks of the human body. Your body has trillions of them. And for you to stay young and healthy, you need to take care of your cellular health.
+
+Sirtuins: The Key to Keeping Your Cells Healthy
+
+Cellular damage is a predominant part of aging. When cell damage accumulates, you experience functional decline and you become more susceptible to diseases.
+
+Your cells rely on sirtuins to stay healthy. Sirtuins are a group of proteins that regulate cellular homeostasis.
+
+Homeostasis is internal balance. It is involved in various functions such as the maintenance of body temperature, glucose levels, blood pressure, fluid volume, and breathing patterns. It is also necessary for your body’s protection from infection and the removal of toxins.
+
+In short, your body needs homeostasis to function, grow, and survive. Without it, your quality of life will suffer. You will experience premature ageing, get sick, and possibly die early.
+
+The SIRT family has seven members. They can influence protein activity in your body. Apart from their importance in cell health, they also play major roles in autophagy, metabolism, and oxidative stress.
+
+Arguably the most researched of all SIRTs, SIR1 functions as a cholesterol sensor. It regulates your cholesterol levels and lipid homeostasis. Reduced SIRT1 expression is also associated with various types of cancer, including prostate and ovarian cancers.
+
+SIR1 is also involved in the regulation of autophagy. Autophagy is your body’s natural way of eliminating damaged cells so that newer and healthier cells can grow.
+
+It has been discovered that SIRT2 can extend the lifespan of yeasts by 50%. It promotes longevity by inhibiting the formation of mutant ribonucleic acid (RNA) molecules. There are also reports that calorie restriction increases the lifespan of various organisms by activating SIR2.
+
+Apoptosis, or cellular suicide, is programmed cell death. It is the process of eliminating unwanted cells or those that are damaged beyond repair. When your body loses its apoptotic control, cancer cells will survive longer, accumulate, and increase tumor progression.
+
+Apoptosis is part of your body’s homeostasis and immune reactions and thus contributes to healthy aging.
+
+Research suggests that SIR3 has pro-apoptotic functions and impacts cell growth control.
+
+Telomeres are the specific DNA-protein structures at the end of a chromosome. Their length is maximum at birth and decreases as you age. They are, therefore, a biomarker of aging. Decreased telomere length is linked to cancer, hypertension, diabetes, and other diseases.
+
+SIRT4 aids in the regulation of telomere lengthening and telomerase recruitment. Binding SIRT4 to defective telomerase also helps restore telomere length.
+
+The free radical theory is one of the most popular theories about aging. This theory suggests that reactive oxygen species (ROS), are the major cause of aging. ROS are cytotoxic; they can cause cell damage or cell death.
+
+SIRT5 plays a major role in nitrogenous waste management and ROS detoxification. It helps enhance your body’s defense against cellular damage and promote longevity.
+
+Aging involves the atrophy of our tissues and organs. Damages to our DNA, RNA, proteins, and lipids are part of our aging process. The human genome contains our genetic blueprint and the loss of genome stability contributes to disease and aging. When your body’s natural DNA repair mechanism is impaired, premature aging and age-related diseases occur.
+
+SIRT6 promotes longevity by stimulating PARP1 activity and enhancing DNA repair during oxidative stress.
+
+SIRT7 is involved in various biological processes including DNA damage repair, stress response, apoptosis, cellular senescence, and heterochromatin maintenance.
+
+Heterochromatin is vital to the maintenance of genomic stability, which, as mentioned earlier, plays a key role in aging.
+
+Why You Need a NAD Booster
+
+SIRTs depends on NAD+ to work. When your NAD+ levels are low, SIRT activity also decreases.
+
+You must take NAD supplements because your NAD levels decline by 50% between ages 40 and 60. The irony is that as DNA damage and chromosome instability worsens, the more NAD+ sirtuins consume.
+
+Reduced NAD+ levels lead to various problems like premature aging and age-related diseases such as diabetes, cognitive impairment, and high blood pressure.
+
+Taking NAD+ supplements for longevity is a practical way of prolonging your life and protecting yourself from age-related diseases. Preventing the depletion of NAD+ in your body is a promising strategy to preserve your quality of life.
+
+Rahman, S., & Islam, R. (2011). Mammalian Sirt1: insights on its biological functions. Cell communication and signaling: CCS, 9, 11. https://doi.org/10.1186/1478-811X-9-11
+
+Ou, X., Lee, M. R., Huang, X., Messina-Graham, S., & Broxmeyer, H. E. (2014). SIRT1 positively regulates autophagy and mitochondria function in embryonic stem cells under oxidative stress. Stem cells (Dayton, Ohio), 32(5), 1183–1194. https://doi.org/10.1002/stem.1641
+
+Michan, S., & Sinclair, D. (2007). Sirtuins in mammals: insights into their biological function. The Biochemical journal, 404(1), 1–13. https://doi.org/10.1042/BJ20070140
+
+Simon J. Allison & J Milner (2007) SIRT3 is Pro-Apoptotic and Participates in Distinct Basal Apoptotic Pathways, Cell Cycle, 6:21, 2669-2677. https://doi.org/10.4161/cc.6.21.4866
+
+Allison, S. J., & Milner, J. (2007). SIRT3 is pro-apoptotic and participates in distinct basal apoptotic pathways. Cell cycle (Georgetown, Tex.), 6(21), 2669–2677. https://doi.org/10.4161/cc.6.21.4866
+
+Vaiserman, A., & Krasnienkov, D. (2021). Telomere Length as a Marker of Biological Age: State-of-the-Art, Open Issues, and Future Perspectives. Frontiers in genetics, 11, 630186. https://doi.org/10.3389/fgene.2020.630186
+
+Hass, E. P., & Zappulla, D. C. (2015). The Ku subunit of telomerase binds Sir4 to recruit telomerase to lengthen telomeres in S. cerevisiae. eLife, 4, e07750. https://doi.org/10.7554/eLife.07750
+
+Teppo, H. R., Soini, Y., & Karihtala, P. (2017). Reactive Oxygen Species-Mediated Mechanisms of Action of Targeted Cancer Therapy. Oxidative medicine and cellular longevity, 2017, 1485283. https://doi.org/10.1155/2017/1485283
+
+Mao, Z., Hine, C., Tian, X., Van Meter, M., Au, M., Vaidya, A., Seluanov, A., & Gorbunova, V. (2011). SIRT6 promotes DNA repair under stress by activating PARP1. Science (New York, N.Y.), 332(6036), 1443–1446. https://doi.org/10.1126/science.1202723
+
+Sun, L., & Dang, W. (2020). SIRT7 slows down stem cell aging by preserving heterochromatin: a perspective on the new discovery. Protein & cell, 11(7), 469–471. https://doi.org/10.1007/s13238-020-00735-5
+
+Imai, S., & Guarente, L. (2014). NAD+ and sirtuins in aging and disease. Trends in cell biology, 24(8), 464–471. https://doi.org/10.1016/j.tcb.2014.04.002

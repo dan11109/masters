@@ -1,0 +1,13 @@
+(Reuters) - Rain Neuromorphics Inc., a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday it raised $25 million.
+
+Gordon Wilson, CEO and co-founder of Rain, said that while most AI chips on the market today are digital, his company's technology is analogue. Digital chips read 1s and 0s while analogue chips can decipher incremental information such as sound waves.
+
+"It's about looking at the brain first for clues to inform how we can build a new substrate of computation," said Wilson. "By building neural circuits, we can achieve extraordinary efficiency and extraordinary scale simultaneously."
+
+The AI market is currently dominated by NVIDIA Corp's graphic chips. Other U.S. startups that have been raising funds include SambaNova Systems, Groq, and Cerebras Systems.
+
+Sam Altman, a well-known investor and AI researcher in Silicon Valley who is an early backer of Rain, told Reuters by e-mail that the company's "neuromorphic approach could vastly reduce the costs of creating powerful AI models and will hopefully one day help to enable true artificial general intelligence."
+
+Rain's chip is designed by adding a circuit called a memristor on top of silicon wafers. Memristors, originally designed by HP Labs about a decade ago, serve as 'artificial synapses' that allow for the processing and memory to happen in the same place, making it possible to run AI algorithms much faster and more energy-efficiently than existing digital AI chips, said Wilson.
+
+The funds raised will be used to expand the engineering team as Rain takes its prototype chip to the next stage of development, said Wilson.

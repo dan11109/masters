@@ -1,0 +1,35 @@
+Last November, the Federal Reserve System announced tapering (a gradual reduction of the central bank’s monthly asset purchases to the point of ending the asset purchase program, which means that the Fed would stop increasing its balance sheet).
+
+In December, it announced another decrease in monthly asset purchases.
+
+And in the last Federal Open Market Committee meeting, held on December 14–15 and published in January, the committee participants spoke not only of finishing the tapering, but also of a faster rate hiking. In addition, participants spoke of reducing the Fed’s balance sheet (selling the assets it holds, shrinking its balance sheet and the monetary base, M0) while it is hiking rates or after. This is the process called quantitative tightening, which is the opposite of quantitative easing, an expansion of the Fed’s balance sheet through asset purchases (expanding the monetary base).
+
+Prior to the tapering announcement in November, the Fed was purchasing about $120 billion in assets a month ($80 billion in government bonds and $40 billion in mortgage-backed securities). That is, the Fed’s balance sheet was expanding by about $120 billion each month (meaning that M0 was increasing at a similar pace):
+
+And because the Fed has been buying a lot of government bonds (to cover much of the federal budget deficit; see chart 2), the money it has created has been spent by the government and has gone directly into the economy, increasing M1 and M2, as can be seen in chart 3. Consequently, the Consumer Price Index (CPI) soared in 2021 (reaching 7 percent in December, the highest level since 1982), as seen in chart 4. Note that this is the official CPI and that the government changed its methodology in the 1990s (if you want to know the details, listen to this episode of The Peter Schiff Show, starting at 10:04). According to Shadow Government Statistics, if calculated with the 1980s methodology, the CPI is slightly above 15 percent.
+
+The Core CPI (which excludes food and energy prices), reached an annual rate of 5.5 percent in December (the highest rate since 1991):
+
+The Flexible Price Consumer Price Index, which measures the prices of CPI items that are much more flexible to economic conditions, reached 17.9 percent in December, the highest level in the entire historical series of this index, which began in 1967:
+
+Source: FRED; author’s own elaboration. Note: Flexible Price Consumer Price Index in orange and the Flexible Price Consumer Price Index excluding food and energy in red.
+
+However, in December and in January the Fed did not taper that much. Between December 1 and December 29, the Fed’s balance sheet expanded by $107 billion. As of this writing, the latest data available is for January 19 (the Fed’s balance sheet data is updated every Wednesday), and between December 29 and January 19, the Fed’s balance sheet expanded by $110.4 billion! And we still have one Wednesday until the end of January.
+
+The Fed doesn’t have much room to raise rates. The interest rate on reserve balances, which is the rate that the Fed uses to influence the federal funds rate, is at 0.15 percent. In July 2021, the interest rate on reserve balances replaced the interest rate on excess reserves (the interest that banks received from the Fed on excess reserves they held with the Fed and which was the rate that the Fed used, since 2008, to influence the federal funds rate) and the interest rate on required reserves (the interest rate on reserves that banks are required to hold with the Fed). For details on how the Fed began to use the interest rate on excess reserves to influence the federal funds rate in 2008, read pages 61–68 of my article at Procesos de mercado.
+
+Note that the federal funds rate has been almost on the same level as the interest rate on excess reserves (and now as the interest rate on reserve balances):
+
+Chart 7: Federal Funds Rate (Red), Interest Rate on Excess Reserves (Green), and Interest Rate on Reserve Balances (Orange), 2019–22
+
+The highest level the federal funds rate reached in the last cycle of interest rate hike (2015–18) was 2.4 percent. In December 2018 there was significant turbulence in the US stock market, and in September 2019 there was a crisis in the repurchase market and the Fed started to inject liquidity into this market (doing QE and expanding its balance sheet). The Fed had started raising rates in December 2015 (but started lowering them again in the first half of 2019) and started shrinking its balance sheet in late 2017 (but in September 2019 was expanding it again).
+
+So, the Fed was not able to shrink its balance sheet and raise rates previously. Therefore, most likely, the US economy would not support rate hikes right now. The Fed stopped raising rates to avoid a significant stock market drop in late 2018, when the interest rate had reached only 2 percent. At that time, the US federal debt stood at “only” $22 trillion; today, it stands at almost $30 trillion. Therefore, it is likely that the maximum level that the federal funds rate can reach without complications in the financial market and in the economy is already lower than 2.4 percent. The Fed has even less room to raise interest rates right now.
+
+In addition, commercial banks are registering unrealized losses again. An increase (decrease) in the value of the assets that a bank has on its balance sheet represents an unrealized gain (loss) which would occur if the assets were sold. One of the measures the Fed often takes to convert unrealized losses into unrealized gains is to lower the federal funds rate.
+
+Note (in chart 8) that when the Fed raised the federal funds rate (green line, right axis), the banks started to register unrealized losses (purple line, left axis, below zero). To prevent this, the Fed started to lower the federal funds rate. Also note that recessions (represented by the grey bars) have occurred most times after unrealized losses have been registered. That does not mean that there will be a recession right now, as there are other factors to consider. But it shows how fragile the system is, considering that the Fed is barely tapering (let alone raising rates or shrinking its balance sheet) and the banks are already facing unrealized losses.
+
+Source: FRED; author’s own elaboration. Note: Banks’ unrealized gains/loss are the purple line read against the left axis, and the federal funds rate is the green line read against the right axis.
+
+The Fed is trapped in its own web. It does not have much room to raise rates without major complications in the financial market and in the economy. Even if it finally delivers on tapering and starts raising rates, it won’t get any further than it did back in the last rate hike (2015–18) and balance sheet shrinking (2017–19) cycles.

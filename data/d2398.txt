@@ -1,0 +1,65 @@
+Last month I had strep throat–level pain while living with two people who were confirmed COVID positive. Yet, several rapid tests kept telling me I was COVID-free.
+
+It’s a confusing experience shared by many as the highly transmissible Omicron variant continues to spread in the US. At the same time, millions more at-home rapid tests are becoming available. (And by available, I mean there are more of them, but you can’t always find them at your local store. You can order free rapid tests from the government here.)
+
+While PCR tests are still the gold standard, they can take a few days to a week or more to produce results as understaffed labs struggle to keep up with demand. Rapid tests are a welcome addition because they can give results in minutes. But beware of the dreaded false negative.
+
+It happened to Georgia resident and economist Christopher Cunningham, 46, whose 16-year-old daughter had a positive result on a PCR test on Jan. 7 and again 10 days later. Her rapid tests, however, always came back negative. The same thing happened to his 9-year-old daughter. (Both were vaccinated.)
+
+But just because your rapid test takes a while to turn positive ⁠— or doesn’t at all ⁠— it doesn’t mean you’re free of infection or that your test is a fraud.
+
+It could happen because you were vaccinated, you missed the window when it would’ve turned positive, you collected your test sample incorrectly, or you need to test again in a few days, according to Dr. Emily Landon, an infectious disease expert and associate professor of medicine at the University of Chicago Medicine. (Keep in mind your symptoms could have a non-COVID cause, too — the flu is circulating.)
+
+Here’s how rapid tests work and why you can get false negative results when you have COVID, particularly in the early stages of infection.
+
+Rapid COVID tests, also called antigen tests, work by detecting bits of proteins on the surface of the coronavirus. They only appear positive when your body has a certain amount of virus, or viral load, which means they may not detect COVID cases that don’t reach that threshold.
+
+And most importantly, Landon noted, rapid tests can be negative early in your infection even if you’re feeling symptoms because it may take a while before there’s enough virus for the test to pick up. (Your vaccination status can influence this process, too, but more on that later.)
+
+This relatively high threshold correlates with contagiousness, experts say. If your rapid test is positive, you’ll definitely want to isolate yourself from others, Landon said. If it’s negative later on in the course of your infection, after symptoms resolve, you’re likely no longer infectious.
+
+“Rapid tests are definitely not like a pregnancy test where it's going to be positive as long as it's been a few weeks after someone missed a period,” she said. “It's only going to pick it up when you're at peak infectiousness, and they’re almost never false positive.”
+
+In fact, there’s no need to confirm a positive rapid test result with a PCR test, Landon added. (The FDA and CDC agree.)
+
+“Rapid tests are really reliable,” Landon said. “You don't need to swear at the company and say, ‘There's no way I could have COVID’; you definitely have COVID. You need to stay home.”
+
+There’s a relatively small window when a rapid test will be positive
+
+You can think of your viral load like a mountain, says Dr. Martin Blaser, a professor of medicine and pathology and laboratory medicine at Rutgers Robert Wood Johnson Medical School. “It kind of goes up sharply to a peak and then it starts to decline eventually down to zero.”
+
+However, the window of peak viral load when rapid tests will appear positive can be relatively short, Landon said, and some people are going to miss it entirely, which could explain my and many others’ experience.
+
+The window varies widely, too; it could last three days, six days, or even a week or more for some people because everyone clears the virus from their system at their own pace, she said.
+
+In what seems like another layer of complexity, the intensity of that second line on your rapid test is likely an indicator of infectiousness, experts say. The darker it is (and the quicker it appears within the 15-minute wait period), the higher your viral load and risk of spreading the virus, and vice versa.
+
+You should take more than one rapid test
+
+If you have coronavirus symptoms and test negative on a rapid test, Landon suggests you confirm that result with a PCR test or take another rapid within the next two days.
+
+While rapid tests are specific and are unlikely to generate a false positive, they aren’t that sensitive, meaning they are more likely to generate a false negative than some other tests.
+
+On the other hand, PCR tests are much more sensitive. They look for the tiniest fragments of coronavirus genetic material by multiplying the virus over a million times until it becomes detectable, Blaser told BuzzFeed News. This means PCR tests could be positive even though you’re no longer contagious because they can pick up on really low viral loads.
+
+These tiny viral remains could also be zombies: pieces of dead virus that can’t make you or others sick.
+
+The takeaway: Don’t be surprised if your PCR test stays positive for weeks or months after initial infection. It’s normal and common.
+
+The CDC says you can end isolation after five days if you have not had a fever for 24 hours and other symptoms are resolving. After that, they suggest caution for an additional five days, including mask-wearing, avoiding travel, and staying away from people who are at high risk.
+
+You don't need to have a negative result to end isolation, but if you do want to take a rapid antigen test, they suggest testing near the end of the five-day period when you have been fever-free for 24 hours (without taking fever-reducing medicine). If it's still positive, you should isolate for the full 10 days.
+
+One of the most important things you should remember about rapid COVID tests is that they aren’t influenced by symptoms — they only turn positive if your nasal swab has enough virus it can detect. While logically you might think more virus equals more symptoms, that’s not always the case.
+
+Your runny nose and muscle aches are just your body’s reactions to it fighting the coronavirus off, and that reaction varies depending on if you’ve encountered the germ before, either from an infection or vaccination. It could take several days after symptoms appear for your body to produce a viral load that’s to the rapid test’s liking.
+
+Having symptoms can be a bonus, however, because they can help you decide when to take your rapid test to ensure you get the most accurate results possible.
+
+“People who are asymptomatic pretty much have the same rise and fall in viral load as people who are symptomatic,” Blaser said. “So, you don't really know where you are in that cycle.”
+
+As we learned early in the pandemic, you can still spread the coronavirus even if you’re symptom-free. This means rapid tests are also helpful tools for asymptomatic people, though it’s harder to tell when to take a test without symptoms to guide you, Landon said.
+
+Moreover, time isn’t on your side, Landon admitted. Rapid test results can change quickly as your viral load rises and drops, often within hours, so if you don’t have COVID symptoms, taking a rapid test “right before you have an event is much better than using it the day or morning before because in 12 hours that test could read positive.”
+
+It’s unclear how viral load differs between symptomatic and asymptomatic people infected with the Omicron variant, but many early studies found it was comparable among the groups.

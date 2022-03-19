@@ -1,0 +1,9 @@
+A feature enables users to share their performance, with rows of five bricks indicating how close they were to guessing the correct word. For the uninitiated: A green brick indicates that the letter is correct and in the exact location; a yellow brick indicates that the letter appears in the word but in a different place; and a gray or black brick indicates that the letter does not appear anywhere in the word. These analog brick layouts have been endlessly memed and have driven millions of tweets.
+
+“The Times remains focused on becoming the essential subscription for every English-speaking person seeking to understand and engage with the world,” a company statement said. “New York Times Games are a key part of that strategy.”
+
+Since The Times put up a paywall in 2011, its business strategy has revolved around persuading readers and users, the overwhelming majority of whom get Times content digitally, to buy subscriptions. The traditional newspaper business model is centered on advertising.
+
+The Times sells subscriptions to its print newspaper and core digital news app. For lower prices, it also offers subscriptions to a games app (Games), a recipe app (Cooking) and, as of last year, Wirecutter, a product-recommendation site The Times bought in 2016. This month, The Times spent $550 million to buy the sports news website The Athletic, hailing the 1.2 million subscribers the site brings with it.
+
+The business strategy has been vindicated to the tune of millions of new subscribers. In November, The Times said in an earnings report that it had nearly 8.4 million. (Its next earning report is scheduled to be released Wednesday.) In December, The Times reported that Games and Cooking each had more than one million subscribers.

@@ -1,0 +1,29 @@
+With the rollercoaster that was January market still fresh in everyone's mind, Deutsche Bank's Jim Reid published his monthly "best and worst" asset return analysis, and also shared some January performance bullets today after a fascinating month.
+• S&P 500 -5.26% (-11.40% at the intra-day lows on 24th). NASDAQ -8.98% (-16.30% at lows). Euro Stoxx 600 -3.81% (-6.82% at lows).
+• Fed hikes for 2022 up from 2.96 to 4.94 (5.06 high on last day of month).
+• Brent Crude (+17.3%) and WTI (+17.2%) both seeing their strongest gains in 11 months. Former above $90 for first time since 2014.
+• Dollar was strongest G10 FX (+0.9% gain) after +6.4% in 2021. 18-month highs on 28th.
+• CDS: HY CDS +46.5bps (+57.5bps at 28th wides). US IG +10.5bps (+14.9bps at wides)
+• Bitcoin (-17.0%) fell for third month, joined by XRP (-26.5%), Ethereum (-27.3%) and Litecoin (-25.3%).
+• Covid: Up from 9.2m weekly global cases to 23.1m in January. Weekly global fatalities up from 44.1k to 66.6k. However, peak weekly number in pandemic before Omicron was a relatively low c.6m weekly cases but over 100k (confirmed) fatalities. So a huge swing.
+
+With these highlights in minds, DB's Henry Allen writes that the biggest market theme in January was undoubtedly the hawkish pivot by multiple central banks in response to continued and persistent inflation. The Fed in particular has been at the forefront of this, and over the month investors moved to price in a much more aggressive pace of hikes relative to their expectations around the New Year. Indeed, Fed funds futures have gone from pricing 2.96 hikes in 2022 at the end of December, to 4.94 hikes by the end of January.
+
+Furthermore, markets are seriously considering the prospect of back-to-back hikes, with a second full hike priced in by the subsequent meeting in May, and Fed Chair Powell notably refused to rule out the prospect of tightening at every meeting for the remainder of the year.
+
+So with the prospect of tighter monetary policy much earlier than anticipated, risk assets struggled in January, with global equities seeing their worst monthly performance since March 2020, at the height of the initial wave of the Covid-19 pandemic. Credit also struggled on both sides of the Atlantic, as did traditional haven assets like sovereign bonds and precious metals.
+
+The other main theme was rising tensions between Russia and the West over Ukraine, which further dampened sentiment among risk assets. That said, growing tensions did prove supportive for oil prices, with Brent crude surpassing $90/bbl in January for the first time since 2014. The increase in the perceived risk of conflict also sent European natural gas futures higher, which are up +20.4% over the month, although they’re still beneath their peak late last year, having lost -24.0% in December.
+
+Which assets saw the biggest gains in January?
+• Oil: After its impressive gains in 2021, oil held onto its position as the top-performing major asset in January as well, with Brent Crude (+17.3%) and WTI (+17.2%) both seeing their strongest gains in 11 months. Growing geopolitical risk played a role in supporting prices, in light of rising tensions between Russia and the West over Ukraine, not least given Russia is one of the world’s biggest oil exporters. In addition, the fact that the Omicron variant is proving to be less virulent and is not leading to major lockdowns has raised hopes that further restrictions on mobility will be avoided.
+• US Dollar: The dollar was the strongest performer out of the G10 currencies in January, with the dollar index hitting an 18-month high thanks to a further +0.9% gain. The currency’s strength came as investors moved to price in a more aggressive series of rate hikes from the Federal Reserve this year, and follows its +6.4% gain in 2021.
+
+Which assets saw the biggest losses in January?
+• Equities: Risk assets suffered significantly as central banks adopted a more hawkish tone, bringing into question the sustainability of current valuations. In total return terms, the S&P 500 (-5.2%) suffered its worst monthly performance since March 2020, at the height of the initial wave of the pandemic, whilst Europe’s STOXX 600 (-3.8%) also lost ground. Tech stocks led the selloff, with the NASDAQ (-9.0%) seeing even larger declines that made it the worst performer in our entire sample. One of the few to see a positive return were bank stocks, supported by higher yields.
+• Credit: It was a bad month across the board in credit as well, with January marking the first time since March 2020 that every credit index in our table moved lower, across all of USD, EUR and GBP. US credit underperformed in particular, with US HY down -3.0%, and IG non-fin down -3.4%.
+• Sovereign bonds: As with credit, sovereign bonds lost ground across the board, and US Treasuries (-1.9%) underperformed their European counterparts such as bunds (-1.1%) and OATs (-1.2%). Indeed, it was the worst monthly performance for US Treasuries since February 2021. BTPs (-0.6%) were a relative outperformer, thanks to easing concern over political risk given the re-appointment of President Mattarella, which has enabled the Draghi government to continue in office.
+• Cryptocurrencies: It was a bad month to be in cryptocurrencies as the selloff from late-2021 continued. Bitcoin ended the month down a further -17.0% in its third consecutive decline, and others including XRP (-26.5%), Ethereum (-27.3%) and Litecoin (-25.3%) suffered significant losses as well.
+• Precious Metals: The hawkish pivots by central banks helped to undermine the position of precious metals as a hedge against inflation, with both gold (-1.8%) and silver (-3.6%) declining over the month.
+
+Finally, here is the visual return of assets both in local currencies and USD, for the month of January (which is also the YTD period).

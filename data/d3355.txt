@@ -1,0 +1,17 @@
+Using a high-efficiency, high-power conducting material known as gallium nitride, the Navy’s new AN/SPY-6 radar system can amplify high-power signals at microwave frequencies and enable commanders to locate multiple approaching threats at one time. This is one of the key advantages of the Navy’s DDG 51 Flight III destroyers. The U.S. Navy is surging along with production of its first seven Flight IIIs in order to propel the Navy into a new realm of operational combat. The fleet of Flight IIIs will use much greater amounts of electricity and mobile power to facilitate the use of advanced weapons such as lasers.
+
+A more advanced power generation capacity is also vital to the Flight III destroyers’ SPY-6 radar system.
+
+Some of the more advanced technical characteristics of the SPY-6 include its integrated hardware and software engineered with common interfaces. The new TI-16 components enable the Aegis radar to add next-generation weapons, such as electronic warfare applications or laser weapons, as they become available.
+
+The SPY-6 and other radar systems work by sending a series of electromagnetic signals or “pings” at an object at the speed of light. The pings then bounce off an object send back information that identifies the shape, size, speed, or distance of the object. Analyzing the speed, frequency, range, and variation of the return signals enables radar operators to develop a rendering of what a specific threat may be.
+
+More sensitive radar systems like the SPY-6 will enable ships to see smaller objects at greater distances and acquire more detailed information about threats at times effectively distinguishing threats from non-hostile objects. The SPY-6 can distinguish approaching enemy anti-ship missiles from less relevant objects and track higher-altitude ballistic missiles on the same system. Given this scope, the SPY-6 radar systems will streamline otherwise disparate fire-control technologies. The SPY-6 can cue short-range interceptors as well as long-range ballistic missile interceptors like the SM-3.
+
+The DDG 51 Flight III is also being built with the same Rolls Royce power turbine that was engineered for the DDG 1000. However, the DDG 51’s turbine is designed with some special fuel-efficiency enhancements. Capt. Seth Miller, Program Manager for the DDG 51, explained that some structural adjustments to the hull were necessary to accommodate the new systems.
+
+“There's about a four-foot extension on each side from the flight deck that follows the hull down to the waterline that we added to the ship. Also, just to offset that added weight on the ship, we added some additional structure down low on the hull,” Miller told an audience at the 2022 Surface Navy Association Symposium.
+
+In total, the Navy plans to acquire at least ten or more Flight III ships. Miller noted that upcoming milestones for the first Flight III ships include preparations and testing on the ship’s new generator and engine. The first Flight III destroyer will arrive in 2023.
+
+Kris Osborn is the Defense Editor for the National Interest. Osborn previously served at the Pentagon as a Highly Qualified Expert with the Office of the Assistant Secretary of the Army—Acquisition, Logistics & Technology. Osborn has also worked as an anchor and on-air military specialist at national TV networks. He has appeared as a guest military expert on Fox News, MSNBC, The Military Channel, and The History Channel. He also has a Master's Degree in Comparative Literature from Columbia University.

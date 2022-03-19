@@ -1,0 +1,9 @@
+These ready-made antibodies inhibit the binding of the drug to its target, human epidermal growth factor 2 (HER2), enabling researchers to develop highly selective and sensitive assays for bioanalysis and drug monitoring of pertuzumab and its biosimilars.
+
+Pertuzumab is a targeted cancer drug that binds to the HER2 protein, which is overexpressed in HER2-positive cancers, preventing cell growth and proliferation. The new range of anti-pertuzumab antibodies includes monovalent Fab format antibodies suitable for the development of a pharmacokinetic bridging ELISA to measure free drug, as well as fully human IgG1 antibodies with varying levels of affinity, which can be used as a surrogate positive control or reference standard in an anti-drug antibody assay.
+
+“We’re continuously introducing new ranges of recombinant, monoclonal anti-idiotypic antibodies to support researchers in developing robust methods that deliver reproducible and translatable results,” said Amanda Turner, Bio-Rad Product Manager, Life Science Group. “These sequence-defined reagents are well-characterized and non-animal-derived to ensure batch-to batch consistency and help reduce the use of animals in scientific research,” she said.
+
+The antibodies are generated using the Human Combinatorial Antibody Libraries (HuCAL®) and CysDisplay®, a proprietary method of phage display, along with guided selection methods to obtain highly targeted reagents. The recombinant production method ensures a consistent and secure supply.
+
+The anti-pertuzumab antibodies are approved for in vitro research purposes and for commercial services providing in vitro testing to support preclinical and clinical drug development.

@@ -1,0 +1,49 @@
+Stop me if you’ve heard this one before:
+
+A popular internet personality, beloved by millions for his irreverent, anti-establishment commentary, becomes the subject of a heated backlash after critics accuse him of promoting dangerous misinformation.
+
+The controversy engulfs the creator’s biggest platform, which has rules prohibiting dangerous misinformation and now faces pressure to enforce them against one of its highest-profile users.
+
+Hoping to ride out the storm, the platform’s chief executive publishes a blog post about the importance of free speech, declining to punish the rule-breaker but promising to introduce new features that will promote higher-quality information.
+
+Still, the backlash intensifies. Civil rights groups organize a boycott. Advertisers pull their campaigns. A hashtag trends. The platform’s employees threaten to walk out. Days later, the chief executive is forced to choose between barring a popular creator — and face the fury of his fans — or being seen as a hypocrite and an enabler of dangerous behavior.
+
+If this scenario sounds familiar, it’s because a version of it has occurred on every major internet media platform over the last half decade. Facebook and Alex Jones, Twitter and Donald Trump, YouTube and PewDiePie, Netflix and Dave Chappelle: Every major platform has found itself trapped, at some point, between this particular rock and a hard place.
+
+Now, it’s Spotify’s turn. The audio giant has faced calls for weeks to take action against Joe Rogan, the mega-popular podcast host, after Mr. Rogan was accused of promoting Covid-19 misinformation on his show, including hosting a guest who had been barred by Twitter for spreading false information about Covid-19 vaccines. This month, a group of hundreds of medical experts urged Spotify to crack down on Covid-19 misinformation, saying Mr. Rogan had a “concerning history” of promoting falsehoods about the virus.
+
+So far, the backlash cycle is hitting most of the usual notes. Critics have compared snippets of Mr. Rogan’s interviews with Spotify’s stated rules, which prohibit material “that promotes dangerous false or dangerous deceptive content about Covid-19.” Two folk-rock legends, Neil Young and Joni Mitchell, led the boycott, pulling their catalogs from Spotify last week in protest of the platform’s decision to support Mr. Rogan. Brené Brown, another popular host, soon followed, saying she would not release new episodes of her Spotify-exclusive podcast “until further notice.”
+
+Daniel Ek, Spotify’s chief executive, published the requisite blog post on Sunday, defending the company’s commitment to free expression and saying that “it is important to me that we don’t take on the position of being content censor.” And while Spotify declined to take action against Mr. Rogan, it committed to putting advisory warnings on podcast episodes about Covid-19, and directing listeners to a hub filled with authoritative health information.
+
+Despite its surface similarities, Mr. Rogan’s Spotify standoff is different from most other clashes between creators and tech platforms in a few key ways.
+
+For one, Spotify isn’t merely one of many apps that distribute Mr. Rogan’s podcast. The streaming service paid more than $100 million for exclusive rights to “The Joe Rogan Experience” in 2020, making him the headline act for its growing podcast division. Critics say that deal, along with the aggressive way Spotify has promoted Mr. Rogan’s show inside its app, gives the company more responsibility for his show than others it carries.
+
+Another difference is who wields the leverage in this conflict. YouTube, Twitter and Facebook are ad-supported businesses; if advertisers disagree with moderation decisions, they can threaten to inflict financial damage by pulling their campaigns. (Whether these boycotts actually accomplish anything is another question.)
+
+Spotify, by contrast, makes most of its money from subscriptions, so it’s unlikely to suffer financially from its handling of Mr. Rogan unless there’s a wave of account cancellations. And given how few Netflix subscribers appear to have canceled their subscriptions during last year’s dust-up with Mr. Chappelle, Spotify can probably breathe easy on this front for now.
+
+But Spotify has a different constituency to worry about: stars. A leading music streaming service like Spotify needs to have popular hits in its library, which means that, in theory, musicians with enough firepower could force change simply by threatening to remove their albums. (As a viral tweet last week put it: “Taylor Swift could end Joe Rogan with a single tweet at Spotify.”) In practice, it’s a bit more complicated than that, in part because record labels, not musicians, generally control streaming rights. But it’s still possible that if Mr. Young’s and Ms. Mitchell’s moves inspire more top musicians and/or labels to pull their songs from Spotify, it could become a real business risk for the company.
+
+A third difference is Mr. Rogan himself. Unlike Mr. Jones and other firebrands, he is primarily an interviewer, and most of the uproar has been in response to things his guests have said. That gives him a more plausible excuse for entertaining fringe views, although critics have pointed out that Mr. Rogan’s own statements about Covid-19 have also been full of dubious information.
+
+So, how will Mr. Rogan’s backlash cycle end? It’s hard to say.
+
+One possibility is that it will end like those of Mr. Jones and Mr. Trump, whose behavior was so outrageous (and who continued to flagrantly violate the rule even after being called out) that Twitter and Facebook had no real choice but to shut them down permanently.
+
+Mr. Rogan could double down on Covid-19 misinformation, daring Spotify to de-platform him and casting himself as a “victim of the woke mob,” censored for speaking too many uncomfortable truths. He could wriggle out of his Spotify deal and head back to YouTube and to the other platforms that used to carry his show. (He could even go to a right-wing social network like Gettr or Parler, but I’m guessing he’d prefer an audience.)
+
+Or he could do what PewDiePie, the popular YouTube creator whose real name is Felix Kjellberg, did after he was accused of making antisemitic comments. After briefly becoming a hero to right-wing reactionaries, Mr. Kjellberg apologized for his behavior, cleaned up his channel and eventually worked his way back into the platform’s good graces.
+
+Mr. Rogan could quietly capitulate, protecting his Spotify deal and backing away from the Covid-skeptical fringe in a way that doesn’t cost him his reputation as an anti-establishment contrarian. (This outcome looked like the likeliest one on Sunday night, when Mr. Rogan posted a 10-minute Instagram video apologizing for his “out of control” show and pledging to invite more mainstream experts on to discuss the pandemic.)
+
+A third option is that the whole controversy could simply fizzle out, like last year’s imbroglio with Mr. Chappelle and Netflix, which began after the comedian was accused of making transphobic remarks during a special and ended, days later, with no real consequences for anyone. But this outcome doesn’t seem likely, given that boycotts have already begun and appear to be snowballing.
+
+The relationship between media personalities and the networks that air their work has always been fraught. But it has gotten messier in recent years, as growth-hungry tech companies have begun to pay top stars directly for their content. These deals have made them more like the radio and TV stations of old — picking popular acts, paying handsomely for their work, assuming greater responsibility for their output — and less like the neutral platforms they once claimed to be.
+
+The relationships between the companies and their users is changing, too. Users of these services have learned, by observing dozens of backlash cycles over the past several years, that a sufficient amount of pressure can get a tech company to do almost anything. They understand that the companies’ rules are fuzzy and improvisational, and that what chief executives mostly want — no matter what high-minded principles they profess to hold — is for people to stop yelling at them. They also know that if a company won’t take action based on listener complaints alone, there are other ways to turn up the heat.
+
+Spotify may think it’s gotten past the worst of the Rogan backlash. But we know from recent history that what looks like the end of a content moderation controversy is often just the warm-up act.
+
+The post Spotify’s Joe Rogan Problem Isn’t Going Away appeared first on New York Times.

@@ -1,25 +1,35 @@
-The journalists at BuzzFeed News are proud to bring you trustworthy and relevant reporting about the coronavirus. To help keep this news free, become a member and sign up for our newsletter, Incoming .
+It once was a rule of thumb on Wall Street that January set the tone for the year. By that measure, the forecast for stocks in 2022 would be downbeat, and subject to wild swings.
 
-Rep.-elect Luke Letlow died on Tuesday evening at a Louisiana hospital from complications due to the coronavirus after being hospitalized for 11 days. He was 41.
+The S&P 500 index ended the month down 5.3 percent on Monday, its worst monthly performance since March 2020, which brought stomach-churning drops in the early days of the pandemic.
 
+It would have been even worse if not for strong rallies on Friday and Monday that regained some of ground lost earlier in the month. The S&P 500 gained 1.9 percent on Monday, building on a 2.4 percent gain on Friday. This was in keeping with sharp moves — some up, but mostly down — in previous weeks as investors reassessed their assumptions about markets and the economy.
 
+Over the past two years, the market has defied the uncertainty of the world outside Wall Street. Stocks quickly recovered from declines in the early days of the pandemic and are now up more than 90 percent from their 2020 low. Many investors feared missing out on the seemingly unstoppable gains, especially in technology stocks and other risky companies, and piled in.
 
-Letlow was days away from being sworn in as US representative for Louisiana's 5th Congressional District as the state's youngest member of Congress.
+Shares of technology firms had some of the biggest swings. The tech-heavy Nasdaq composite fell as much as 18.5 percent from its Nov. 19 high and 16.3 percent for the month in intraday trading last week. On Monday, it gained 3.4 percent, helping pare its losses for the month to 9 percent.
 
+Recently, that feeling has given way to a growing concern that the stock investments may no longer be such a sure thing. Driving that worry, and the turbulence in January, has been inflation. More specifically, the concern is over how the Federal Reserve will fight stubbornly high inflation, which has been stoked in part by extensive emergency support provided by the Fed to bolster the economy during the pandemic, including cutting its key policy interest rate to near zero.
 
+For decades, many economists presumed that globalization and technological innovation made persistently high inflation, last seen in the 1970s and ’80s, unlikely to return. The rationale for steadily rising stocks was based on the persistence of historically low inflation and interest rates. Now, that appears to be changing.
 
-His death was announced via spokesperson Andrew Bautsch in a statement published on Facebook.
+Last week, Jerome H. Powell, the Fed chair, confirmed a plan to raise interest rates “soon,” probably starting in March. But he gave few details on how high interest rates would need to go or what the Fed might do about the trillions of dollars in bonds it has bought to lift the economy during the past two years.
 
-"The family appreciates the numerous prayers and support over the past days but asks for privacy during this difficult and unexpected time," said Bautsch.
+“The Fed really changed its tone in the last month,” said Kathy Bostjancic, the chief U.S. financial economist at Oxford Economics. “It had been communicating that inflation had been transitory, and now they’re worried it’s not and that it will be more persistent.”
 
-On Dec. 18, Letlow announced via Twitter that he had tested positive for the virus and that he would be isolating.
+This has left investors feeling uneasy. That said, the link between January trading and the rest of the year has been weaker recently. January market drops are now fairly common, including in the previous two years, which nonetheless ended with large annual gains.
 
-His condition appeared to have deteriorated quickly as he was admitted into the hospital the next day.
+Many Wall Street strategists are predicting that the market will end 2022 higher. David Kostin, the chief U.S. stock market strategist at Goldman Sachs, for instance, predicts that the market will finish the year up 15 percent from where it closed on Friday. UBS’s top stock strategist, Mark Haefele, said in a note to clients on Thursday that he was also sticking to his year-end target: up 15 percent from the close on Friday. “We expect the equity rally to resume,” Mr. Haefele wrote in his note.
 
+The market seems volatile, but its recent swings have been only slightly bigger than usual. During the past 60 years, the average high-low spread — the difference between the highest point of the day and the lowest point of the day as measured by the market-tracking S&P 500 index — has been 1.4 percent, said Howard Silverblatt, a senior analyst at S&P Dow Jones Indices. So far this year, that measure is 1.8 percent, about the same as it was in 2020, but far less than the 3 percent it averaged in 2008 during the height of the financial crisis.
 
+The average investor has yet to be scared off. Bank of America wrote in a research note last week that its retail clients, as a group, had put more money into the stock market than they had pulled out. In the first three weeks of the year, individuals with accounts at Bank of America bought $2.3 billion more in stocks than they sold.
 
-In an update last week, G.E. Ghali, chancellor of LSU Health Shreveport, said Letlow was in a stable condition in an intensive care unit, where he was receiving steroids and the antiviral medicine remdesivir.
+In the same time, though, hedge funds that use Bank of America to trade sold nearly $3 billion more in stock and bond funds than they bought. “Retail clients remained the biggest buyers (as is typically true in January),” Jill Carey Hall, a Bank of America strategist, wrote in the note. “Clients bought the dip.”
 
+One thing buoying optimism is that corporate profits have kept climbing. Analysts believe that fourth-quarter profits rose 24 percent for companies in the S&P 500 compared with a year earlier, according to the market data service FactSet. Earnings are expected to slow this year but still rise 9 percent in the first three months.
 
+Strong earnings from Apple supported the market last week, easing fears that the tech industry’s period of fast growth may be coming to an end. This week, Amazon and Alphabet, Google’s parent company, will publish their reports for the three months that ended in December.
 
-Ghali told the New Orleans Advocate that Letlow had no underlying health conditions.
+Another good sign: Sectors that are tied closely to the economy, like financial stocks and industrials, have done better than the market as a whole. Shares of General Electric, for instance, are down only about 2.5 percent since the start of the year. Wells Fargo’s stock price is up about 2.5 percent in 2022.
+
+“I don’t think there is a very big risk for a recession right now,” said James Paulsen, a strategist at Leuthold Group. “Then I don’t think it is a bull ender.”

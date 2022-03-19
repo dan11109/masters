@@ -1,0 +1,25 @@
+A mysterious “X” particle comprising four quarks and first seen in 2003, has been found in the quark–gluon plasma produced in heavy ion collisions at the Large Hadron Collider (LHC). The observation was made by physicists working on CERN’s Compact Muon Solenoid (CMS) experiment and if confirmed, it could help researchers understand the structure of the exotic particle. Further studies of the particle could help explain how familiar hadrons such as protons and neutrons formed from the quark-gluon plasma believed to have been present in the early universe.
+
+The exotic X particle – formally known as X(3872) because of it 3872 MeV mass – was first spotted by the Belle experiment in Japan. It has subsequently been studied by other experiments at electron-positron colliders and hadron colliders, but its nature is not fully understood. It could be a tightly bound tetraquark (a particle comprising four quarks) or a more loosely bound “molecular” state comprising two mesons (each containing two quarks).
+
+Others have suggested it may be more bizarre still. “A common hypothesis is that the X(3872) might be a superposition of a conventional charm-anticharm pair and either a tetraquark or a molecule,” says particle physicist Tom Browder of the University of Hawaii, who was part of the Belle collaboration and now works on its successor Belle II.
+
+Studying the X particle’s production in a quark–gluon plasma could help to resolve this debate. This is because different internal structures are predicted to have different decay rates within the quark–gluon plasma. Another reason to study this system is that the normal matter in the universe (protons and neutrons) is thought to have condensed from a quark–gluon plasma a fraction of a second after the Big Bang – a process called hadronization. Studying the decay of exotic particles like X(3872) into normal particles could provide valuable insights into this process.
+
+The problem is that, even in powerful colliders such as the LHC, it is extremely difficult to accelerate particles such protons or electrons to sufficient energies to generate a quark–gluon plasma when they collide. There is, however, an alternative: “While quark–gluon plasma is not expected to be produced in proton-proton collisions…it is a general phenomenon in heavy-ion collisions at the LHC energy,” write Yen-Jie Lee and Jing Wang of Massachusetts Institute of Technology.
+
+Nuclear theoretician Ralf Rapp of Texas A & M University, who was not involved in the research, explains the potential of this approach: “We have these heavy ions colliding, it forms this quark–gluon plasma, it lives for a time, it expands and transforms back into hadronic matter, which further expands,” he says. “This fireball has a relatively long lifetime on quantum chromodynamic timescales, and if experimentalists can determine [X particles’] production within a factor of two then we can get an idea about their internal structures.”
+
+Unfortunately, the size of heavy ions brings new challenges. While their mass makes it easier to accelerate them to high energies, their internal complexity means that many different final states are produced by their collisions. As a result, trying to observe the decay of X particles within this sea of background noise is a formidable task.
+
+To this end, Wang, Lee and colleagues in the CMS Collaboration turned to a machine learning algorithm. They used computer simulations of both X particle decays and a conventional decay path that produces the same particles with different energies and momenta. Then they taught the algorithm to recognize the differences between the signals produced in the CMS in each case. Finally, they set the algorithm to comb through the LHC’s 2018 dataset of 13 billion lead-ion collisions to search for X particle decays.
+
+The researchers report the detection of around 100 X particle decays, which corresponds to statistical significance of 4.2σ above background. Moreover – the data suggest that the X particle production rate may be enhanced in the quark–gluon plasma, although the result here is not statistically significant.
+
+“The current precision is still not good enough to conclude the nature of the X(3872) particle,” write Wang and Lee. “At the end of this year, LHC will start Run 3, and then we will collect more data. Also, we will measure the X(3872) particle in other collision systems like proton-lead collisions.”
+
+“It’s a pioneering [measurement],” says Rapp, “The experimental uncertainties are still large and prevent us from drawing strong conclusions at this point for several reasons, but the very fact that they could measure [the X(3872)] state in a heavy ion collision is a milestone.”
+
+Browder adds, “It’s very interesting…They had to put down the flag now for the detection of X(3872) in the quark–gluon plasma because if they hadn’t maybe next week maybe LHCb, ATLAS or ALICE would have done it. Although the statistics are very weak – it doesn’t even qualify as evidence – I think for the community this hint that it’s enhanced, maybe by a factor of 10, is very intriguing.”
+
+The research is described in Physical Review Letters.

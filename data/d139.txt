@@ -1,21 +1,57 @@
-NEW YORK — Are the ads popping up in your smart device a little too spot on? Is it an eerie coincidence or are your smartphones and smart speakers listening in on everything you say in private? Privacy issues are a constant concern when it comes to digital technology, but a new survey finds many Americans are simply accepting they may not be alone in their own home. Researchers say two in three U.S. adults “don’t care” if their smart devices are always listening to what they say.
+Cryptocurrency Has an Impact on Economies. That’s Why Some Are Afraid of It – And Some Welcome It
 
-The report by Safety.com finds 66.7 percent of U.S. residents over 18 wouldn’t have a problem finding out a home gadget is listening in on what’s going on inside their home. Researchers polled nearly 1,100 people between the ages of 18 and 64 during December of 2020.
+One month into 2022 and the debate on cryptocurrency is already heating up, with calls for regulation causing a rift between jurisdictions that are “crypto friendly” and those that aren’t.
 
-While tech companies repeatedly assure the public smart devices are not spying on their owners, not everyone is convinced of this. That feeling is particularly prevalent among older adults. The survey finds baby boomers are much more concerned about digital devices recording their conservations than Millennials or young adults in Generation Z. Adults in Generation X are split on the issue.
+But which will determine the future of the market?
 
-The poll also finds women are more unnerved about smart devices than men are, by a margin of seven percent. Unsurprisingly, residents in tech-dominant cities and regions are more accepting of potentially being recorded than Americans in communities with less high-tech development.
+Russian Deputy Prime Minister Dmitry Chernyshenko has reportedly signed a roadmap to regulate crypto operations in Russia. The news comes after Russia’s central bank published a consultation paper that proposed a blanket ban on crypto-related activity in the country.
 
-Not reading the fine print on smart devices
+The paper, titled Cryptocurrencies: Trends, Risks, and Regulation, states “a wider adoption of cryptocurrencies creates significant risks for the Russian financial market”. It says non-state-based currencies pose a threat to citizens’ well-being, through loss of investments as a result of market volatility, scams and cyber attacks.
 
-The Safety.com team says modern technology, capable of tracking every move we make, is becoming an unavoidable part of daily life. From smart speakers in the kitchen to smart cameras in the doorbell, this technology is built to record, watch, or listen to information in real time.
+Jurisdictions have grappled with the idea decentralised digital currencies provide an alternative to sovereign currency — and thus pose a threat to central banks’ power over monetary policy.
 
-Although many might wonder how their interests end up in the next commercial their speakers play, researchers note few Americans really go through the terms and services agreement when downloading their various apps. They add skipping these privacy notices has actually become second nature to many tech users. Therefore, do many people really know how much data they’re agreeing to share with companies?
+Although Russia has stopped short of completely stifling operations inside its borders, the latest events follow a broader trend of nations struggling to embrace cryptocurrency. Future bans or regulations will determine the future of the industry.
 
-The poll finds the general sentiment regarding privacy and technology is “if someone isn’t guilty of anything, then what difference does it make if they’re being listened to?”
+China has banned cryptocurrency trading multiple times. An outright ban on crypto mining last year was a massive loss to the industry, as most crypto mining happened in China.
 
-As legal and privacy experts continue to debate how ethical that sentiment is, Safety.com finds more and more people are choosing convenience over their own privacy. This is especially true when it comes to owning smartphones.
+Mining involves running software on computer servers to solve cryptographic algorithms. This process validates transactions and maintains a shared record of transactions across the blockchain network. People who participate, the “miners”, are automatically rewarded in cryptocurrency.
 
-Researchers estimate that around about 290 million smartphones in the U.S., or a staggering 80 percent of the consumer market. America ranks third among countries with the most smartphones.
+Mining is an international industry, and large capital outlay goes towards the land, power and infrastructure needed to set up mining warehouses.
 
-The survey does find that more people are still a little wary of putting smart devices in their home. There are about 90 million smart speakers currently in American homes or vehicles, or about a third of the population.
+The mining ban in China drove miners to sell or ship their equipment overseas and invest capital in friendlier jurisdictions, particularly the United States. One consequence was the strengthening of the network, as mining operations were diversified. As such, future bans may have less of an effect on the market.
+
+Currently, most Bitcoin mining occurs in the US, Kazakhstan, Russia, Canada, Malaysia and Iran. Some networks face great challenges. In Kazakhstan, for instance, power has reportedly been rationed away from miners to conserve energy during electricity shortages, forcing miners to leave the country.
+
+Reports estimate this will cost Kazakhstan’s economy $US1.5 billion ($2.14 billion) over the next five years, including $US300 million in tax revenue.
+
+Crypto has come a long way since Bitcoin’s anonymous launch in 2009. There are now thousands of cryptocurrencies, with an estimated total market cap of $US1.66 trillion ($2.36 trillion).
+
+It’s often stated, including in the recent report from Russia’s central bank, that the anonymity of cryptocurrencies enables illegal activity such as money laundering, terrorism financing and drug trade.
+
+This isn’t entirely true. In fact transaction history on public blockchains, such as Bitcoin and Ethereum (the largest by market capitalisation), is public.
+
+Many governments (including those of Australia and the US) collaborate with large private blockchain analytics firms to monitor citizens’ crypto wallet addresses and transactions. They do this to mitigate risks of money laundering and tax evasion.
+
+Contrary to popular belief, most cryptocurrencies aren’t anonymous; they are pseudonymous. If a person’s identity is linked to their wallet address via a central touch point, such as a cryptocurrency exchange or an email, that wallet is traceable to the individual.
+
+Research (commissioned by Zcash but carried out by the Rand corporation) found there isn’t widespread illicit use of “privacy coins” preserving users’ anonymity.
+
+Cryptocurrency continues to become increasingly mainstream as an investment asset class, technological infrastructure and a social experiment in non-state-based infrastructure.
+
+With this, crypto communities hold growing influence in public policy debates. For example, crypto advocates were able to slow down a major federal government infrastructure bill in the US last year.
+
+Yet jurisdictions are choosing different pathways regarding policy and regulation. Some such as China and Russia view it as a fiscal and ideological challenge to sovereign monies. Others view it as an opportunity for innovation, investment and economic growth.
+
+As different approaches emerge, 2022 may be a defining year for both the crypto industry and those competing to either ban or welcome it.
+
+Past examples suggest countries that welcome crypto networks reap economic benefits through innovation, investment, jobs and taxes. Business benefits of adopting crypto as a digital asset include access to new demographics and technological efficiencies in treasury management.
+
+At the same time, the effects of policy and regulation on the industry demonstrates cryptocurrency isn’t a completely decentralised thing that exists only on the blockchain.
+
+In the competition to limit but benefit from cryptocurrency, Australia has emerged as a potential destination of “crypto friendliness”. A report published in October by the Senate Select Committee on Australia as a Technology and Financial Centre looks favourably on cryptocurrencies.
+
+It proposes market licensing for crypto exchanges, streamlined taxation arrangements and a regulatory structure for “decentralised autonomous organisations”, or DAOs. These function using the same philosophy of self-governance as decentralised cryptocurrency networks, using blockchain technology and cryptocurrency tokens to manage participation and enforce rules.
+
+Australia’s choice is to capture the enormous economic potential of decentralised digital assets. How this will impact the national economy remains to be seen. But if history is a lesson to be learned from, we can expect policy to shape outcomes.
+
+Start investing In cryptocurrency with Bitxchange www.bit-xchange.org. If you’re new to the world of crypto and figuring out how to buy cryptocurrencies, then cryptocurrency exchanges like Bitxchange can help you to easily buy and sell crypto.

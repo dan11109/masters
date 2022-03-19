@@ -1,0 +1,9 @@
+Yahoo Japan has announced that most of its online services will cease to be accessible in the European Economic Area and the UK as of April 6th. The company’s email, credit card, and ebook services will continue to be available, but everything else is going dark.
+
+The given reason is the cost of complying with European regulations, which would include GDPR. In a statement, Yahoo Japan says it would be difficult to provide continuous service for customers in the EEA and UK, and went further in telling Japanese publication IT Media that it would be “impossible” to meet the cost of compliance and respond to the related laws.
+
+Yahoo Japan is an entirely separate entity to the American former web giant now owned by the Apollo private equity firm. Set up as a joint venture between the US Yahoo and SoftBank in 1996, Yahoo Japan remains extremely popular in Japan as a web portal and search engine, with countless other Japanese-language services including online auctions, e-commerce, and well-regarded weather and maps apps.
+
+The decision to pull out of Europe comes as Yahoo Japan is heightening its efforts to expand beyond its home market. Yahoo Japan’s SoftBank-owned parent Z Holdings merged with dominant Japanese chat app Line last year to create a new tech giant with worldwide ambitions. Takeshi Idezawa, Line CEO and now co-CEO of Z Holdings alongside Yahoo Japan CEO Kentaro Kawabe, said at the time that the new company “would like to launch a global smartphone app.”
+
+Yahoo Japan has evidently decided that its user base in Europe isn’t large enough to be worth the cost of abiding by EU regulations. Its services are mostly only provided in Japanese, so its reach will have been limited, but it’s notable that a web company with such a huge presence in its own major market feels unable to operate in Europe.

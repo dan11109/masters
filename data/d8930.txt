@@ -1,0 +1,35 @@
+(Reuters) -Facebook owner Meta Platforms Inc shares plunged more than 20% late on Wednesday as the social media company missed on Wall Street earnings estimates and posted a weaker-than-expected forecast.
+
+Meta said it faced hits from Apple Inc’s privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Facebook and Instagram, and from macroeconomic issues like supply-chain disruptions.
+
+The tech giant said it expected slowing revenue growth in the coming quarter because it faced increased competition for users’ time and a shift of engagement toward such features as its short video offering Reels, which generate less revenue.
+
+Facebook reported 2.91 billion monthly active users in the fourth quarter, showing no growth compared with the previous quarter. Monthly active users grew at their slowest quarterly rate in at least three years.
+
+The after-hours slump in Meta shares vaporized $200 billion worth of its market value, with another $15 billion in value lost from peers Twitter Inc, Snap Inc and Pinterest Inc.
+
+Shares of Alphabet Inc, which posted record quarterly sales that topped expectations on Tuesday, were down nearly 2%.
+
+Meta, which has the second-largest digital ad platform in the world after Google, had previously warned its advertising business faced “significant uncertainty” in the fourth quarter.
+
+The company forecast first-quarter revenue in the range of $27 billion to $29 billion. Analysts were expecting $30.15 billion, according to IBES data from Refinitiv.
+
+Apple’s changes to its operating software give users the preference to allow tracking of their activity online, making it harder for advertisers who rely on data to develop new products and know their market.
+
+“It’s clear that there are many big roadblocks ahead as Meta faces tough new competition for ad revenue such as TikTok, and as it contends with ongoing ad targeting and measurement challenges from Apple’s iOS changes,” said Insider Intelligence analyst Debra Aho Williamson.
+
+The company’s total revenue, the bulk of which comes from ad sales, rose to $33.67 billion in the fourth quarter from $28.07 billion a year earlier, beating analysts’ estimates of $33.40 billion, according to IBES data from Refinitiv.
+
+“I’m encouraged by the progress we made this past year in a number of important growth areas like Reels, commerce, and virtual reality, and we’ll continue investing in these and other key priorities in 2022 as we work towards building the metaverse,” CEO Mark Zuckerberg said in the earnings release.
+
+Net loss from Meta’s Reality Labs, the company’s augmented and virtual reality business, was $10.2 billion for the full year 2021, compared with a $6.6 billion loss the previous year. It was the first time the company had broken out this segment in its results.
+
+Zuckerberg had previously warned that the company’s investment in this area would reduce 2021 operating profit by $10 billion and would not be profitable “any time in the near future.”
+
+The company said on Wednesday it would this year change its stock ticker to “META,” the latest step in its rebrand to focus on the metaverse https://www.reuters.com/technology/what-is-metaverse-2021-10-18/#:~:text=Metaverse%20is%20a%20broad%20term,or%20augmented%20reality%20(AR), a futuristic idea of virtual environments where users can work, socialize and play.
+
+The tech giant, which changed its name in October to reflect its metaverse aims, is betting the metaverse will be the successor to the mobile internet. It did not comment on the price of a deal with Roundhill Investments, which said in January it would stop using the symbol for its Roundhill Ball Metaverse ETF.
+
+Meta’s rebrand comes at a time of increasing scrutiny from lawmakers and regulators over allegations of anticompetitive conduct and over the impacts of how it handles harmful or misleading content across its Facebook and Instagram platforms.
+
+“If you’re putting billions up front and not really expecting return for years, shareholders are going to be hesitant,” ABI Research analyst Eric Abbruzzese said, referring to the metaverse costs.

@@ -1,0 +1,25 @@
+KP Snacks has warned there may be a shortage of some of its popular crisps and nuts following a ransomware attack.
+
+The company, which is behind brands such as Skips, Nik Naks, Hula Hoops, McCoy's crisps and KP Nuts, told its retail customers to brace for delays and cancellations of deliveries.
+
+In a letter seen by trade publisher Better Retailing, KP Snacks said disruption could last “until the end of March at the earliest”.
+
+Nisa told its partnered stores that no orders would be placed or delivered “for a couple of weeks at least” and to “expect supply issues on base stock and promotions until further notice”.
+
+The company, which is based in Hayes, discovered the cyber attack on Jan. 28.
+
+A spokesman said: “ As soon as we became aware of the incident, we enacted our cybersecurity response plan and engaged a leading forensic information technology firm and legal counsel to assist us in our investigation.
+
+“Our internal IT teams continue to work with third-party experts to assess the situation.”
+
+Ransomware is a type of malicious software that prevents the victim from accessing their computer or certain data stored on it.
+
+Hackers demand payment, often in the form of cryptocurrency, in exchange for restoring access to the computer or the data.
+
+However, the National Cyber Security Centre (NCSC) does not “encourage, endorse, nor condone” the payment of ransom demands as there is no guarantee it will clear the computer from malicious software.
+
+It also means victims will be paying criminal groups and they are more likely to be targeted in the future.
+
+The NCSC has previously warned of rising threats from cybercrime.
+
+In the first four months of 2021, the agency handled the same number of ransomware incidents as for the whole of 2020, when incidents had already grown three-fold on 2019.

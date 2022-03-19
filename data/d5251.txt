@@ -1,0 +1,65 @@
+Scientists identified four risk factors that may help predict whether a person will develop long COVID, where an individual experiences various symptoms for weeks or months after their initial COVID-19 infection ends.
+
+The risk factors are: a high quantity of SARS-CoV-2 genetic material in the blood early in infection; an active infection with Epstein-Barr virus (EBV), a different pathogen; certain autoantibodies, or immune molecules that target the body's proteins, instead of targeting or ; and a pre-existing diagnosis of , the most common form of diabetes, in which the body's cells are .
+
+Most of these risk factors can be flagged at the time that a patient is first diagnosed with COVID-19, raising the possibility that prompt treatments could potentially prevent some cases of long COVID, according to the new study, published Jan. 24 in the journal .
+
+Related: 20 of the worst epidemics and pandemics in history
+
+Still, the study is only a starting point. Researchers must do more work to understand if and how these risk factors actually drive the development of long COVID, and whether these signals that can be spotted early on can help predict which specific symptoms might linger in patients four, eight or 12 months down the line, first author Yapeng Su, who was a research scientist at the Institute for Systems Biology in Seattle at the time of the study, told Live Science in an email.
+
+"I think it's a very well-done study," said Dr. P. J. Utz, a professor of medicine and physician scientist in immunology and rheumatology at Stanford University, who was not involved in the research.
+
+Utz is one of several Stanford researchers who will serve as principal investigators for the , a multi-center study of long COVID sponsored by the National Institutes of Health (NIH). This preliminary research conducted by Su and his colleagues "gives us a great sign post" for how to approach the much larger RECOVER Initiative, which will include tens of thousands of people, Utz said.
+
+In the new study, the team monitored nearly 210 COVID-19 patients for about two to three months, starting from their time of diagnosis; about 70% of these patients had been hospitalized for COVID-19. The goal of the research was to spot common traits among the patients who went on to develop long COVID, or "post-acute sequelae of COVID-19" (PASC) — a medical term that refers to the effects that SARS-CoV-2 can have on the body after the initial COVID-19 infection passes.
+
+The study participants provided blood and nasal swab samples at diagnosis, during their COVID-19 infections and then several months later. At this last follow-up, the patients completed a survey about symptoms related to long COVID, including cough, fatigue, shortness of breath, diarrhea, memory problems, difficulty concentrating and loss of taste and smell.
+
+In all, about 37% of the patients reported three or more long COVID symptoms at their last follow-up; 24% reported one or two symptoms; and the remaining 39% reported no symptoms, Jim Heath, the principal investigator of the study and president of the Institute for Systems Biology, . In general, the respiratory viral symptoms were most common, followed by neurological symptoms, loss of taste and smell, and gastrointestinal symptoms, in that order, the researchers reported.
+
+In the group with three or more long COVID symptoms, 95% exhibited at least one of the four newly-identified risk factors, Heath told The New York Times. The four risk factors were linked to long COVID regardless of whether a patient's initial infection was severe or mild. The team corroborated some of these findings by analyzing blood from an independent group of 100 post-acute COVID-19 patients, most of whom initially had mild infections.
+
+Among the most notable of these risk factors were autoantibodies, which the team spotted in patients' blood samples. They specifically screened for six autoantibodies and found that the different appeared linked to different long COVID symptoms.
+
+For example, the presence of one autoantibody, called anti-IFN-α2, at the time of diagnosis forecasted respiratory symptoms of long COVID. The anti-IFN-α2 antibody latches onto a chemical messenger called interferon alpha-2 that helps direct the activity of specific cells. The presence of anti-IFN-α2 antibodies may cause these immune cells to malfunction and also boost the production of molecules in the body, the study authors wrote.
+
+In addition to anti-IFN-α2, the researchers screened for five additional autoantibodies, called antinuclear antibodies, which bind to proteins in the cell's nucleus.
+
+These five antibodies have been linked to various disorders, including and rheumatoid arthritis, but whether they directly damage cells or are just a marker of disease is unclear, he said. "There's not good evidence that they're pathogenic in and of themselves."
+
+In the new study, the antinuclear antibodies were linked to respiratory symptoms and some gastrointestinal symptoms of long COVID, the team reported.
+
+By contrast, "neurological PASC is not significantly associated with these six autoantibodies that we measured," Su said.
+
+Instead, neurological symptoms seemed linked to antibodies that target the itself. These antibodies, which target the virus’s so-called nucleocapsid, appear in high quantities after infection, once the long COVID symptoms have set in, the team found. Because these coronavirus-targeting antibodies appear later on, rather than around the time of diagnosis, they wouldn't necessarily be useful for predicting neurological long COVID symptoms ahead of time.
+
+This antibody data hints that there may be different mechanisms driving the various subtypes of long COVID, Utz said. In the upcoming RECOVER Initiative, "we'll be able to look at thousands of patients," to see if that is borne out, he said.
+
+EBV cropped up as another major risk factor for long COVID, the researchers reported.
+
+An estimated 90% to 95% of people catch EBV by the time they reach adulthood, and after triggering an initial infection, the virus becomes dormant and hides out in the body's immune cells, according to the clinical resource . But sometimes, if a person catches a different infection or is experiencing extreme stress, this dormant EBV can "reactivate," meaning it causes active infection once again.
+
+Similar to the autoantibodies, reactivated EBV was tied to a specific subset of long COVID symptoms, according to the study. For example, patients with EBV in their blood at diagnosis showed a heightened chance of memory problems down the line, as well as fatigue and production of sputum, a thick mixture of saliva and mucus, in the lungs.
+
+"We would normally not be able to detect EBV fragments in the blood; the detection of EBV fragments in the blood is a sign of their reactivation," Su said. Interestingly, EBV mostly appeared in patients' blood at the time of their COVID-19 diagnosis, after which blood levels of the virus swiftly decreased. "We do not have a clear answer regarding why this is," but it could be that, as the rallies to battle the coronavirus, EBV gets a fleeting chance to reactivate and cause lasting damage, Su said.
+
+Various research suggests that, in people who carry a specific set of genes, EBV infection can trigger lupus, according to a 2021 review in the journal . And earlier this month, scientists published compelling evidence that, in susceptible individuals, the virus may trigger , an autoimmune disease that affects the brain and spinal cord, in susceptible individuals, .
+
+"We already know EBV plays an important role in lupus, and now, in multiple sclerosis," Utz said. Now, the new study hints that EBV may also play a role in long COVID, and "I will not be surprised if it ends up being correct," he said. A small study, published in June 2021 in the journal , also hinted that COVID-19 might awaken EBV in some patients and increase their risk of long COVID, and the new study seems to add to that evidence.
+
+About one-third of the study's long COVID patients had type 2 diabetes. In particular, those with this risk factor were more likely to experience fatigue, cough and other respiratory viral long COVID symptoms.
+
+In addition, about one-third of the long COVID patients carried high levels of SARS-CoV-2 genetic material, or RNA, in their blood at the time of diagnosis, and were likelier to experience memory-related long COVID symptoms.
+
+The viral load finding suggests long COVID could potentially be prevented — or at least made less severe — in these patients if their viral loads can be reigned in with antiviral medications.
+
+"The quicker one can eliminate the virus, the less likelihood of developing persistent virus or autoimmunity, which may drive long COVID," Su said. But given that long COVID can strike those with both mild and severe COVID-19 infections, it's unclear whether aggressive antiviral treatment would help all patients, Utz noted.
+
+Apart from the four main risk factors for long COVID, the new study also suggests that people with respiratory symptoms of long COVID have unusually low levels of the stress hormone cortisol in their blood. And those with neurological symptoms carry unusually high blood levels of proteins thought to reflect dysruption in the circadian sleep/wake cycle.
+
+These findings may hint at treatments for long COVID, and in fact, cortisol replacement therapy is already being tested in long COVID patients, Su said. But ultimately, the only way to know if these approaches work, and for which subtypes of long COVID, is through clinical trials, Utz said.
+
+Again, the new study is only a starting point, and it has several limitations. "Our study focused on PASC at 2 [to] 3 months post onset of COVID-19, and thus cannot discern which patients will develop much longer term chronic PASC," Su said. To better understand bouts of long COVID that drag on for four months or longer, future studies will need to follow COVID-19 patients for longer periods of time, he said.
+
+In addition, scientists will likely need to perform animal studies to understand why and how the identified risk factors lead to different forms of PASC, he said. And future studies will also need to address whether the different , from alpha to omicron, at all "alter the landscape of PASC experienced by patients," he noted.

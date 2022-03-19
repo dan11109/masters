@@ -1,0 +1,71 @@
+The COVID-19 pandemic has brought up tons of data questions — what information should we be collecting, what can it tell us (and what does it fail to tell us) and how should the data we use to make decisions be communicated to the public? We’ve started a new series, “COVID Convos,” that brings these questions to the forefront through interviews with the scientists and practitioners who produce and use data on COVID-19. 
+
+
+
+Each conversation will be a chance for a different scientist to highlight a dataset or data question they think is particularly important and tell us why. We’re kicking things off with Tim Lahey, an infectious disease physician and the head of ethics at the University of Vermont Medical Center. Our discussion focused on the metrics society uses to decide how — and when — to respond to COVID.
+
+Maggie Koerth: Thank you so much for joining us today, Tim.
+
+Maggie Koerth: So, the omicron surge is starting to wane in many parts of the U.S. now, and people are starting to think about what the future of the pandemic could look like. In particular, I think we’re all interested in understanding how governments and individuals can figure out better ways to respond to COVID outbreaks. I think it’s pretty obvious at this point that this virus isn’t just going to go away.
+
+Tim Lahey: First, we should not listen to anyone who predicts the future with confidence. None of us have crystal balls.
+
+The other error we should avoid is the assumption that only polar opposites can be true. Some will say we need to stick with all COVID-mitigation options no matter what because some risk of death exists. Others will say the opposite, that every one of those COVID-mitigation measures is a form of tyranny. Both are wrong.
+
+Instead, we need to use data to identify which shade of gray between those polar opposites is actually true. Fortunately, there is reason for optimism, and over the past two years, we have found metrics we can use to see and act on those shades of gray.
+
+Maggie Koerth: I’ve got a little bit of a trollish question about that: Has anyone actually been using metrics to guide COVID mitigation? I say trollish, but this is an honest question, too. When I look at my city and my school district here in Minneapolis, for instance, I see a lot of post-hoc justification for choices but not a lot of setting “here’s a metric, and we will do x when we hit it,” and then sticking with that.
+
+Tim Lahey: We do have a track record of using metrics to guide COVID-mitigation measures, albeit inconsistently and often without full transparency. For example, as delta cropped up in different places to different degrees last fall, the Centers for Disease Control and Prevention suggested which incidence rates should drive local masking requirements.
+
+Not everybody used that guidance or did a great job articulating how that and other metrics factored into their decision-making. Some places did it well. In Vermont, where I practice, Gov. Phil Scott and his team of advisers share rates of COVID-19 infection and severe disease along with a host of other information every week and use those data to explain statewide policy decisions.
+
+Areas in which decisions either for or against mitigation measures were driven by and communicated through emotional appeals will be, I fear, less well prepared to use data to make decisions in the fast-paced months ahead.
+
+Maggie Koerth: What metrics do you think worked best in the past, and are those still the right metrics to continue using?
+
+Tim Lahey: One simple use of metrics we’ve all grown used to — and perhaps even been triggered by — is the citation of surging case numbers as a justification for intensified mitigation measures like mask requirements or limits on public gatherings. A pivotal challenge in the omicron era is that case rates are now a far less important driver of mitigation measures since vaccine- and infection-related immunity have lowered the average severity of disease. Retooling how we use such metrics, and explaining what prompted that retooling, has been a challenge because 1) it’s a little complicated, and 2) public-health communications have to combat mistrust and the fact that everyone so desperately needs a long nap.
+
+Maggie Koerth: Can you tell us a little more about why case numbers aren’t necessarily the best way to determine what to do going forward?
+
+Tim Lahey: Back in the distant past of four months ago, we could describe case rates in an area and know fairly intuitively how those case rates would translate into hospitalization and death rates. That was particularly helpful because hospitalization and death are lagging indicators, meaning those bad outcomes rise weeks after case rates rise, and ideally we would intervene before bad outcomes accrue. When the average severity of disease dropped during the omicron surge, that act of translation from case rates to severe disease metrics shifted. Rising case rates had different — and smaller — consequences, and for a time, our ability to predict hospitalization and death rates weakened. That pattern is likely to continue, meaning more and more we will need to link public-health mitigation measures to slower-to-appear but more trustworthy outcomes like severe disease and death.
+
+Maggie Koerth: How do we know the pattern is likely to continue?
+
+Tim Lahey: Those of us without crystal balls can’t know with certainty. But there’s reason for optimism. Immunity — from vaccination and prior infection — is a major driver of people getting less sick (on average) from omicron. Since future variants will also infect an increasingly immune human population, future variants are expected to exhibit milder disease on average. The big unknown is how much milder, and whether any new and nastier variants crop up that thwart those optimistic expectations. Omicron escapes some immune responses, and the World Health Organization has warned that future variants may do so even more, meaning we will have to measure how each variant harms the population of people it infects and then set our policy according to the amount of woe that the latest variant causes.
+
+Maggie Koerth: The way you’re thinking about the future of COVID is kind of predicated on the idea that future waves will be more like omicron — causing less severe illness even if they do spread like wildfire. When I talked to immunologists a couple of weeks ago for a story on natural immunity and the future of COVID, a lot of them were hesitant to make that assumption. They pointed out there’s no guarantee that the future variants that go “viral” are going to be evolved from omicron. Is there data that makes you feel more confident assuming omicron is what outbreaks are going to look like going forward?
+
+Tim Lahey: If our choices are total uncertainty versus surety that post-omicron surges will all be mild, I would definitely go with total uncertainty.
+
+Fortunately, there is a third option: believing that immunity is impacting disease severity and that immunity will continue to make a difference to some degree in the future. This is, as you know, a humble expectation; our global vaccination plan is predicated on that assumption, which is borne out by clinical trials of vaccines and studies of vaccine- and infection-related immunity.
+
+Importantly, how much immunity we need to reduce disease severity is likely to vary from variant to variant, and potentially over time since we know immunity can wane. We also know that areas with greater population immunity have shown lower death rates. That means we can’t know the magnitude of the impact of immunity in advance of a new variant, even if we know an impact is likely.
+
+To be clear, I’m not saying 100 percent of future variants are certain to respond to vaccine- or infection-related immunity. It’s not tough to imagine the contrary, just as some people still get super sick from omicron.
+
+Think of it like this: On average disease severity is milder from omicron, but some people still get just as sick as before. Similarly, the predicted protective effects of population immunity mean that on average future variants are likely to have milder severity across the population. That means with each new variant, we will have to determine how sick it is likely to make us and plan accordingly.
+
+That’s where metrics come in. The trick is not to assume we know but rather to yoke our policy decisions to what the metrics indicate.
+
+Maggie Koerth: Given that, what metrics do you see being useful in the future?
+
+Tim Lahey: Going forward, we should count up how harmful each new major variant surge is both medically and economically and weigh that against the costs of public-health mitigation measures to strike a new balance. In terms of medical readouts, the most important are hospitalization and death rates. Hospitalization trackers need to distinguish clearly between hospitalization directly due to COVID-19, hospitalization to which COVID-19 contributed medically, and hospitalizations in which SARS-CoV-2 infection was incidental. Both hospitalization and death rates should be broken out by age, in part so we can keep tracking the spike in pediatric hospitalizations for COVID-19. Importantly, we need to relate rates of bad outcomes like hospitalization and death in each area to the level of immunity that exists in that population due to vaccination and prior infection.
+
+This year we learned that it is increasingly important to track whether hospitals are at or beyond maximum capacity so we can know how to best provide care. I don’t want to neglect long COVID and multisystem inflammatory syndrome in children as important outcomes of COVID-19, but at least currently, I’m unconvinced they should drive public-health mitigation measures in isolation. Economists can tell you better than I which economic measures to track along with public-health metrics. But worker absenteeism and shortages due to COVID-19, the health-care costs of COVID-19, hospital understaffing and the economic costs of mitigation measures must be among them.
+
+Maggie Koerth: I’m still having trouble understanding how we might use a trailing indicator like hospitalizations or deaths as a way to get proactive about COVID protections. Thinking about what happened with omicron, it was several weeks before scientists really knew what this thing was doing and how to react to it. Is there a limit on how proactive versus reactive we can really be?
+
+Tim Lahey: Partly, the requirement that we assess a variant’s true severity will keep us from being as proactive as we want.
+
+The silver lining is that COVID-19 surges don’t happen simultaneously around the world. Instead, hot spots crop up that we can assess, and we can use those early data to guide pandemic responses in areas where that variant arrives later. During omicron, for instance, the whole world watched the site of its first real surge, South Africa, to gauge how things might play out elsewhere. The rapid peak in cases and on average milder disease seen in South Africa was a pattern that played out in other areas around the world, like clockwork. We need to be ready to do the same for future surges: rapid detection, severity assessment at its site of emergence and then development of policy decisions that we yoke to the answer.
+
+Periodically, an old or new variant will surge. In response, ideally, elected officials would sit down with their public-health and economic advisers to pore over a readout of the above metrics.
+
+If the initial epidemiological data suggest the latest flavor of COVID-19 will cause severe disease and death rates below an arbitrary cutoff — maybe 110 percent of pre-COVID levels of respiratory disease deaths? — and hospitals won’t be overrun, then that team can decide not to intensify public-health measures. Alternatively, if the same dashboard suggests that a new variant will drive severe disease rates over that threshold or lead to some other major adverse impact, such as egregiously widespread workplace absenteeism, etc., then they may opt to reinstate some mitigation levels commensurate with the greater threat.
+
+The data that fueled this kind of mitigation decision can lead to sharper communications with the public. In places where this is done, we may not have full certainty about the future because, of course, we never do, but at least we have a chance to make nuanced judgments that avoid either having a perpetual and potentially exaggerated state of emergency or just saying we’re “over” the pandemic while thousands die daily.
+
+I understand it sounds both dweeby and pollyannaish at the same time, but I dream of a world in which our elected leaders in every locale routinely share the data they use to guide COVID-mitigation decisions instead of using those announcements as an opportunity to cast blame or misinform or trumpet the Lofty American Value they claim to value uniquely.
+
+Between my optimism that immunity from vaccines and infection will contribute to milder disease on average and my hope that more politicians can learn to use data to make and justify public-health policy decisions, I feel optimistic about the future of COVID-19.

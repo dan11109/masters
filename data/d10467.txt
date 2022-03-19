@@ -1,0 +1,38 @@
+• None The Biden administration is considering new rules for apps it views as a potential security risk.
+• None It's proposing new requirements for companies like TikTok that have ties to a "foreign adversary."
+• None Apps under review could be required to submit source code and other data to a third-party auditor.
+
+The Biden administration is reviewing comments on a proposed rule change that would grant the government greater oversight over apps that it deems a national security risk, multiple outlets reported.
+
+Among those that could be impacted is TikTok, whose parent company ByteDance is headquartered in China, a country specifically called out in the Commerce Department's proposal as a "foreign adversary."
+
+The policy change would require apps that are "owned or controlled by, or subject to the jurisdiction or direction of a foreign adversary" to be evaluated against a set of risk criteria, including whether it could be used "to conduct surveillance that enables espionage" and whether it could be used for "military, intelligence, or proliferation activities."
+
+The proposal opens the door for the Commerce Department to require apps like TikTok to submit source code and other data logs to a third-party auditor.
+
+The department does not have a timeline for when the rule will be finalized, a government spokesperson told Insider. They declined to comment on the specifics of the Information and Communications Technology and Services (ICTS) report.
+
+TikTok did not immediately respond to a request for comment. The company has previously said it doesn't share information with the Chinese government, that US user data is stored in the US and Singapore, and that its content moderation is led by a US-based team that "operates independently from China."
+
+US officials have been assessing TikTok's relationship with China for years. In 2020, President Trump attempted to ban — and then force a sale — of TikTok's US app. President Biden signed an executive order revoking Trump's efforts in June, writing that the government should evaluate national security threats from foreign apps through "rigorous, evidence-based analysis."
+
+As the Chinese government began cracking down on tech companies within its own borders last year, concerns around TikTok's relationship with the country remained among US officials, experts said.
+
+"TikTok is just one of the various areas where we're waiting to see what the [US] administration actually wants to do," Shehzad Qazi, managing director at the research firm China Beige Book, told Insider in November. "I can tell you that people in Congress are absolutely going to be concerned."
+
+Read more about about how the China tech crackdown is affecting ByteDance and TikTok
+
+TikTok isn't available in China, and its CEO and COO are based in Singapore and Los Angeles. But current and former employees told Insider that employees in ByteDance's Beijing office, referred to internally as "HQ," often have final say over product decisions for the app.
+
+Read more about how ByteDance's China HQ influences TikTok
+
+"It's that feeling a little bit in the US where you're sort of helpless to a lot of the decisions that are made out of China," a former staffer, who spoke on the condition of anonymity to avoid damaging professional relationships, told Insider last month.
+
+Former employees and experts also told Insider that TikTok's sister app in China, Douyin, can be viewed as a harbinger for what's to come on TikTok in the US and other markets.
+
+Read more about how Douyin influences TikTok's product roadmap
+
+Read all of Insider's recent coverage on TikTok's ties to China:
+• None 'Basically copying': TikTok insiders say its Chinese sister app has been a reliable indicator of how the product will develop
+• None TikTok insiders say the sway of ByteDance's China HQ looms large inside the company
+• None China's tech crackdown is now taking aim at algorithms. Here's how TikTok and its parent company ByteDance could be affected.

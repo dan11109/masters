@@ -1,0 +1,127 @@
+All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version).
+
+Visit and follow us on Instagram at @globalresearch_crg.
+
+BMJ editor Peter Doshi has publicly called for release of raw data from the clinical trials that led to the emergency use authorization of the COVID-19 shots. The FDA has a statutory obligation to publish the Pfizer data after drug approval, leaving Moderna, Johnson & Johnson and AstraZeneca to provide the raw data
+
+The delay in releasing raw data is reminiscent of Roche’s handling of Tamiflu and Gilead’s determination to get authorization for remdesivir to treat COVID-19, despite clinical data demonstrating the drug showed little or no positive effect
+
+At least one Pfizer testing facility had poor practices, including data that were falsified, patients who were unblinded and poorly trained people hired to administer the injections
+
+In an opinion piece published coincidentally on the day the FDA announced full approval of the Pfizer injection, Doshi noted Pfizer’s August 2021 preprint paper held no new information since April 2021, and the shot demonstrated waning immunity in Israel, where it was used exclusively
+
+While other Big Pharma manufacturers have developed and released a COVID-19 genetic therapy injection, only shots from Pfizer, Moderna and Johnson & Johnson have been approved in the U.S.1
+
+The British Medical Journal (BMJ) editor Peter Doshi, an associate professor of pharmaceutical health services research at the University of Maryland School of Pharmacy, has called for the release of the clinical trial raw data on which the emergency use authorizations were based.2
+
+As of December 2021, there were 12 countries with the capacity to produce the shots being distributed throughout the world, with approximately 200 vaccine candidates that are in preclinical development.3 According to OpenVAERS,4 there have been 1,053,828 adverse events reported as of January 14, 2022, and of those 593,078 (56.2%) are attributed to the Pfizer/BioNTech shot.
+
+Of the three emergency use authorization approved shots in the U.S., Pfizer’s Comirnaty was the only one approved for full use by the FDA in August 2021.5 The thing is, Comirnaty is not available in the U.S., and won’t be made available as long as doses of the Emergency Use Authorized Pfizer shot, BNT162b2, remain.6
+
+In other words, the shot that has triggered more than half of all adverse events is the one that is being touted as approved by the FDA — when in reality the shot that was actually approved isn’t even available yet. Dr. Peter Marks, FDA’s director of the Center for Biologics Evaluation and Research wrote this as justification for the approval to do this in the FDA press release:7
+
+“Our scientific and medical experts conducted an incredibly thorough and thoughtful evaluation of this vaccine. We evaluated scientific data and information included in hundreds of thousands of pages, conducted our own analyses of Comirnaty’s safety and effectiveness, and performed a detailed assessment of the manufacturing processes, including inspections of the manufacturing facilities.”
+
+It is the FDA’s statutory obligation8 to publish this “incredibly thorough” evaluation of the data and their own analysis within 30 days of a drug approval. Yet, after a Freedom of Information Act request and subsequent lawsuit by a nonprofit group to release the data,9 the FDA proposed to release documentation over many decades.
+
+Ultimately, they asked a federal judge to give them 75 years to complete the process,10 but in January 2022 a federal judge ordered the FDA to accelerate this schedule to eight months.11
+
+According to Doshi,12 it will take Pfizer at least 24 months after the study completion date listed on ClinicalTrials.gov13 to even consider a request to release the primary data. Doshi calls this an “unacceptable delay,” and yet the lack of access to data is not unique to Pfizer.
+
+Moderna and AstraZeneca14 have both indicated they will have similar delays in releasing their data.15 Since only the data from Pfizer can be released by the FDA, it falls to Moderna, Johnson & Johnson and AstraZeneca to provide the raw data. Doshi points out that raw data for other therapeutics tied to COVID-19 are also difficult to uncover.
+
+For example, the published reports of the monoclonal antibody therapy produced by Regeneron state that any raw data will not be released to others.16 Only the methods and findings will be released, and the raw data will only be considered once the drug has been approved and if there’s legal authority to share it.
+
+Likewise, Doshi notes the raw data from the National Institutes of Health for the drug promoted to treat COVID-19 — remdesivir — is limited, with the accompanying explanation: “The longitudinal data set only contains a small subset of the protocol and statistical analysis plan objectives.”17Doshi argues the point, writing:
+
+“We are left with publications but no access to the underlying data on reasonable request. This is worrying for trial participants, researchers, clinicians, journal editors, policy makers, and the public. The journals that have published these primary studies may argue that they faced an awkward dilemma, caught between making the summary findings available quickly and upholding the best ethical values that support timely access to underlying data.
+
+In our view, there is no dilemma; the anonymized individual participant data from clinical trials must be made available for independent scrutiny.”
+
+Access to the underlying data is necessary for transparent decision-making. Each of these are essential steps for public health safety. Doshi notes18 that had information been revealed as to why the vaccine trials were not used to test efficacy against the infection, countries would have learned earlier about how the vaccine allowed transmission in the pandemic and would have been able to plan public health strategies accordingly.
+
+Pfizer has been a habitual offender in shady dealings, having been sued in multiple venues over unethical drug testing, illegal marketing practices,19 bribery in multiple countries,20 environmental violations,21 labor and worker safety violations and more.22,23
+
+Doshi cites documentation24 that three of the companies have had past criminal and civil settlements costing them billions of dollars, one pleaded guilty to fraud and other drug companies have jumped into developing a genetic injection with no track record before the pandemic. These actions create doubt that the raw data will adequately support the manufacturers claims.
+
+Lack of Raw Data After Drug Release Reminiscent of Tamiflu
+
+Doshi recalls that 12 years ago the scientific community called for the release of raw data from clinical trials from another drug that was stockpiled by governments around the world in the middle of a different pandemic.25
+
+In this case, most of the trials that formed the foundation of the government approval and stockpiling of Tamiflu were sponsored by the manufacturer and ghost written by writers paid by the manufacturer. Ironically, those who were listed as principal authors did not have access to the raw data.
+
+The history of Tamiflu also parallels remdesivir, a drug that has little or no positive effect on treatment of COVID.26 Dr. Tom Jefferson is an epidemiologist who works for the Cochrane Collaboration, an organization that collects and reviews medical research findings.
+
+In his presentation at the Symposium about Scientific Freedom in Copenhagen,27 Jefferson described the intricate and complex journey he and his team took to publish the only Cochrane review that was based solely on raw unpublished regulatory data for Tamiflu.
+
+Ultimately, his review demonstrated that the drug shortened the duration of symptoms from flu by less than one day. However, the struggle to obtain the data was nearly as eye-opening as the results.
+
+It took four years for Roche to deliver 150,000 pages of clinical data to Jefferson’s team.28 After getting the data, Jefferson found that although the drug was used worldwide, the WHO had never vetted the raw data, nor had the European Medicines Agency, nor had the CDC.
+
+The FDA had seen the data, however, which prompted them to request a published statement on the label “saying serious bacterial infections may begin with influenza-like symptoms or may coexist with or without complications … but Tamiflu has not been shown to prevent such complications.”29Jefferson commented: “The FDA was saying, this business about complications, no evidence of that.”
+
+Jefferson also notes that even a decade after the Tamiflu Phase 3 trials were completed, they remained unpublished. From an analysis the team determined “there was no convincing trial evidence that Tamiflu affected influenza complications and treatment or influenza infections in prophylaxis.”30
+
+At Least One Pfizer Shot Testing Facility Had Poor Practices
+
+Paul Thacker, investigative journalist from the BMJ, reported on evidence presented by researchers in a Texas privately-owned clinical research lab that the data integrity in Pfizer’s vaccine trial was suspect.31 While this should have been front-page news in 2021, the mainstream media completely ignored it.
+
+According to Brook Jackson, a veteran clinical research coordinator with 20 years of experience, the Pfizer Phase 3 COVID jab trial included data that were falsified, patients who were unblinded and poorly trained people hired to administer the injections. Additionally, follow up on any adverse side effects reported by the participants lagged significantly.
+
+Thacker led the article with the statement: “Revelations of poor practices at a contract research company helping to carry out Pfizer’s pivotal COVID-19 vaccine trial raise questions about data integrity and regulatory oversight.”32
+
+Jackson attempted to inform her superiors multiple times. When her concerns were ignored, she called the FDA and filed an email complaint. Hours later she was fired after working just two weeks. According to her separation letter the management had decided she was “not a good fit” for the company. According to Jackson, this was the first time she’d ever been fired in her 20-year career as a clinical research coordinator.
+
+While the briefing document that Pfizer submitted to the FDA in the application for an emergency use authorization contained no indication of any problems at the lab, Jackson has since provided The BMJ with “dozens of internal company documents, photos, audio recordings and emails”33proving her concerns were valid.
+
+The BMJ also learned that Jackson’s allegations were supported by others. Months later, Jackson reconnected with employees who were either fired from the lab or who left. One official sent a text message to Jackson saying, “everything that you complained about was spot on.”34
+
+Two other former employees spoke to The BMJ anonymously confirming the broad allegations made in Jackson’s complaint, with one person saying she had worked on more than four dozen trials during her career, but had never experienced the type of work environment at Ventavia on the Pfizer trial.
+
+For example, in several cases there weren’t enough employees to swab the trial participants who were reporting symptom, even though the trial required lab confirmation of symptomatic COVID-19 as a primary endpoint. The employee called the data produced by the Ventavia lab for the Pfizer trial “a crazy mess.”35
+
+Doshi also addressed the need for adequate and controlled studies with long-term follow-up before granting approval for vaccinations, most notably the COVID-19 genetic therapy injection.36 In an opinion piece published August 23, 2021, he discussed the updated results that Pfizer had posted for their ongoing Phase 3 COVID-19 vaccine trial.37
+
+Months before, the company had announced the vaccine efficacy was estimated to be “up to six months” after injection.38 While updated results were published one year after the trial began,39there were not 10 months of data in the follow-up. The paper appeared to be based on the same data included in the April 1, 2021, news release from Pfizer.40
+
+The efficacy results were identical, claiming 91.3% efficacy against symptomatic disease “up to six months of follow-up.” Doshi points out that this matters because it is thus far the most information Pfizer had offered to the public as they were pursuing full approval from the FDA. Both Pfizer41 and the CDC42 have claimed the shot is 95% effective.
+
+Without addressing whether that 95% is absolute or relative risk reduction, or how Pfizer arrived at those claims, it’s also important to note that little can be said about how long vaccine-induced immunity could last when researchers had only measured two months of data.
+
+“Waning immunity” is a known issue for some vaccines, such as the influenza shot.43 Doshi notes44there have been some studies that found near zero effectiveness only three months after the flu vaccine was administered. The crucial question is the level of effectiveness of the vaccine after an individual is exposed to the virus.
+
+In early July 2021, Israel’s Ministry of Health reported that efficacy against asymptomatic disease fell dramatically in the months following vaccinations. Israel exclusively uses the Pfizer vaccine, which Pfizer’s chief scientific officer, Philip Dormitzer, told a Zoom meeting:45
+
+“Early in the pandemic we established a relationship with the Israeli Ministry of Health where they used exclusively the Pfizer vaccine and then monitored it very closely, so we had a sort of laboratory where we could see the effect.”
+
+Only 7% of Trial Participants Reached 6 Months of Data
+
+Data released from Israel show the efficacy fell to 64% over one month from June 6, 2021, to July 5, 2021.46 By late July, the efficacy had dropped dramatically again to 39%.47 While these numbers are low, the FDA’s expectation is that any approved vaccine should be at least 50% effective.48
+
+Starting in December 2020, Pfizer unblinded the majority of the participants in the trial and allowed the placebo group to get vaccinated. By March 13, 2021, 93% of those participating in the Pfizer trial had been unblinded. This means the reference to six months of safety and efficacy in the preprint paper reports on only the 7% of trial participants that reached six months of the blinded follow up.
+
+While the paper was published one year after the trial began, the data reported do not go past the first six months, which is the time period in which Israel reports efficacy dropped to 39%. Doshi goes on to say:49
+
+“It is hard to imagine that the <10% of trial participants who remained blinded at six months (which presumably further dwindled after 13 March 2021) could constitute a reliable or valid sample to produce further findings. And the preprint does not report any demographic comparisons to justify future analyses.”
+
+Although claims have been made that the vaccine prevents severe disease, the trials were not designed to study severe disease, which Doshi details in another paper published in The BMJ.50 In the opinion piece published in The BMJ, Doshi writes:51
+
+“But here we are, with FDA reportedly on the verge of granting a marketing license 13 months into the still ongoing, two-year pivotal trial, with no reported data past 13 March 2021, unclear efficacy after six months due to unblinding, evidence of waning protection irrespective of the Delta variant, and limited reporting of safety data.”
+
+Coincidentally, the very day Doshi’s paper was published in The BMJ, the FDA announced approval for the Pfizer COVID-19 shot being marketed as Comirnaty.52
+
+Yet, without adequate data analysis, and with mounting numbers of adverse events reported to VAERS,53 the FDA still expanded eligibility for the jab to include children 12 years and older to receive a single booster dose and approved emergency use authorization for children 5 years old and older.54 Doshi ends with a reasoned and logical call to action to the FDA:55
+
+“FDA should be demanding that the companies complete the two-year follow-up, as originally planned (even without a placebo group, much can still be learned about safety). They should demand adequate, controlled studies using patient outcomes in the now substantial population of people who have recovered from covid. And regulators should bolster public trust by helping ensure that everyone can access the underlying data.”
+
+Note to readers: Please click the share buttons above or below. Follow us on Instagram, @globalresearch_crg. Forward this article to your email lists. Crosspost on your blog site, internet forums. etc.
+
+3 Council on Foreign Relations, December 27, 2021, What are the leading COVID vaccines?
+
+25 The BMJ; 2022;376:o102 top para and 2nd from the bottom
+
+42 Centers for Disease Control and Prevention, January 6, 2022; How well the vaccine works
+
+48 Food and Drug Administration Center for Biologics Evaluation and Research June 2020 page 17, E
+
+49 The BMJ Opinion, August 23, 2021; 40% down the page

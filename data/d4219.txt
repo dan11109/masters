@@ -1,0 +1,71 @@
+A whistleblower has alleged that an executive at NSO Group offered a US-based mobile security company “bags of cash” in exchange for access to a global signalling network used to track individuals through their mobile phone, according to a complaint that was made to the US Department of Justice.
+
+The allegation, which dates back to 2017 and was made by a former mobile security executive named Gary Miller, was disclosed to federal authorities and to the US congressman Ted Lieu, who said he conducted his own due diligence on the claim and found it “highly disturbing”.
+
+Details of the allegation by Miller were then sent in a letter by Lieu to the Department of Justice.
+
+“The privacy implications to Americans and national security implications to America of NSO Group accessing mobile operator signalling networks are vast and alarming,” Lieu wrote in his letter.
+
+The letter was shared with the Guardian and other media partners on the Pegasus project, a media consortium led by the Paris-based Forbidden Stories that has investigated NSO and published a series of stories about how governments around the world have used the company’s spyware to target activists, journalists, and lawyers, among others.
+
+NSO said it had no business with the mobile security company.
+
+The Guardian and media partners have separately learned that NSO is the subject of an active criminal investigation by the Department of Justice, according to four people familiar with the investigation. The investigation, they claim, is focused on allegations of unauthorised intrusions into networks and mobile devices.
+
+One American citizen whose mobile phone was hacked by a client of the spyware maker – and who asked not to be identified – said they were interviewed at length about the 2021 hacking incident by US authorities. Security researchers had found the individual was hacked while living outside the US and using a non-US mobile number. The DoJ also interviewed the Mexican journalist Carmen Aristegui, whose iPhone was hacked using NSO technology, according to security researchers who have analysed her mobile phone.
+
+According to another person familiar with the criminal investigation, the DoJ has also been in contact with a company whose users are alleged to have been targeted by clients of NSO using Pegasus spyware.
+
+NSO has previously said that it does not know how its clients use its spyware, but that the clients are meant to target only serious criminals. It has said its technology has saved “thousands of lives” by thwarting terror attacks. It has also said that it investigates credible allegations of wrongdoing by its clients.
+
+NSO has for years been considered among the world’s most sophisticated makers of spyware. When it is successfully deployed, a user of Pegasus can intercept phone calls, read messages on encrypted apps, view photographs, and turn a phone into a remote listening device.
+
+The Biden administration announced in November that it was adding NSO to the commerce department’s “entity list” – in effect, an export blacklist – after it said it found evidence that the Israeli company had supplied spyware to foreign governments, which used the tools to “maliciously target” government officials, journalists, businesspeople, activists, academics and embassy workers.
+
+The allegation at the heart of congressman Ted Lieu’s letter to the DoJ dates back to 2017.
+
+In 2017, Gary Miller – the whistleblower who agreed to be interviewed by the Guardian, the Washington Post, and Forbidden Stories – was working for a company called Mobileum, which designed, developed and sold software to protect the decades-old SS7 network, a global messaging system used for legitimate purposes by mobile phone companies, but can also be used to track mobile users’ physical location.
+
+Miller was asked to lead a web voice call that he alleged in records provided to authorities was attended by NSO executives Shalev Hulio and Omri Lavie, two of the group’s co-founders.
+
+NSO, Miller said, was interested in learning more about Mobileum’s access to hundreds of mobile networks around the world. Specifically, Miller has alleged the NSO executives wanted to discuss how gaining access to the mobile networks would allow NSO to “enhance the capabilities of their surveillance software”.
+
+“They stated explicitly that their product was designed for surveillance and it was designed to surveil not the good guys but the bad guys,” Miller said.
+
+He added: “They stated multiple times that their work was authorised by government agencies. They didn’t get in the details of who those government agencies were.”
+
+As the meeting progressed, Miller alleged, a member of his own company’s leadership at Mobileum asked what NSO believed the “business model” was of working with Mobileum, since Mobileum did not sell access to the global signalling networks as a product.
+
+According to Miller, and a written disclosure he later made to federal authorities, the response allegedly made by Lavie was “we drop bags of cash at your office”.
+
+Miller said the meeting ended soon thereafter.
+
+A few months later, Miller said he submitted an anonymous “tip” to the FBI in which he reported some details of the August conversation but did not hear back from authorities.
+
+In a statement to the Guardian, Lavie’s spokesperson said: “No business was undertaken with Mobileum. Mr Lavie has no recollection of using the phrase ‘bags of cash’, and believes he did not do so. However, if those words were used they will have been entirely in jest.”
+
+A representative for Lavie also said in an email to the Guardian that Lavie “strongly denies having suggested any action that was unethical or illegal”.
+
+An NSO spokesperson said in a statement to the Guardian: “The company [has] never done any business with this company. We are not aware of any DoJ investigation. In addition, NSO does not do business using cash as a form of payment. Any suggestion otherwise demonstrates a profound lack of understanding about our company.”
+
+Hulio did not respond to a request for comment.
+
+Miller has since left Mobileum and is being represented by attorney John Tye at Whistleblower Aid.
+
+Miller is currently working as a mobile security researcher at Citizen Lab at the University of Toronto. He filed his whistleblower complaint to authorities at the DoJ, the Securities and Exchange Commission, and the Federal Communications Commission in June 2021. He then shared his account with Lieu in December 2021.
+
+There is no evidence that Mobileum ever engaged in another meeting with NSO or gave the company access to any mobile networks.
+
+Eran Gorev, who at the time was a managing partner at Francisco Partners, a US-based investment company that had an interest in NSO in August 2017, and is listed in Miller’s disclosures to authorities as having attended the meeting, said in a statement to the Guardian that he had not been involved in NSO for more than three years and had “no recollection” of ever meeting with or speaking with Mobileum.
+
+He said if such a meeting did take place, he would “absolutely never make a comment like this” and that if someone else did, “it would “clearly have been made in jest and a colloquial expression/cultural misunderstanding”.
+
+Gorev also said that during the time he was “involved” with NSO, the company complied with all applicable laws with “strict oversight by the Israeli government” and had instituted a business ethics committee.
+
+Asked about the details of the meeting, Mobileum said in a statement shared with the Pegasus project: “Mobileum does not have – and has never had – any business relationship with NSO Group.”
+
+It added: “Mobileum takes the data privacy of its customers information very seriously and has implemented a robust cybersecurity program to prevent any breaches. Mobileum does not have any direct access to the customer’s network and is unable to provide any kind of access, including SS7 access, to any third party.”
+
+There is no evidence that the DoJ is actively investigating Miller’s allegations.
+
+In an interview with the Pegasus project, Lieu, a former prosecutor, said: “It just looks really fishy, and it doesn’t smell right, which is why I wanted the justice department to investigate.”

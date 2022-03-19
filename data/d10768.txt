@@ -1,0 +1,9 @@
+This article is part of the On Tech newsletter. Here is a collection of past columns.
+
+My fellow Americans, we are weird.
+
+The United States is one of the few big countries where SMS, the texting technology with origins in the 1980s, remains a standard way to chat.
+
+In many other countries, text messaging happens over a smartphone app like WhatsApp from Meta, the company formerly called Facebook. WeChat is popular in China, and Line in Japan. Those messages travel over the internet rather than over phone lines like SMS texts.
+
+America’s SMS exceptionalism has pros and cons. The biggest benefits of SMS are that it works on almost any phone, and we’re not locked into one company’s communications world. The drag is that SMS has security flaws, and it lacks features of modern chat apps like notifications that your friend has read your message, or the ability to start a video call from a text.

@@ -1,0 +1,37 @@
+Amazon’s family of Echo smart speakers and displays continues to grow every year. And if you recently got your hands on an Echo smart speaker, congrats! It’s always fun getting new tech, especially something that feels so much like the future like a smart home speaker. Now that you’ve got it in your home, the next step is setting it up and using it to its fullest.
+
+And we’re going to break down how to set up virtually any member of Amazon’s Echo smart speaker family as well as how to configure it for the room it’s in and connect your music services so you can start jamming out.
+
+This setup process applies to nearly all of Amazon’s Echo-branded smart speakers, including the standard Echo, Echo Dot and Echo Studio. The Echo Shows — 5, 8, 10 and 15 — offer a more intuitive onboarding experience, allowing you to plug it in and walk through the steps that pop up on the screen.
+
+That being said, the steps you need to follow aren’t complicated at all and can be done right on your phone.
+
+Now that your Echo speaker is up and running, it’s time to start interacting with Alexa. By now, everyone seems to know common phrases and questions to ask the virtual assistant (e.g., “What’s the weather today?” “What’s 2+2?” “How tall is the Empire State Building?”), and there are hundreds of thousands to explore.
+
+Start by saying, “Hello” to Alexa through your Echo. It’ll walk you through some of the basic commands it understands and help you learn what it’s capable of. Digging around the Alexa app — on your Android or iOS device — is also a great way to get a grasp on built-in features and Skills, Amazon’s version of apps for Echo devices.
+
+You can also control your smart home using Alexa. So long as the accessories or appliances you own are compatible with Alexa, you can ask it to turn the kitchen light off, play a movie on your TV and check your security cameras, among others. This alone will quickly make your Echo speaker the central hub of your home.
+
+One of the biggest advantages to having a smart speaker is playing music with your voice. By going to the Alexa app and tapping “Link Music Services,” you can connect all of the subscriptions you have so you can play any type of music you desire.
+
+Currently, Alexa supports a variety of services like Amazon Prime Music, Spotify, Apple Music, Deezer, Sirius XM and Tidal, among others. You will need an account with these services to connect them as well. You’ll be given an option to set one as your default if you have multiple.
+
+As your smart home grows, it’s important to assign a name for the room your Echo speaker is in. That way, if you buy a second speaker for another part of your house, you’ll be able to control what content is played and where.
+
+If you hit the “Continue” button after initially setting up your Echo, you can assign a room name to the device in order to keep tabs on where it’s located. Alternatively, in the settings section of your Echo’s listing in the Alexa app, you can give it a name for easier control (such as “Bedroom speaker” or “Living room”).
+
+Using Groups is another great way to control where content is played throughout your home. This way, you can have the same music playing in various rooms, make intercom announcements and enable grouped routines.
+
+Some Alexa Skills to start with
+
+Alexa Guard Plus
+
+Alexa Guard Plus uses your Echo speaker’s microphones to monitor your house’s activity and notify you if it detects the sound of a burglary, an emergency or other unusual sounds by listening for things like broken glass or smoke alarms. It can even give you direct access to various emergency help lines all by using your voice. It’s pretty handy, but it is a paid skill at $4.99 per month or $49 for the year.
+
+Food Network Daily Bite
+
+For all of the foodies out there, check out the Food Network’s Daily Bite Skill. Available for free, this Skill delivers daily recipe ideas along with tips and tricks to amp up your cooking game. It’s a must-have if you find yourself hitting a roadblock in your kitchen knowledge.
+
+7-Minute Workout
+
+Nowadays, no one seems to have time to get a decent workout in, but the 7-Minute Workout Skill (available for free) tries to solve that issue by packing in a full-body exercise in just 420 seconds. You can tailor your experience to your liking by picking an intensity level, custom background music, the types of workouts you do and more. Those who subscribe to the Skill can even get performance stats, access to over 25 additional workouts and specialized workouts to target certain muscle groups.

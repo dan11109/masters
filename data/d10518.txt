@@ -1,0 +1,39 @@
+In 2020, astronomers thought they’d found something incredible: the second so-called Earth Trojan asteroid ever seen. Now, a new team of researchers has confirmed that it’s real.
+
+Trojan asteroids are small space rocks that share their orbit with a planet, circling whatever host star that planet does in a stable orbit. While we have spotted Trojan asteroids around other planets in our solar system and others, until now only one of these objects, called 2010 TK7, has been confirmed to orbit along the same path as Earth. In a new study, researchers confirmed that an asteroid spotted in 2020, called 2020 XL5, is the second object of its kind, called an Earth Trojan asteroid. Think of it as an extra companion to Earth, albeit a very tiny one.
+
+“The discovery of 2020 XL5 as an Earth Trojan, confirms that 2010 TK7 is not a rare exception and that there are probably more,” study lead author Toni Santana-Ros, a researcher at the University of Alicante and the Institute of Cosmos Sciences (ICCUB) at the University of Barcelona (IEEC-UB), told Space.com. “This encourages us to keep enhancing our survey strategies to find, if exists, the first primordial Earth Trojan.”
+
+In December 2020, 2020 XL5 was spotted by astronomers with the Pan-STARRS 1 survey telescope in Hawaii and added to the International Astronomical Union’s Minor Planet Center database. Amateur astronomer Tony Dunn went on to calculate the object’s trajectory using NASA’s publicly-available JPL-Horizon’s software and found that it orbits L4, the fourth Earth-sun Lagrange point, a gravitationally balanced region around our planet and star. 2010 TK7, the first-confirmed Earth Trojan asteroid is also at L4.
+
+“Preliminary results showed it was in a trojan orbit around our Lagrangian point L4,” Dunn told Space.com. “Its orbit was quite uncertain at the time so I did a more careful analysis, simulating 100 clones with similar orbits. Every clone demonstrated trojan behavior as well.”
+
+But at the time, 2020 XL5’s orbit around the sun wasn’t fully understood, so it wasn’t yet certain whether the object was just a nearby space rock crossing Earth’s orbit or if it could be a real Earth Trojan asteroid.
+
+To confirm whether or not it is an Earth Trojan asteroid, a team led by Santana-Ros observed the object with the SOAR (Southern Astrophysical Research) Telescope in Chile along with the Lowell Discovery Telescope in Arizona and the European Space Agency’s Optical Ground Station in Tenerife in the Canary Islands.
+
+“These were very challenging observations, requiring the telescope to track correctly at its lowest elevation limit, as the object was very low on the western horizon at dawn,” co-author Cesar Briceño, a researcher at the National Science Foundation’s National Optical-Infrared Astronomy Research Laboratory (NOIRLab), said in a statement.
+
+Santana-Ros echoed how difficult it is to make these observations from Earth. It “is a pain for astronomers to point to the L4 and L5 points of the sun-Earth system while being on our planet! Any asteroid orbiting around these points will only be visible during a short time window close to twilight, at very low elevations above the horizon,” Santana-Ros told Space.com.
+
+To bolster their observations, the team also factored in archival data from SOAR to try and fully understand the object and its orbit. In total, the team was using about a decade’s worth of observations and data, according to the statement from NOIRLab.
+
+The team concluded that, as it was initially suspected, 2020 XL5 is an Earth Trojan asteroid. They also found that the object is also likely a C-type asteroid, the most common asteroid type in the solar system that is high in carbon and dark.
+
+“SOAR’s data allowed us to make a first photometric analysis of the object, revealing that 2020 XL5 is likely a C-type asteroid,” Santana-Ros said in the same statement. The study also revealed that this object is much larger than the first Earth Trojan asteroid found. 2020 XL5 measures about 0.73 miles (1.2 kilometers) across, almost three times longer than 2010 TK7 which stretches just about 0.25 miles (0.4 km) wide.
+
+The team also found that 2020 XL5 won’t be an Earth Trojan asteroid forever. While it will stay in its current position for about 4,000 years, it will eventually escape its gravity-bound location, according to the statement.
+
+“We are fully sure that 2020 XL5 will remain librating around L4 for at least 3,500 more years,” Santana-Ros told Space.com.
+
+Briceño noted in the statement that this discovery could be followed by even more and that, potentially, the future could see humans stepping foot onto these types of asteroids.
+
+“If we are able to discover more Earth Trojans, and if some of them can have orbits with lower inclinations, they might become cheaper to reach than our Moon,” Briceño said. “So they might become ideal bases for an advanced exploration of the solar system, or they could even be a source of resources.”
+
+But whether or not we ever send humans to walk on them, NASA did launch the robotic Lucy asteroid mission in 2021 to study Jupiter’s Trojan asteroids and studying them can help us to better understand the universe at-large.
+
+Trojan asteroids like XL5 “can provide us information about the formation of its host planet and, in turn, keys to better understand the evolution of the Solar System by adding constraints to its evolution models,” Santana-Ros told Space.com. “We have studied the primordial Jupiter Trojans for several years and we will soon have the opportunity to investigate them with in situ observations taken by NASA’s space mission Lucy.”
+
+These findings were described in a study published today (Feb. 1) in the journal Nature.
+
+Copyright 2022 Space.com, a Future company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.

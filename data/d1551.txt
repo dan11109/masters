@@ -1,0 +1,35 @@
+A key environmental body is still working to rebuild its computer systems more than 12 months on from a cyberattack which crippled its network, with the full financial impact of the incident still unknown, a report has said.
+
+The Scottish Environment Protection Agency (Sepa) fell victim to a sophisticated ransomware attack on Christmas Eve 2020, with criminals demanding payment and the majority of the organisation’s data encrypted, stolen or deleted overnight.
+
+The Auditor General for Scotland said in a report into the attack on Tuesday that Sepa bosses are still trying to calculate the cost of the cyberattack and accounting records have had to be recreated from bank statements, leaving auditors unable to fully examine its finances, including £42 million of contract income.
+
+Auditor General Stephen Boyle said the incident “highlights how no organisation can fully defend itself against the threat of today’s sophisticated cyber-attacks” and it is “crucial that organisations are as well-prepared as possible”.
+
+“Sepa was in a solid starting position but it will continue to feel the consequences of this attack for a while to come,” said Mr Boyle. “Everyone in the public sector can, and should, learn from their experience.”
+
+Reviews into Sepa’s cybersecurity have found its defences were good but there are indications the ransomware software, which demands payment in a cryptocurrency like BitCoin in exchange for the password to retrieve the data, found its way into the network through a phishing email.
+
+Investigators think Sepa’s systems were infiltrated before the December 24 attack, which allowed hackers to spread the malicious software, but the original source of the attack is still yet to be determined.
+
+When the attack was launched staff were alerted and they began to isolate parts of the network, but because it happened out of hours further escalation was not completed until early on Christmas Eve morning.
+
+The report found that despite Sepa following best practice for backing up its data, the “sophisticated nature of the attack meant that online back-ups were targeted and corrupted at an early stage, meaning there was no way of accessing historical records quickly”.
+
+The report said Sepa was able to continue delivering its key services, like flood warnings, within 24 hours of the attack but, more than 12 months on, it is still rebuilding its digital infrastructure.
+
+In the report’s conclusions, it said the organisation had “a number of areas of good practice” which included “Sepa’s quick response and business continuity arrangements that enabled it to continue delivering critical services, and its open and transparent communication with staff and wider public”.
+
+The report said Sepa “recognises that the cyber-attack has increased the medium to longer term financial pressures on the organisation” and that “key systems have been rebuilt, such as Sepa’s financial accounting system, with others being built from new and data recovered or recreated securely, and this will take time”.
+
+Terry A’Hearn, Sepa’s chief executive, quit his job late last month after the organisation said there were “conduct allegations” made against him.
+
+Jo Green, its chief officer, has become the acting chief executive and is being supported by the agency’s management team.
+
+Net Zero Secretary Michael Matheson was asked about the cyber attack when he spoke to a Holyrood committee on Tuesday.
+
+He said: “Sepa continue to make good progress in recovering from the cyber attack.
+
+“There’s been a range of assessments carried out on the impact it had on their operations and their recovery.”
+
+Other public sector bodies were learning the lessons from the “serious and sustained” attack, he said.

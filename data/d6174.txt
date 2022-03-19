@@ -1,0 +1,27 @@
+The Tor-M2 SAM, which is equipped with two 9M334 modules, each containing four 9M331 SAM guided missiles, was designed to operate around-the-clock in all weather conditions.
+
+Here's What You Need to Know: This powerful SAM system is about to get better at stopping enemy UAVs.
+
+The Russian military’s Tor-M2 short-range air defense missile system was developed to counter a range of targets including unmanned aerial vehicles (UAVs), guided missiles, cruise missiles, helicopters and high-precision weapons that fly at very low to medium altitudes. The full-automated surface-to-air missile (SAM) system is manufactured by Almaz-Antey’s Izhevsk Electromechnical Plant to also deliver effect air defense in jamming environments.
+
+The Tor-M2 is able to engage a target within ten seconds while on the move and, and within just eight seconds from a short stop. It integrates Passive Electronically Scanned Array (PESA) radar that allows for faster and more precise beam control, and it can engage somewhere between four and ten targets simultaneously.
+
+However, against some targets the Tor-M2 would be overkill—in essence comparable to targeting flies with a shotgun—which is why the Russian military has now announced that it developed a small-size missile for the SAM platform. These would be used as a counter-weapon specifically against UAVs and other small drones.
+
+“Currently the air defense system Tor-M2 is the most effective means against tactical drones,” commander-in-chief of Russia’s ground forces, General of the Army Oleg Salyukov told the government-published daily Rossiyskaya Gazeta, Tass reported.
+
+“The cost of one guided air defense missile is way above the cost of a small-size drone. For this reason a relatively inexpensive small missile is being developed for this system,” Salyukov added. “The existing multi-echelon air defense system guarantees effective protection from them by and large.”
+
+The Tor-M2 SAM, which is equipped with two 9M334 modules, each containing four 9M331 SAM guided missiles, was designed to operate around-the-clock in all weather conditions.
+
+The platform was reportedly deployed to Syria, while the Tor-M2-DT arctic version—mounted on cross-country tractors—was put into development in 2017.
+
+According to Army-Technology, the Tor family SAM systems has been widely exported as the Tor-M2E, which is based on a tracked chassis. Its capabilities were first exhibited at the MAKS 2007 Airshow in Moscow and then again in 2011. The Tor-M2E is now in service with the armed forces of Azerbaijan, Belarus, China, Cyprus, Egypt, Greece, Iran, Ukraine and Venezuela.
+
+A navalized variant was developed under the name 3K95 “Kinzhal,” also known as the SA-N-9 “Gauntlet.” This naval version utilizes the same 9M330 missile as the land based version, and the system can be mounted on vessels displacing over 800 tons.
+
+The Chinese military has developed its own version of the original Tor-M1 system as the HQ-17. It incorporates an IFF (Identification, Friend or Foe) on top of electronically scanned array radar; and features modernized electronics, an all-terrain launcher and ability to datalink with other connected Chinese military systems and platforms. China’s FM-2000 short-range air defense system (SHORAD) also bears a host of technical similarities to the Tor-M2K. Both platforms came about from China copying the dozen or Tor-M1 platforms that Beijing purchased from 1996 to 2000.
+
+Peter Suciu is a Michigan-based writer who has contributed to more than four dozen magazines, newspapers and websites. He is the author of several books on military headgear including A Gallery of Military Headdress, which is available on Amazon.com.
+
+This article first appeared in October 2020.

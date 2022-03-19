@@ -1,0 +1,29 @@
+A Johns Hopkins University literature review and meta-analysis of the effects of lockdowns on mortality stemming from the Chinese coronavirus found that “lockdowns have had little to no public health effects,” and have “imposed enormous economic and social costs where they have been adopted.”
+
+“While this meta-analysis concludes that lockdowns have had little to no public health effects, they have imposed enormous economic and social costs where they have been adopted,” the authors of the Johns Hopkins University review wrote.
+
+“In consequence, lockdown policies are ill-founded and should be rejected as a pandemic policy instrument,” they added.
+
+The authors are Jonas Herby, special advisor at Center for Political Studies in Copenhagen, Denmark; Lars Jonung, professor emeritus in economics at Lund University, Sweden; and Steve H. Hanke, a Professor of Applied Economics and Founder & Co-Director of The Johns Hopkins Institute for Applied Economics, Global Health, and the Study of Business Enterprise.
+
+The study, the authors said, was “designed to determine whether there is empirical evidence to support the belief that ‘lockdowns’ reduce COVID-19 mortality.” The authors defined lockdowns “as the imposition of at least one compulsory, non-pharmaceutical intervention (NPI).”
+
+NPIs, they explained, “are any government mandate that directly restrict peoples’ possibilities, such as policies that limit internal movement, close schools and businesses, and ban international travel.”
+
+The authors noted that “public health experts and politicians” have “embraced compulsory lockdowns” as an effective method for addressing the pandemic, and that their meta-analysis answers the question on whether lockdown policies have been effective in curbing coronavirus mortality.
+
+“To answer our question, we focused on studies that examine the actual impact of lockdowns on COVID-19 mortality rates based on registered cross-sectional mortality data and a counterfactual difference in-difference approach,” the authors explained.
+
+Herby, Jonung, and Hanke further explained their method:
+
+This study employed a systematic search and screening procedure in which 18,590 studies are identified that could potentially address the belief posed. After three levels of screening, 34 studies ultimately qualified. Of those 34 eligible studies, 24 qualified for inclusion in the meta analysis. They were separated into three groups: lockdown stringency index studies, shelter-in-placeorder (SIPO) studies, and specific NPI studies. An analysis of each of these three groups support the conclusion that lockdowns have had little to no effect on COVID-19 mortality. More specifically, stringency index studies find that lockdowns in Europe and the United States only reduced COVID-19 mortality by 0.2% on average.
+
+“SIPOs were also ineffective, only reducing COVID-19 mortality by 2.9% on average,” the study added. “Specific NPI studies also find no broad-based evidence of noticeable effects on COVID-19 mortality.”
+
+In conclusion, “our meta-analysis fails to confirm that lockdowns have had a large, significant effect on mortality rates,” the authors wrote.
+
+The review also noted that studies looking at specific NPIs, such as “lockdown vs. no lockdown, facemasks, closing non-essential businesses, border closures, school closures, and limiting gatherings,” also found “no broad-based evidence of noticeable effects on COVID-19 mortality.”
+
+The authors went on to say that “closing non-essential businesses seems to have had some effect” on curbing coronavirus mortality, but that this finding is likely “related to the closure of bars.”
+
+The effect of border closures, school closures and limiting gatherings on COVID-19 mortality yields precision-weighted estimates of -0.1%, -4.4%, and 1.6%, respectively,” they added.

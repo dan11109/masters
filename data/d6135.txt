@@ -1,0 +1,27 @@
+Powerful immune cells that are thought to play a role in long-term protection from serious Covid-19 are able to recognise Omicron, a new study has found.
+
+T cells are a type of white blood cell that hunt down and destroy infected cells in the body, and the new research shows that, despite extensive mutations, they are able to recognise the Omicron variant.
+
+Omicron is already known to evade the body’s antibody forces, but until now experts have been unsure about the role of T cells in relation to the variant.
+
+Previous studies have found that T cells, which can be made in response to vaccines and/or infection, may play a vital role in preventing people getting seriously ill with Covid-19.
+
+Catherine Riou and Wendy Burgers, along with colleagues from the University of Cape Town, South Africa, examined T cell responses in people who had previously been vaccinated or infected with earlier variants of the virus.
+
+The authors examined the T cell response from 40 people who had received either one or two doses of the Johnson & Johnson vaccine, 15 who had received two doses of the Pfizer/BioNTech jab, and 15 unvaccinated people who had had previous infection.
+
+They found that 70% to 80% of T cell responses were maintained against the Omicron spike protein across the study groups.
+
+For 19 patients who were admitted to hospital with Omicron in South Africa – where the variant was first detected – the authors found that these people had T cell responses comparable to those seen in patients who were admitted to hospital in previous waves of the pandemic, when the Beta and Delta variants were dominant.
+
+Writing in the journal Nature, the authors said: ‘Despite Omicron’s extensive mutations and reduced susceptibility to neutralising antibodies, the majority of T cell responses, induced by vaccination or infection, cross-recognise the variant.
+
+‘It remains to be determined whether well-preserved T cell immunity to Omicron contributes to protection from severe Covid-19, and is linked to early clinical observations from South Africa and elsewhere.’
+
+A separate study published in the same journal found that T cell responses induced by vaccination are well conserved against the Omicron variant.
+
+Penny Ward is an independent pharmaceutical physician, and visiting professor in pharmaceutical medicine at King’s College London.
+
+She said: ‘These data offer at least one explanation for the observed retained protection against severe disease following reinfection in vaccinated patients during the recent Omicron wave, and offer at least some reassurance that these broad responses may also blunt disease severity should, as expected, further variants emerge.’
+
+MORE : Ethical concerns raised over human cells being grown in monkey embryos

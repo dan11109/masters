@@ -1,0 +1,13 @@
+ABOVE: BRAIN BOOST: Even before they ever encounter bright light, dampwood termites that may leave the nest to mate have larger optic lobes than workers (seen here), which never leave the colony. Sean O’Donnell, Drexel University
+
+The paper 
+
+S. O’Donnell et al., “Experience-expectant brain plasticity corresponds to caste-specific abiotic challenges in dampwood termites (Zootermopsis angusticollis and Z. nevadensis),” Sci Nat, 108:57, 2021.
+
+The brains of many species, including humans, change as a consequence of the stimuli they encounter throughout life. But in addition to this type of responsive brain plasticity, research in insects has shown that the brain can also shape itself in anticipation of change, a process known as experience-expectant brain plasticity.
+
+Drexel University evolutionary ecologist Sean O’Donnell recently identified this plasticity in dampwood termites (Zootermopsis angusticollis and Z. nevadensis), colonial insects that each develop into one of several different castes. Reproductive kings and queens, for example, are the only individuals to leave the nest, and require heightened visual processing capacities to cope with the bright conditions outside. However, not all nymphs with the potential to become kings or queens do, and O’Donnell and his colleagues found evidence that these nymphs still structure their brains in anticipation of light.
+
+Specifically, the team collected, sectioned, stained, and photographed frontal sections from 44 termite heads of different castes using electron microscopy. The researchers found that the visual processing brain regions, or optic lobes, of king and queen termites were about three times larger, on average, than the optic lobes of workers or soldiers. This finding also extended to nymphs that could develop into kings or queens, whether or not they ultimately did. “We see the brain making this rather dramatic, and we assume very expensive, increase in investment without an immediate payoff,” O’Donnell says.
+
+Boston University evolutionary biologist James Traniello, who was not involved in the research, calls the work a “sort of pilot study” for understanding termite brain evolution, but maintains that more questions need answering, such as how brain plasticity manifests in other brain regions and how optic lobe substructures differ among castes.

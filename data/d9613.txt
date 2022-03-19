@@ -1,0 +1,51 @@
+The FBI has confirmed that it obtained NSO Group’s powerful Pegasus spyware, suggesting that it bought access to the Israeli surveillance tool to “stay abreast of emerging technologies and tradecraft”.
+
+In a statement released to the Guardian, the bureau said it had procured a “limited licence” to access Pegasus for “product testing and evaluation only”, and suggested that its evaluation of the tool partly related to security concerns if the spyware fell into the “wrong hands”.
+
+The bureau also claimed it had never used Pegasus in support of any FBI investigation. “There was no operational use in support of any investigation, the FBI procured a limited licence for product testing and evaluation only,” it said.
+
+The statement marks a direct acknowledgment by the FBI that it acquired Pegasus, one of the world’s most sophisticated hacking tools.
+
+The FBI’s procurement of Pegasus, which occurred in 2019 under the Trump administration, was first reported by the New York Times.
+
+It was a stunning revelation in part because the Biden administration has recently placed NSO on a commerce department blacklist, saying it had evidence that the company’s hacking tools had enabled governments around the world to conduct “transnational repression”, targeting dissidents and journalists.
+
+The Guardian and other media organisations have reported multiple cases in which security researchers say governments have used NSO’s tools to target American citizens around the world, including Carine Kanimba, the daughter of the jailed Rwandan dissident Paul Rusesabagina, and Lama Fakih, a senior staff member of Human Rights Watch in Beirut.
+
+Once deployed, the user of Pegasus spyware can take complete control of a person’s phone, accessing messages, intercepting phone calls and using the phone as a remote listening device.
+
+A person with close knowledge of the FBI deal, who spoke to the Guardian on the condition of anonymity, claimed that it occurred after a “long process” of negotiations between US officials and NSO.
+
+It is claimed one disagreement centred on how much control NSO would retain over its software. The source claimed that NSO usually kept sensors on its technology so that the company could be alerted in Israel if the technology was moved by a government client.
+
+But the source claimed the FBI did not want the technology to be fitted with sensors that would have allowed NSO to track its physical location.
+
+The source also claimed that the FBI did not want NSO’s own engineers to install the technology and did not want to integrate the spyware into its own systems. Ultimately, it is understood that NSO and the FBI agreed to keep the technology in a large container. NSO did not respond to a request for comment on these claims.
+
+The FBI was also concerned about possible “leakage” of any data to another foreign intelligence service, the source said.
+
+The source claimed the Pegasus licence was acquired by the FBI using a financial “vehicle” that was not easily identified as being linked to the bureau.
+
+The FBI did not respond to specific questions about its alleged concerns, the financial vehicle it used to procure the Pegasus licence, or other details.
+
+In the end, the source claimed, the FBI did not actually use Pegasus. “They weren’t using it at all. Like, not even switching it on. But they kept paying for it, and they wanted to renew. It was a one-year test project and it cost about $5m [£3.7m], and they renewed for another $4m,” the source claimed. “But they didn’t use it.”
+
+In an emailed statement in response to claims about the bureau’s acquisition of Pegasus, the FBI said: “The FBI works diligently to stay abreast of emerging technologies and tradecraft – not just to explore a potential legal use but also to combat crime and to protect both the American people and our civil liberties.
+
+“That means we routinely identify, evaluate, and test technical solutions and problems for a variety of reasons, including possible operational and security concerns they might pose in the wrong hands. There was no operational use in support of any investigation, the FBI procured a limited licence for product testing and evaluation only.”
+
+NSO has categorically denied that its Pegasus spyware can be used against US mobile phones.
+
+Ron Wyden, a Democratic senator from Oregon, the chair of the finance committee and a staunch privacy advocate, said: “The public deserves far more transparency from the executive branch, including the FBI and justice department, about any US government relationships with NSO and other cyber-mercenaries. The public has a particular interest in whether the government believes the use of these tools against Americans is legal.”
+
+The New York Times reported that NSO brought a version of Pegasus to New Jersey in June 2019, after the FBI had reportedly been offered a workaround by NSO that allowed a product called Phantom to “hack any number in the United States”. Without naming sources, the New York Times reported that NSO conducted demonstrations of Phantom to the FBI, which the newspaper said resulted in an alleged “attack” against a US phone number.
+
+In a lawsuit it filed in 2019, WhatsApp accused NSO of sending malware to 1,400 of its users. The company has said about 100 of the individuals who were targeted were members of civil society, including journalists and activists. NSO has said in legal filings that even if WhatsApp’s allegations were true, it was acting as a “foreign agent” when its spyware was deployed against WhatsApp users, because its software is used by foreign governments who are meant to use its spyware to fight crime.
+
+NSO has also said it does not have information about how its clients use its spyware or who its clients target.
+
+WhatsApp has also alleged in court filings that a US phone number was targeted by Pegasus on 9 May 2019. Without providing evidence or sourcing, the New York Times reported that the alleged intrusion on a US number, as described in WhatsApp’s legal case, was in fact a demonstration of NSO’s technology to the FBI.
+
+The FBI declined to comment on the allegation. NSO did not respond to a request for comment.
+
+WhatsApp said: “In all circumstances our priority is to defend our services from threats that would harm people’s ability to safely communicate with one another. We will continue our efforts to hold NSO accountable for their attacks against journalists, human rights activists and government officials in violation of US law. The spyware industry must be prevented from undermining the privacy and security of people in the US and across the world.”

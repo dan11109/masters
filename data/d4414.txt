@@ -1,0 +1,45 @@
+A federal judge is being urged to release a report that, despite the secrecy surrounding it, appears to indicate there are potential flaws in the Dominion Voting Systems’ equipment used in Georgia.
+
+“The public deserves to know the context of J. Alex Halderman’s claims and his testimony regarding the 2020 election,” Georgia Secretary of State Brad Raffensperger said last week in calling for the document to be released, the Washington Examiner reported.
+
+“Georgia voters face an extreme risk that [ballot marking device]-based attacks could manipulate their individual votes and alter election outcomes,” Halderman, a University of Michigan computer science professor, said about the report last year, according to the Daily Beast.
+
+In its reporting, the Atlanta Journal-Constitution has indicated that the report, completed last year, describes how someone could hack the system to change votes, without saying whether or not this was ever accomplished.
+
+Halderman — exploring the world of possibilities — said malicious software could be installed on voting touchscreens to change votes from one candidate to another. Votes could also be altered through QR codes used by scanners, he said, without indicating that this had been done.
+
+The report is part of a lawsuit that seeks to change Georgia’s system for voting. More importantly, it is a piece of the wider discussion about potential election fraud in the 2020 presidential election.
+
+To date, no one has produced any evidence or documentation that proves the machines were tampered with in 2020. Dominion, which was the target of multiple post-election allegations, has fought back, suing several of those who claimed its machines were part of an election fraud conspiracy.
+
+U.S. District Judge Amy Totenberg is considering releasing a redacted version of the report and said she is irked that the report has turned into a “political football,” according to the Journal-Constitution.
+
+“I’m unhappy with the political treatment of the report,” Totenberg said last week. “The entire purpose of having hearings was to maximize transparency but at the same time trying to be mindful of the risks involved of disclosure.”
+
+“I don’t want to have somebody saying, ‘We would have released the full report but for Judge Totenberg,’” she continued.
+
+On Monday, Totenberg asked Georgia election officials and plaintiffs suing over election security to outline by Wednesday how they believe the report should be released, according to the Journal-Constitution.
+
+“I want people to understand the general concerns … without giving anyone a road map to hacking or intruding on the system or manipulating it,” Totenberg said.
+
+One option is to send the full report to the Cybersecurity and Infrastructure Security Agency, while a more limited version goes to the public.
+
+Raffensperger in the past has said the system of recounts and audits would disclose any attempt to rig an election.
+
+Republican Gov. Brian Kemp has called on Raffensperger to review the expert’s report and ensure voting machines are safe.
+
+“Now that Gov. Kemp publicly called him out for failing to comply with his duties to address those vulnerabilities and ignoring the report since last summer, he’s desperate to point the finger at others,” said David Cross, an attorney for the plaintiffs in the lawsuit. “But he made the decision many months ago not to address the report, and he’s accountable to voters for that deliberate dereliction.”
+
+“It’s really concerning that the Georgia secretary of state and Dominion are kind of putting their head in the sand,” said Susan Greenhalgh, an election security consultant for plaintiffs suing over Georgia’s voting system, according to the Journal-Constitution. “Common sense would say you would want to be able to evaluate the claims and then take appropriate action, and they’re not doing any of that.”
+
+Although all the details of Halderman’s report remain confidential, the outlines have been made public.
+
+“It is important to recognize the possibility that nefarious actors already have discovered the same problems I detail in my report and are preparing to exploit them in future elections,” Halderman wrote in a September statement.
+
+He said that the possibility exists for manipulation either at a polling place or by hacking into the election system’s computers, but indicated he has seen no evidence that this was done.
+
+Raffensperger has criticized the report.
+
+“The smoke and mirrors techniques of Professor Halderman and the plaintiffs in this case does not serve Georgia voters well,” Raffensperger said.
+
+This article appeared originally on The Western Journal.

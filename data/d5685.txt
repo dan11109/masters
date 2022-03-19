@@ -1,0 +1,51 @@
+Here’s something they didn’t teach you in school: Gravity killed the dinosaurs. Or, more precisely, a universe-wide change in gravity helped kill the dinosaurs, by yanking a giant space rock out of its usual place on the edge of our solar system and hurtling it toward a cataclysmic, climate-altering collision with Earth.
+
+That’s the new theory pitched by Leandros Perivolaropoulos, a physicist at the University of Ioannina in Greece. In a new study that hasn’t been peer-reviewed yet, Perivolaropoulos draws a wild connection between two massive events.
+
+The first: a theoretical increase, starting around 150 million years ago, in Newton’s constant, which is a measure of the baseline force of gravity. And the second: the “Chicxulub impactor”—the 6.2-mile-long asteroid that slammed into Mexico’s Yucatan Peninsula 66 million years ago and wiped out most life on Earth.
+
+Some scientists think Perivolaropoulos is trying too hard to explore the asteroid’s backstory. “This is pretty out there,” Adam Riess, a Johns Hopkins University astrophysicist, told The Daily Beast. There’s no scientific consensus that a change in Newton’s constant—a change that would affect pretty much every object in the entire universe—even happened. And without that change, Perivolaropoulos’ theory doesn’t make sense.
+
+Still, there are more than a few scientists who believe Newton’s constant, and other astronomical constants, aren’t constant at all.
+
+It’s obvious why Perivolaropoulos would try to explain the context for the Chicxulub impactor, despite some big gaps in our understanding. The asteroid changed everything on Earth and paved the way for our own eventual evolution as a species. The impact triggered earthquakes and tsunamis and kicked up dust that blanketed Earth, possibly for years. The resulting rapid changes in the climate led to the mass extinction of an estimated three-quarters of life on Earth—including nearly all of the dinosaurs on the planet at the time.
+
+Birds, which many scientists consider dinosaurs, survived the die-off. So did mammals, some species of which evolved into apes. Later one we’d see the rise of homo sapiens as the dominant species of the planet.
+
+Perivolaropoulos wants to explain why that asteroid hit Earth and wiped the slate clean for our own kind. The answer, he proposed in his paper, lies in a possible 10-percent increase in the gravitational constant over a roughly 100 million-year period ending 50 million years ago. If the constant goes up, objects in space are more powerfully drawn toward each other (although to what degree depends on a lot of factors, including the distance between them).
+
+A higher constant could also mean more erratic movement by asteroids and comets. It’s for that reason that “this increase may also be connected with the Chicxulub impactor event,” Perivolaropoulos wrote.
+
+According to his theory, the increase in gravity disrupted the Oort Cloud, a vast region beyond Neptune that’s thought to be teeming with icy objects like comets. According to Perivolaropoulos’ computer simulations, a 10-percent boost in gravity could triple the number of comets and asteroids that have left the Oort Cloud and traveled toward the sun and Earth.
+
+If you squint, you might detect hints of that possible flurry of incoming space rocks in the geological record of Earth and the moon, Perivolaropoulos wrote. There are lots of craters on both bodies that appear to be a certain age. “The impact flux of kilometer-sized objects increased by at least a factor of two over that last 100 million years compared to the long-term average,” he wrote.
+
+But Ben Montet, an astronomer at the University of New South Wales in Australia, said he disagrees with Perivolaropoulos’ assumption that those extra impacts are evidence of increasing gravity. “In principle, a change in gravity would affect the dynamics of the Oort Cloud, leading to collisions between comets that could then put some of them on trajectories towards the inner solar system,” Montet told The Daily Beast.
+
+That means we should be seeing signs of how all those Oort Cloud objects, flung toward our neck of the woods by a change in gravity, would have affected the orbits and internal geology of not just Earth, but also Venus, Mercury and Mars. “There is no geological evidence to believe this is the case,” Montet said.
+
+And even if gravity did change and the Oort Cloud did kick out more objects than usual, almost all of those objects would be icy comets rather than heavy asteroids. The geological evidence is pretty clear about at least one thing, Montet said. “The impact that occurred at Chicxulub was an asteroid, not a comet.”
+
+One 2014 study, led by Cambridge University astronomer Andrew Shannon, estimated that just one out of 25 objects in the Oort Cloud is an asteroid. “They should be a rare class of object, and we estimate globally catastrophic collisions should only occur about once per billion years,” Shannon and his team wrote. In that sense, Perivolaropoulos’ attempt to explain the Chicxulub impactor actually makes it seem like more of an astronomical fluke.
+
+Meanwhile, it’s possible that the gravitational shift that Perivolaropoulos’ whole theory hinges on is nothing but a statistical mirage. The astronomical community has been embroiled in debate since 2014, when two different methods of estimating the age of the universe—and, by extension, the rate of its expansion and the gravitational constant—began to disagree.
+
+One method measures the leftover light of the Big Bang, the so-called “cosmic microwave background.” It’s all very technical, but the upshot is that background radiation points to the universe being older than 13 billion years.
+
+But another method relies in part on “redshift” surveys of stars and supernovas. In astronomy, a redshift is the change in an object’s light spectrum as it moves away from Earth due to the universe’s expansion. Some modern redshift surveys hint at a younger universe—perhaps just 12.5 billion years old.
+
+Scientists are struggling to explain the gap in these two values. The easy explanation is that our instruments are still too crude to get an accurate read on a vast and intricate universe. If that’s the case, the age gap should decrease as our technology’s sophistication increases.
+
+But there’s a fringe theory that’s catching on in certain circles, suggesting the universe has expanded in fits and starts, with a period of rapid slow-down between 150 million and 50 million years ago. Irregular expansion could explain why our various calculations of the universe’s age don’t match.
+
+If that’s what really happened, then the Hubble constant—the widely-agreed-upon rate at which the universe is expanding—“is not constant after all,” Maria Dainotti, an astrophysicist at the National Astronomical Observatory of Japan, told The Daily Beast.
+
+The Hubble constant is so fundamental to our conception of the universe that tweaking it forces us to embrace a whole new understanding of how everything works. These “different physics,” as Dainotti described them, could include a sudden, ancient increase in the force of gravity as stars and planets pulled away from each other at a slower rate.
+
+That idea of “non-constant constants” underpins Perivolaropoulos’ theory. The expanding universe abruptly slowed down for some reason, with a knock-on effect on gravity. The shift in gravity disrupted the Oort Cloud, pulled out a rare giant asteroid and sent it zooming toward Earth. And 63.4 million years later, the first people stood upright.
+
+Even Perivolaropoulos is a bit skeptical of this grandiose tale. He’s told a plausible story to explain the space rock that reset Earth 66 million years ago. But the story has placeholders. The change in gravity, he said, is “an assumption of our approach,” and “needs further tests to be confirmed.”
+
+For starters, Perivolaropoulos told The Daily Beast, he’d like to take a closer look at some nearby galaxies. Analyzing their rotational velocity in light of their mass could contain hints about changes in gravity over time. A close inspection of nearby red giant stars could provide more of the same data–and potentially confirm changes in the Hubble constant
+
+From there, we might be able to get a firmer grasp on whether gravity really did change in the last few hundred million years—and whether that forced a course-correction for a certain dinosaur-killing asteroid.

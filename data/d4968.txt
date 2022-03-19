@@ -1,0 +1,45 @@
+The Supreme Court is likely to hand down a decision soon in Merrill v. Milligan, a case where the worst-case scenario for democracy would neutralize one of the few remaining prongs of the Voting Rights Act that the Court has not yet dismantled.
+
+The case concerns Alabama’s new congressional districts, and whether they violate the Voting Rights Act’s prohibitions on racial gerrymanders. Days before the state of Alabama asked the justices to carve another chunk out of America’s voting rights laws, a three-judge panel ordered the state of Alabama to redraw its congressional maps. Notably, two of the judges on this panel were appointed by former President Donald Trump.
+
+Among other things, the panel’s opinion in Singleton v. Merrill explains that Black Americans make up about 27 percent of Alabama’s population, but they would only have a real shot of electing their candidate of choice in one of the state’s seven congressional districts under the new map based on the 2020 census. Thus, while Black Alabamans represent more than a quarter of the state’s population, they only control 14 percent of the state’s congressional delegation.
+
+The lower court ordered the state legislature to redraw the map, relying on a provision of the Voting Rights Act banning racial gerrymanders. To reach that decision, the three judges spent 225 pages walking through the exceedingly complicated test announced in Thornburg v. Gingles (1986), which asks whether a state election law that imposes a disproportionate burden on racial minorities “interacts with social and historical conditions to cause an inequality in the opportunities enjoyed by [minority] and white voters to elect their preferred representatives.”
+
+As I’ve written, the legal rule that the Court announced in Gingles — which governs many redistricting cases filed under the Voting Rights Act — is a mess. It advises courts to weigh at least nine different factors. And it would be reasonable for a state to ask the Supreme Court to come up with something less unwieldy to help lower courts sort through these sorts of cases. Alabama could have gone this route, and if it had proposed a reasonable modification to the Gingles test, it’s possible that such a modification could have helped them defend their maps.
+
+But Alabama does nothing of the sort in the Merrill case. Instead, it proposes a new rule that, if adopted by the Supreme Court, could effectively make it impossible to challenge a racial gerrymander in federal court.
+
+At one point, for example, Alabama quotes favorably from a 1994 opinion by Justice Clarence Thomas, which was joined only by one other justice, and which suggests that no voting rights violation occurs even if a state gerrymanders its districts to make it impossible for racial minorities to elect their preferred candidate. Under this theory, “minorities unable to control elected posts would not be considered essentially without a vote; rather, a vote duly cast and counted would be deemed just as ‘effective’ as any other.”
+
+The state’s primary argument, meanwhile, would trap voting rights plaintiffs in a kind of Catch-22.
+
+Alabama’s arguments could impose an impossible burden of proof on voting rights plaintiffs
+
+The Merrill case is actually two separate lawsuits, one brought by a group of plaintiffs led by Democratic state Sen. Bobby Singleton, and another brought by a group of voters and organizations that includes the Alabama State Conference of the NAACP.
+
+The crux of the plaintiffs’ arguments in Merrill is that Alabama should have two congressional districts, instead of just one, where Black voters can elect their preferred candidate. Before such a lawsuit can proceed, however, Cooper v. Harris (2017) requires these plaintiffs to prove that it is actually possible to draw two such districts without having to rely on ugly, misshapen districts that could stretch across much of the state.
+
+Under Cooper, the Merrill plaintiffs must show that Black Alabamans are a “sufficiently large and geographically compact” group that it is actually possible to draw two districts where they “constitute a majority.” If these plaintiffs cannot make such a demonstration, then their lawsuit will fail before a court even considers many of the more complicated questions demanded by the Supreme Court’s opinion in Gingles.
+
+To overcome this initial burden, two different sets of plaintiffs hired separate experts. One group of plaintiffs, for example, hired Moon Duchin, a mathematics professor at Tufts University, who produced four separate maps with two Black-majority districts.
+
+Again, the purpose of these maps is limited. The state is not required to adopt any of these four maps. Indeed, the lower court explicitly stated that, should it determine that Alabama’s existing maps are illegal, and that a new redistricting plan must be drawn, “Supreme Court precedent also dictates that the Alabama Legislature ... should have the first opportunity to draw that plan.”
+
+Rather, the purpose of these sample maps was just to show that it’s actually possible to draw two majority-Black districts that are reasonably compact.
+
+Alabama’s brief to the Supreme Court, however, faults the Merrill plaintiffs for paying too much attention to race when they produced the sample maps demonstrating it is possible to draw two compact, majority-Black districts. To produce these maps, the state claims, the plaintiffs “must necessarily prioritize race first and consider other race-neutral factors second.” Alabama claims that map-makers must be absolutely forbidden from giving such a priority to racial concerns — even if they only do so to produce hypothetical maps which prove it is theoretically possible to draw two Black-majority districts.
+
+It’s a stunning argument. Again, Cooper effectively requires these plaintiffs to produce sample maps where at least two districts have Black majorities. How is that even possible unless whoever produces these sample maps prioritizes race while drawing them? It’s like asking an artist to draw a picture of an elephant without ever permitting them to look at an elephant.
+
+Indeed, if Alabama’s proposed rule were adopted by the Supreme Court, it’s unclear whether any similar racial gerrymandering lawsuit could prevail — or even get past the threshold of inquiry demanded by Cooper.
+
+The Supreme Court has been systematically dismantling voting rights
+
+Merrill involves a particular kind of racial gerrymandering suit, which permits voting rights plaintiffs to challenge such a gerrymander even if they cannot prove that the lawmakers who drew the maps acted with racist intent. If the Supreme Court adopts the bar proposed by Alabama — one potentially impossible to overcome — a voting rights plaintiff might still prevail if they can show that a map was enacted with a racist purpose.
+
+Except that, in Abbott v. Perez (2018), the Supreme Court required voting rights plaintiffs alleging invidious intent to overcome such a high burden of proof that it is virtually impossible for them to prevail. Under Perez, lawmakers enjoy such a strong presumption of racial innocence that only the most egregious displays of racism are vulnerable to lawsuits.
+
+Similarly, in Shelby County v. Holder (2013), the Supreme Court effectively eliminated a practice known as “preclearance,” which required states with a history of racist voting practices — including Alabama — to submit any new election rules for review by officials in Washington, DC, before those new rules could take effect.
+
+The Court, in other words, appears to be systematically dismantling the law’s safeguards against racism in elections. Merrill could continue that project — indeed, it could accelerate it, since this will be the first major redistricting case heard by the Court’s new 6-3 Republican supermajority — and make it much easier for states to draw racially discriminatory legislative districts.

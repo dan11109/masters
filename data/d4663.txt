@@ -1,0 +1,43 @@
+USING the same password for multiple accounts is dangerous and can leave you more susceptible to hackers.
+
+However, as we increasingly get more accounts and more reasons to be online, coming up with different passwords can be a problem.
+
+This is why password manager apps are so useful and could save you time as well as keep you safe.
+
+A password manager is like an encrypted vault that remembers all your passwords for you.
+
+You just need to set it up on your device of choice and let passwords automatically fill themselves in.
+
+Some of the best password managers have password generators built in that can pick a safe password for you.
+
+If you use an iPhone you should make the most of iCloud Keychain, which is Apple's own password manager.
+
+Alternatively, you can try one of the popular password manager apps.
+
+These apps should be downloaded from the official Google Play Store or Apple App Store.
+
+Always check the reviews and do your own research before you download an app.
+
+Popular names include Bitwarden: Best free password manager, which offers free and paid options.
+
+There's also 1Password: Best paid password manager for multiple platforms.
+
+It offers a free trial but then charges a base price of $35.88 per year.
+
+Apple users may want to refrain for paying out for an expensive password manager at the moment.
+
+Rumours suggest the upcoming iOS 15.4 will make iCloud Keychain an even better free option.
+
+How to set up iCloud Keychain
+
+First, you'll need to make sure you're using an Apple device running iOS 7.0.3 or later.
+
+On your iPhone, iPad or iPod Touch, follow these steps:
+• Tap Settings > [your name] > iCloud (on iOS 10.2 or earlier, it's just Settings > iCloud)
+• Tap the slider to turn on iCloud Keychain
+
+In other news, WhatsApp has revealed plans to introduce the app on new devices.
+
+Nasa has upgraded its asteroid hazard software with some key changes that should help it better detect potentially dangerous space rocks.
+
+And, we looked into the weird world of ‘puffer jacket porn’ accounts.

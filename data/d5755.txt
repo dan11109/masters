@@ -1,0 +1,19 @@
+JERUSALEM – Israeli police on Tuesday appeared to acknowledge they had used espionage technology without a warrant, after allegations emerged last month that they had used Israeli firm NSO Group’s controversial Pegasus spyware.
+
+Israel’s justice minister had pledged a full investigation after business daily Calcalist said police had used Pegasus against Israelis at the forefront of protests against former prime minister Benjamin Netanyahu.
+
+The police had firmly denied the allegations, and commissioner Yaakov Shabtai had said that “police have not found any evidence to support this information”.
+
+But on Tuesday, police said an in-depth investigation had revealed that “new elements changed certain aspects of the matter”.
+
+In a statement that did not mention Pegasus or the NSO Group, police said those elements had led “the public prosecutor to take immediate measures to prevent potential violations” regarding cyber-surveillance, adding that the police “comply” with the measures.
+
+“All police officers must cooperate with the work of the commission of inquiry, providing all the required information and authorising access to police technical systems,” the statement said.
+
+Pegasus, a surveillance product that can switch on a phone’s camera or microphone and harvest its data, has remained a source of global controversy following revelations last year it was used to spy on journalists and dissidents worldwide.
+
+NSO last month would neither confirm nor deny it sold technologies to Israeli police, stressing it does “not operate the system once sold to its governmental customers and it is not involved in any way in the system's operation”.
+
+“NSO sells its products under licence and regulation to intelligence and law enforcement agencies to prevent terror and crime under court orders and the local laws of their countries,” it had said in a statement sent to AFP.
+
+Israeli security forces have wide leeway to conduct surveillance within Israel with judicial approval. – AFP, February 2, 2022

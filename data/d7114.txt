@@ -1,0 +1,84 @@
+PLAYSTATION 5 owners are reporting that their console is randomly turning off or going into rest mode, but there's a fix!
+
+A large number of PS5 players are panicking that their expensive console is broken.
+
+There are tons of reddit posts about PS5s randomly shutting off, as well as going into rest mode in the middle of playing a game or watching something.
+
+I've experienced the issue myself, which has been happening more frequently, and is incredibly annoying.
+
+Given how hard it is to even find a PS5 to buy at this point, a broken one is going to be a pain to replace, but you don't have to!
+
+Try these simple fixes first — it's likely that your PS5 keeps turning off because of something on this list.
+
+Starting with the most obvious one, before you do anything else, check your power cable.
+
+If it's loose or not properly plugged in, it could be the culprit.
+
+There's a chance the cable might be faulty, but try everything else on the list first.
+
+If the problems persist, look into getting a replacement.
+
+Your PS5 needs to be well-ventilated so if you've got it stashed away in a cubby hole in your TV stand, find it a new home.
+
+It doesn't help that the console is an absolute beast, and that it could ruin your room's aesthetic if it's out in the open, but needs must.
+
+Try placing it vertically in a place where it has some space around it, or out in the open completely.
+
+You can always give the fan a clean, or at remove the face plates to clean out the vents if you don't want to get the toolbox out.
+
+It could that your PS5 isn't running the latest firmware, which fixes bugs and rolls out various other improvements.
+
+Usually you'll be notified that your console needs an update, but it's worth checking manually, just in case.
+
+You'll need to be connected to the internet first of all, so that you can download any updates.
+
+Head to the 'Settings' menu, then System>System Software>System Software Update and Settings.
+
+Select 'Update System Software', then 'Update Using Internet', and 'Update'.
+
+If your PS5 is randomly going into Rest Mode, you can turn this off in the settings menu and it might be a super simple fix.
+
+Go to Settings>System>Power Saving, and select 'Set Time Until PS5 Enters Rest Mode'.
+
+You'll see options for 'While Playing Games' and 'During Media Playback'.
+
+Choose 'Don't Put In Rest Mode' for both of these settings.
+
+There are reports of a bug related to the PS5's USB ports — specifically the front.
+
+If you're using an external SSD, need to plug in a headset, or charge your controller, it's natural to go for the port on the front.
+
+But it's advisable to switch over to the high speed USB-A ports on the back.
+
+If you've been having issues charging your DualSense while it's in Rest Mode using the front port, that should fix that problem too.
+
+The HDMI Device link mainly seems to be a problem for users with soundbars but it's worth giving a go.
+
+This feature syncs your PS5 with your TV's power state, so if one goes into rest more or is turned off, so is the other.
+
+Head to the 'Settings' menu, then 'System', then 'HDMI'. Toggle 'HDMI Device Link' to off.
+
+Detailed on Sony's website, Safe Mode can "solve issues by rebuilding the console storage database."
+
+Your DualSense won't work wirelessly while you're doing this so have the cable ready to connect it.
+
+Your console needs to be off to initiate this process, so make sure you let it power down fully.
+
+This can also take a few hours so pick a time when the console won't be in use before committing to this option, just in case.
+
+When you're ready to begin, press and hold the power button for about five seconds, releasing it after hearing the second beep.
+
+Connect your DualSense controller with the cable and press the PS button on the front to wake it up.
+
+Choose 'Clear Cache and Rebuild Database' from the list of options, and wait for it to do its thing.
+
+Hopefully, working your way through this list will sort out the powering off issues.
+
+If it keeps happening after trying everything listed here, the next step is to contact Sony's customer support.
+• Keep up-to-date with all the Xbox news
+
+PlayStation Project Spartacus release date LEAKED: Sony’s answer to Xbox Game Pass is almost here.
+
+Pokemon GO: Lunar New Year Catch Challenge and Friendship Challenge guide.
+
+We pay for your stories! Do you have a story for The Sun Online Tech & Science team? Email us at tech@the-sun.co.uk

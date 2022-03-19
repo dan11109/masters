@@ -1,0 +1,23 @@
+Facebook’s total number of users has declined — a first for the social media platform that has experienced seemingly never-ending growth since it debuted 17 years ago.
+
+Facebook lost about half a million global daily users in the fourth quarter of 2021 compared to the previous quarter, according to the quarterly earnings report of Meta, its parent company. That might not seem like a major drop relative to its under 1.93 billion total daily active users, but it represents a low point for a metrics-driven company whose user base long grew at a rapid pace across its different apps. The statistic shows how Meta has struggled to stay relevant to younger users, many of whom are drawn to competing apps like TikTok. And it places even more pressure on Meta’s big bet on the metaverse — a VR/AR-enabled alternative universe that CEO Mark Zuckerberg sees as the future of the internet — to actually work out.
+
+Wall Street immediately reacted: Meta shares were down 20 percent in extended trading after the news.
+
+It’s long been known that user growth on the Facebook app was stagnating, in part because of its aging user base and the fact that it has run out of new countries to expand into. In its early days, Facebook was only available in the US, but has since expanded to almost every other country except for places like China, where the app is blocked. Facebook’s user growth has declined before specifically in the US, but this is the first quarter in which its global daily user base has dropped.
+
+That means it’s more important than ever that Meta change its strategy in order to retain and attract new eyeballs. To do that, Meta said it’s investing more in short-form video features like Reels, its TikTok clone. And in the long term, the company is making huge investments (to the tune of $10 billion in losses in the past year) in building out its AR/VR capabilities and other futuristic technologies that support the metaverse.
+
+On the earnings call, Meta CFO David Wehner said this drop in user growth was due in part to increased competition from other apps.
+
+“We believe competitive services are negatively impacting growth, particularly with younger audiences,” said Wehner, who also cited an increase in internet data prices in India as a reason for the slowdown. Facebook has an estimated 350 million users in India, which is its biggest market.
+
+Later on the call, Facebook CEO Mark Zuckerberg spelled out the elephant-competitor-in-the-room, TikTok, by name. TikTok said it has 1 billion users as of September of last year, and was the most downloaded app in the world in 2021, according to app analytics firm Apptopia.
+
+“What’s unique is that TikTok is so big as a competitor already, and also continues to grow at quite a fast rate off of a very large base,” said Zuckerberg. He went on to say, “I think overall engagement will grow ... and that’s why we’re optimistic about the future. But there’s a lot of work to do here.”
+
+Meta also reported lower than expected profit and revenue growth, which it says was driven in part by inflation and Apple’s new ad-tracking privacy restrictions that limit Meta’s ability to sell ads. The company is also facing ongoing scrutiny from government regulators around the world over antitrust concerns and content moderation.
+
+Despite the drop in user growth and missed targets, Facebook is still making plenty of money. The social media giant earned $33.67 billion in revenue last quarter, a 20 percent increase from the year before. And when you include Facebook’s entire “family of apps” — such as Instagram and WhatsApp — it’s still growing its users overall (although at a relatively slow rate: from 2.81 billion to 2.82 billion daily active users in the past quarter compared to the quarter before).
+
+But there’s no question now that Facebook — or Meta as it’s now called — is facing a real challenge to its social media dominance. Whether or not it will continue to be the biggest social media app, as it has been for over a decade, is no longer a given.

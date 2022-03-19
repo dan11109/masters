@@ -1,0 +1,17 @@
+Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update. The “rolling stop” feature allows vehicles to go through intersections with all-way stop signs at up to 5.6 miles per hour.
+
+Tesla agreed to the recall after two meetings with officials from the National Highway Traffic Safety Administration, according to documents. Tesla said that it knows of no crashes or injuries caused by feature.
+
+The recall covers Model S sedans and X SUVs from 2016 through 2022, as well as 2017 to 2022 Model 3 sedans and 2020 through 2022 Model Y SUVs.
+
+Selected Tesla drivers are “beta testing” the “Full Self-Driving” software on public roads. The company says the cars cannot drive themselves and drivers must be ready to take action at all times.
+
+'Safety advocates complain that Tesla should not be allowed to test the vehicles in traffic with untrained drivers, and that the Tesla software can malfunction, exposing other motorists and pedestrians to danger. Most of the other auto companies with similar software test with trained human safety drivers.
+
+Tesla introduced the “rolling stop” feature in a software update that was sent out to the testing owners on Oct. 20. NHTSA met with Tesla on Jan. 10 and 19 to discuss how the software operates, the documents said. On Jan. 20, the company agreed to disable the rolling stops with the software update.
+
+The “rolling stop” feature let the Teslas go through all-way stop signs as long as the owner enabled the function. The vehicles have to be traveling below 5.6 mph while approaching the intersection, and no “relevant” moving cars, pedestrians or bicyclists can be detected nearby. All roads leading to the intersection had to have speed limits of 30 mph or less, the documents said. The Teslas would then be allowed to go through the intersection at 0.1 mph to 5.6 mph without coming to a complete stop.
+
+In November, NHTSA said it was looking into a complaint from a Tesla driver that the “Full Self-Driving” software caused a crash. The driver complained to the agency that the Model Y went into the wrong lane and was hit by another vehicle. The SUV gave the driver an alert halfway through the turn, and the driver tried to turn the wheel to avoid other traffic, according to the complaint. But the car took control and “forced itself into the incorrect lane,” the driver reported. No one was hurt in the Nov. 3 crash in Brea, California, according to the complaint.
+
+In December, Tesla agreed to update its less sophisticated “Autopilot” driver-assist system after NHTSA opened an investigation. The company agreed to stop allowing video games to be played on center touch screens while its vehicles are moving.

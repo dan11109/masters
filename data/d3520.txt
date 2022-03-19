@@ -1,0 +1,21 @@
+WASHINGTON (Reuters) -Verizon Communications Inc plans to turn on around 2,000 additional towers in February in the next phase of its C-Band 5G deployment after talks with U.S. regulators, sources said.
+
+The new phase comes after the U.S. Federal Aviation Administration (FAA) said on Friday it had agreed that Verizon and AT&T could safely turn on more 5G towers in a deployment that has been disrupted by aircraft safety concerns.
+
+Verizon turned on about 5,100 towers in January and will be able to turn on about another 2,000 in February, the sources said, adding that the total could rise as aviation buffer zones are refined.
+
+Concerns that the new towers could interfere with sensitive airplane electronics delayed the C-Band 5G deployment, initially planned for early December. Verizon agreed in January to not deploy about 500 towers near airports.
+
+The company said in January it would initially offer its 5G C-Band service to about 90 million people and promised to expand that to more than 100 million by March 31.
+
+Verizon said Tuesday it had met the 100 million goal as of Feb. 1 and intended “to exceed that goal.”
+
+It declined to comment on the number of new towers being activated, but said it remains committed to “very productive discussions with the FAA and others”.
+
+The FAA said Friday new data had allowed it to “more precisely map the size and shape of the areas around airports where 5G signals are mitigated, shrinking the areas where wireless operators are deferring their antenna activations.”
+
+Based on the new revised exclusion zones, Verizon is expected to be able to deploy about 14% of the 500 towers held up in January, or around 70 towers, the source added.
+
+The FAA is working on a subsequent version of the buffer zones that wll allow Verizon to turn on additional towers.
+
+The FAA declined to comment on how many towers Verizon would turn on in February.

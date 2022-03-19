@@ -1,0 +1,43 @@
+Solana Labs Launches New Payments Protocol for E-Commerce As SOL Projects Major Upswing
+
+– Solana Labs introduces Solana Pay to enable faster payments in cryptocurrencies.
+
+ – Developers would be able to build new commerce experiences on top of the protocol.
+
+ – Merchants using Solana Pay will be able to accept USDC, SOL and other Solana-based tokens.
+
+Solana Labs has recently introduced a new payments protocol, Solana Pay, to allow merchants to accept payments in cryptocurrencies directly from consumers. Solana Pay will accept USDC, SOL and other tokens on the Solana blockchain.
+
+Solana Pay to introduce a new era of digital payment experience
+
+Solana Labs has launched Solana Pay as an open protocol for developers with standardized payment specifications to build on and customize. Merchants will be able to connect directly to the protocol or use software built by e-commerce providers.
+
+Solana can process 65,000 transactions per second, and also incur lower low costs due to the blockchain’s lower fees. According to Solana Labs, merchants and consumers will be able to utilize Solana Pay to avoid taking on unnecessary volatility risks.
+
+Sheraz Shere, the head of payments at Solana Labs said, “if people can seamlessly transact on-chain just like they do with cash, we believe that will spur interest and create new innovations.”
+
+Solana Pay was developed in partnership with Circle, Checkout.com and payments processing firm Citcon, as well as digital wallet integrations with Phantom, FTX and Slope.
+
+Through its partnership with Circle, merchants will be able to accept stablecoin USDC through a Circle account, where they could convert funds into fiat. Phantom would enable transactions through Solana Pay.
+
+Solana Labs is working with Shopify to let their merchants accept digital assets through Solana Pay but the integration is yet to go live.
+
+According to Solana Labs, Solana Pay’s point-of-sale client will make it easy for clients such as small restaurants, shops, food carts to accept cryptocurrencies for “fractions of a penny.”
+
+Although the Solana blockchain enables cheaper and more efficient transactions, the protocol has recently experienced outage issues. Shere explained that the core protocol developers in the ecosystem will “continue to enable the network to serve hundreds of millions of users.”
+
+Solana further believes that its new payment protocol will pave the way for a future where cryptocurrencies are prevalent and enable digital assets to “move through the internet like data,” where it is uncensored and without the use of intermediaries and taxing for every transaction.
+
+Solana price has sliced above the upper boundary of the symmetrical triangle pattern on the 4-hour chart, projecting an optimistic target toward $122.
+
+There seems to be little resistance ahead for Solana as the bulls attempt to tag the bullish target with a 10% ascent. Bigger aspirations will aim for the 200 four-hour Simple Moving Average (SMA) at $131.
+
+However, if selling pressure increases, Solana price will discover immediate support at the 100 four-hour SMA at $108, then at the 21 four-hour SMA at $99.
+
+New Resistance Global Currencies that support Independent Media and are against the “Great Reset” –
+
+Our World Coin, a force for good and a peaceful revolution, is built to save humanity from the Globalists deadly Great Reset Totalitarian Agenda.
+
+Bitcoin 2.0 is a new cryptocurrency that is looking to innovate the Global Payment System. It is backed by real value in independent media news sites & networks.
+
+Truth Coin, a platform that’s free from Globalists’ control, and will not support the Great Reset Agenda or the vaccine digital passport. This enables everyone to support and benefit from building a better world, by the people for the people, a force for good.

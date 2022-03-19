@@ -1,0 +1,21 @@
+(Reuters) -Advanced Micro Devices Inc forecast 2022 revenue above expectations on Tuesday, driving its shares up as much as 11% in after-hours trading, as stellar demand for its chips used in data center servers is expected to continue to drive growth.
+
+AMD’s strong forecast also boosted shares of chipmakers Nvidia Corp and Qualcomm Inc.
+
+The chip designer surpassed revenue estimates in the fourth quarter too with record quarterly revenue as it sold more higher-priced chips to soften the hit from the supply crunch ailing the industry.
+
+“Each of our businesses performed extremely well, with data center revenue doubling year-over-year,” Chief Executive Officer Lisa Su said in a statement.
+
+AMD has dived deeper into the data center market to capitalize on booming cloud adoption, while its agile model of outsourced manufacturing has helped the company pry away market share from rival Intel Corp.
+
+“AMD is clearly gaining market share in both the PC client and the server/datacenter end-markets against Intel,” said Kinngai Chan, managing director and senior research analyst for semiconductors at Summit Insights Group. He added that AMD’s market share in both those markets is still relatively low.
+
+While shares of many chip companies rose in after-hours trading, Intel fell slightly.
+
+AMD has made a number of new launches with significant performance gains, including updates to its graphics processor lineup used for cloud and high-quality gaming, creating a challenge for Intel.
+
+For the full year, AMD forecast revenue of about $21.5 billion, compared with analysts’ average estimate of $19.27 billion, according to IBES data from Refinitiv.
+
+The California-based company reported adjusted fourth-quarter revenue of $4.83 billion, compared with estimates of $4.53 billion.
+
+Net income fell to $974 million from $1.78 billion last year. Excluding items, AMD earned 92 cents per share, surpassing estimates of 76 cents.

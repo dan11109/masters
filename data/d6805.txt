@@ -1,0 +1,15 @@
+Exposure to a single nasal droplet is sufficient to become infected with Covid-19, according to a landmark trial in which healthy volunteers were intentionally given a dose of the virus.
+
+The trial, the first to have monitored people during the entire course of infection, also found that people typically develop symptoms very quickly – on average, within two days of encountering the virus – and are most infectious five days into the infection. The study was carried out using a strain of the virus before the Alpha, Delta and Omicron variants emerged.
+
+The trial’s chief investigator, Prof Christopher Chiu, of Imperial College London, said: “Our study reveals some very interesting clinical insights, particularly around the short incubation period of the virus, extremely high viral shedding from the nose, as well as the utility of lateral flow tests, with potential implications for public health.”
+
+The findings, published on Springer Nature’s pre-print server, and which have not yet been peer-reviewed, detail the outcomes in 36 healthy, young participants with no immunity to the virus. The volunteers were monitored at a specialist unit at the Royal Free hospital in London, and experienced no severe symptoms.
+
+The study found that the infection first appears in the throat and that infectious virus peaks about five days into infection, by which point the nose has a much higher viral load than the throat. The study also suggested that lateral flow tests are a reassuringly reliable indicator of whether infectious virus is present. Swabbing the nose and throat makes it more likely to detect infections during the first few days, the work suggests.
+
+“We found that overall, lateral flow tests correlate very well with the presence of infectious virus,” said Chiu. “Even though in the first day or two they may be less sensitive, if you use them correctly and repeatedly, and act on them if they read positive, this will have a major impact on interrupting viral spread.”
+
+The team say the trial paves the way for future challenge studies that could help accelerate the development of the next generation of vaccines and antiviral drugs.
+
+Prof Sir Jonathan Van-Tam, the deputy chief medical officer for England, said: “Scientifically, these studies offer real advantage because the timing of exposure to the virus is always known exactly, therefore things like the interval between exposure and the profile of virus shedding can be accurately described. This important study has provided further key data on Covid-19 and how it spreads, which is invaluable in learning more about this novel virus, so we can fine-tune our response.”

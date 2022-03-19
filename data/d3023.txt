@@ -1,0 +1,53 @@
+Here is how the mainstream media manufactured panic using a 10 year old harmless virus NeoCoV. NeoCoV has not been found in humans, and it has not spread into the global population.
+
+According to bat sequences, a coronavirus named NeoCoV could possibly infect people and produce a devastating sickness, as per Chinese researchers.
+
+Nonetheless, the mutation necessary to infect people has not been found natively in this coronavirus, and no human infections of the virus, which has already been known to scientists for a decade, have been reported. On Tuesday, Chinese scientists from Wuhan University and the Chinese Academy of Sciences published a study on the biology preprint server bioRxiv.
+
+The research revealed the virus’s molecular mechanism for infecting bat host cells and human cells in the lab, as well as a theoretical modification which would allow the virus to connect to human receptors.
+
+This has caused concern in India, with the findings being misinterpreted and the virus even misclassified as a form of SARS-CoV-2.
+
+The NeoCoV virus is the closest documented genetic relative to the MERS virus, which has a mortality rate of one in every three infected people — however NeoCoV poses no harm to humans at this time.
+
+The World Health Organization (WHO) responded to the NeoCoV reports on Friday, stressing that more research is needed to determine if the virus is a hazard to humans.
+
+What is the content of the paper?
+
+The study is a preprint, which means it still hasn’t been peer reviewed or printed in a journal. It compares and contrasts the receptors in bats and human cells for two viruses, NeoCoV and the similarly related PDF-2180-CoV virus.
+
+The study discovered that although the two viruses can rapidly infect bat cells via ACE2 receptors, they are incapable of doing so in human cells. The researchers discovered the biochemical mechanism that inhibits the virus from latching on to human cells.
+
+They discovered that once they deliberately produced a modification on the receptor binding motif — a short segment of the virus that links the spike protein to the ACE2 host cells — the virus could infiltrate human cells in the laboratory.
+
+The researchers incorporated this mutation, T510F, into the protein unit. The virus was able to hook on to artificial human cells quite easily when it was present, however the mutation was not found in any of the NeoCoV viral samples collected organically.
+
+“NeoCoV can use ACE2 receptors of bats but they can’t use human ACE2 receptor unless a new mutation occurs,” said Maharashtra’s Covid task force’s Dr Shashank Joshi.
+
+Furthermore, the researchers discovered that the virus was not eliminated by antibodies from Covid or MERS, which was anticipated. As a result, the authors raised the alarm about the virus, claiming that it is only very few mutations away from spreading to people and infecting us.
+
+What exactly is NeoCoV?
+
+This is not really a new or unfamiliar virus, despite the “neo” moniker. It was first discovered in 2011 in a bat species titled Neoromicia capensis in South Africa, which gave the virus its name. Bat faecal pellets, a typical source for scientists studying viruses housed by bats, were used to identify the virus.
+
+NeoCoV is genetically 85% identical to the MERS-CoV virus, rendering it the latter’s nearest relative, according to research published in 2014. MERS-CoV created an epidemic in 2012, with a 35 percent death rate.
+
+Coronaviruses are classified into four segments: alpha, beta, gamma, and delta (different from the delta variant of SARS-CoV-2). Humans and other mammals can be infected by alphacoronaviruses and betacoronaviruses, whereas birds have been infected by the other two species.
+
+There seem to be seven human coronaviruses in aggregate, comprising SARS-CoV-2, SARS-CoV, and MERS-CoV, all of which are alpha or betacoronaviruses. NeoCoV is a betacoronavirus as well.
+
+The biggest repository of mammalian coronaviruses would be bats, who possess immune response modifications that enable them to sustain thousands of viruses in their systems. The genesis of human-infecting coronaviruses may be traced all the way back to their nearest relatives in bats.
+
+What are the dangers to humans?
+
+NeoCoV has not been found in humans, and it has not spread into the global population. According to reports, it kills one in every three persons, which is referring to the mortality rate of its nearest relative, MERS.
+
+Whenever a coronavirus — or any virus — crosses species boundaries, it undertakes genetic alterations that allow it to evolve into a new strain capable of infecting the new species. After that, it’s granted a special name.
+
+Each day, hundreds of viruses and a large number of coronaviruses are just a few alterations short from infecting people. Generally, similar spillover occurrences have place in intermediate host species like pigs or camels, where viruses gain more favorable modifications that make it simpler for them to cross into humans.
+
+Since even before the present pandemic, bats have been actively monitored and their genomes sequenced for possible viruses. To comprehend danger, it is necessary to identify a possible mutation that might enable a virus to infect people.
+
+More research is needed to determine how easy one such transformation could happen. To do so, scientists will investigate the possibility for mutation in human cells in the lab, as well as how rapidly other, comparable changes occur in nature.
+
+The threat to humans will not be completely realized until those are done. Day after day, hundreds of viruses pose a threat to people, yet spillover events, or the transfer of a virus from one species to another, are uncommon.

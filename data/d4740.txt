@@ -1,0 +1,7 @@
+YouTube is rolling out a new interface for its mobile app’s full-screen player, which should make it easier to like or dislike a video (privately, of course), view comments, and share what you’re watching. The old version hid most of those features behind a swipe-up gesture on the “more videos” section, where the new version puts them front and center, relegating related videos to a button in the corner.
+
+The change only shows up when you’re watching in full screen — the app looks largely the same when you’re watching a video in portrait mode. Doing so, however, used to come with the upside of having easy access to the share button and other controls. Now, you’re getting that when watching in landscape view as well.
+
+You’re also now able to easily access the mode that lets you see comments alongside the video while in landscape. Before the new UI, you had to tap on the comment section while in portrait mode to open it up, then switch into full-screen mode. Now, you can pull them up by tapping the comment button.
+
+The new UI is coming to both iOS and Android, and started rolling out Monday, according to Google spokesperson Allison Toh. So far it doesn’t appear to have made it to everyone, but multiple people (including one on The Verge staff) have reported having the new design.

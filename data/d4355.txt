@@ -1,0 +1,23 @@
+Almost 54,000 Tesla cars and SUVs have been recalled due to safety concerns over one of the company’s self-driving features that was being beta tested.
+
+As the Associated Press reports, the “Full Self Driving” software allows some vehicles to run stop signs – or roll through them – at speeds of up to 5.6mph.
+
+US regulators have acted swiftly, recalling thousands of Tesla models that were involved in the software beta test, including Model S sedans and X SUVs from between 2016 and 2022, Model 3 sedans from 2017 to 2022, and Model Y SUVs from 2020 through to 2022.
+
+The electric car manufacturer, with billionaire Elon Musk at the helm, has vowed to fix the software with an online update that will likely be made available to customers in early February.
+
+Selected Tesla drivers are beta testing the “Full Self-Driving” software on public roads, although the company admits that cars are not yet ready to drive themselves – and still need owners to remain vigilant.
+
+While no injuries have been reported from the self-driving beta test, the National Highway Traffic Safety Administration said in documents that failing to stop for a sign can increase the risk of a crash.
+
+“The Vehicle Safety Act prohibits manufacturers from selling vehicles with defects posing unreasonable risks to safety, including intentional design choices that are unsafe,” the agency said in a statement. “If the information shows that a safety risk may exist, NHTSA will act immediately.”
+
+Tesla introduced the “rolling stop” feature in a software update that was sent out to the testing owners last October.
+
+According to AP, the NHTSA met with Tesla on 10 January this year to discuss how the software operates. By 20 January, the company agreed to disable the rolling stops with a software update.
+
+Programming vehicles to roll through stop signs violates the law in most US states, with the Governors Highway Safety Association, which represents state highway safety offices, stating that it is not aware of any states that allow rolling stops.
+
+The “rolling stop” feature let the Teslas go through all-way stop signs as long as the owner enabled the function.
+
+The vehicles have to be travelling below 5.6mph while approaching the intersection, and no “relevant” moving cars, pedestrians or bicyclists can be detected nearby.

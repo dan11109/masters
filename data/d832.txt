@@ -1,1 +1,35 @@
-Click to share on Facebook (Opens in new window)
+Like the F-22 Raptor , the MiG 1.44 was supposed to do it all.
+
+Here's What You Need to Remember: In an interview with the Russian state-owned news agency Sputnik, a Russian defense commentator said that he believed China’s Chengdu J-20 makes use of some of the MiG 1.44’s features.
+
+In response to the United State’s Advanced Tactical Fighter program — which spawned the Lockheed Martin F-22 Raptor— the Soviet Union initiated a crash project to produce a comparable fighter. What they got was the MiG 1.44.
+
+, the MiG 1.44 was supposed to do it all. On paper at least, the MiG combined stealthy characteristics with excellent maneuverability, which designers hoped would result in excellent fighting capabilities.
+
+In addition to weight-saving materials used in airframe and wing construction, radar-absorbent materials were incorporated on the airframe, with special attention given to the airframe’s radar “hotspots” like the wing edges and engine intakes.
+
+Rather than straight-through engine intakes, the MiG 1.44’s were curved, “serpentine” intakes that could bounce incoming radar inside them, hopefully dissipating or eliminating a return signal.
+
+Despite a few stealthy characteristics the MiG 1.44 may not have been all that stealthy.
+
+Though intended as a stealthy jet, a few features call into question the degree to which the MiG 1.44 can be considered a stealthy design. One of these is the MiG’s canards.
+
+Canards are control surfaces — essentially ‘winglets’ usually just aft or below the cockpit that provide additional lift or aid in control during certain flight scenarios. Although not incompatible with stealthy designs, they are not ideal and can amplify an airframe’s radar signature.
+
+Popular Science explains why airframes with a canard design are difficult to make stealthy. “Designing a stealthy canard is difficult, particularly if the canards are big enough to enable the airplane to recover quickly from an extreme nose-up attitude.” This is due to the extra surfaces that can return a radar signal — more surfaces, more return signal.
+
+The issue is the MiG’s apparent canard-wing (mis)alignment. Stealthy jets, like the F-22 Raptor, minimize the radar reflection of control surfaces like wings and tail assembly. When viewed from a head-on position, the F-22’s tail assemblyis ‘hidden’ behind the wings, reducing the number of surfaces that would be visible to radar.
+
+The MiG 1.44 does not follow this design principle. When viewed from the front, the two canards are not on the same horizontal plane as the wings, creating a “louder” or more reflective radar signature — and possibly compromising its stealth characteristics.
+
+Oddly, the MiG 1.44 had prominent pylons on its wings for attaching weapons or fuel tanks — which would have further decreased the jet’s stealth. The F-35 can optionally carry fuel or ordinance on its wings, but when not in use, the pylons are removed so as not to degrade stealth.
+
+In an interview with the Russian state-owned news agency Sputnik, a Russian defense commentator said that he believed China’s Chengdu J-20 makes use of some of the MiG 1.44’s features.
+
+"In my opinion, the machine is based on the Russian MiG 1.44. That plane was created to compete with the PAK FA at the preliminary design stage, and made its maiden flight in 2000. The Chinese plane is very similar," the commentator explained.
+
+“Although it hasn't been announced officially, the J-20 uses our AL-31F engine, developed by Salut, which the Chinese bought for half a billion dollars,” a nod to Russia and China’s budding — if contentious — defense relationship.
+
+Russia’s stealth ambitions are…grounded. One of their newest heavy fighters/interceptors, the Su-57, has had a number of teething issues. The Su-57 fleet totals only about a dozen airframes. Though certainly a more refined design than the MiG 1.44, stealth appears to be easier to say than to do.
+
+Caleb Larson is a Defense Writer with The National Interest. He holds a Master of Public Policy and covers U.S. and Russian security, European defense issues, and German politics and culture.

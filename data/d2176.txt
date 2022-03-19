@@ -1,0 +1,27 @@
+The universe finally stopped conspiring against the launch of an Italian Earth-observation satellite.
+
+A two-stage SpaceX rocket topped with the Cosmo-SkyMed Second Generation FM2 (CSG-2) satellite lifted off from Florida's Cape Canaveral Space Force Station Monday (Jan. 31) at 6:11 p.m. EST (2311 GMT).
+
+initially aimed to launch the mission on Thursday (Jan. 27), but bad weather forced the company to stand down for three days in a row. Mother Nature finally cooperated on Sunday (Jan. 30), but a cruise ship wandered into the "no-go zone" downrange of Cape Canaveral, .
+
+Related: The evolution of SpaceX's rockets in pictures
+
+Everything worked out on Monday, however. The Falcon 9 launched on time, and its first stage came down for a soft landing at Cape Canaveral just under eight minutes after liftoff. The second stage, meanwhile, continued powering CSG-2 to orbit, eventually deploying the satellite as planned 60 minutes after launch.
+
+The booster landing was the 104th that SpaceX has pulled off to date during an orbital mission, SpaceX production manager Jessie Anderson said during the webcast of Monday's launch. This particular first stage had flown twice before, as a side booster on SpaceX's massive rocket. Today's mission marked the first time that a Heavy side booster had been reconfigured and launched alone as a Falcon 9, Anderson said.
+
+Such reuse is key to SpaceX's long-range goals, which center on lowering the cost of spaceflight enough to make ambitious exploration feats such as economically feasible. Indeed, SpaceX also aimed to recover the CSG-2 mission's payload fairing — the protective "nose cone" that surrounds a payload during launch — Monday for reuse down the road, Anderson said.
+
+The Cosmo-SkyMed Second Generation program is funded by the Italian Space Agency, the Italian Ministry of Defense and the Italian Ministry of Education, Universities and Scientific Research. The system consists of two satellites, which are designed to observe using synthetic aperture radar (SAR).
+
+CSG is an enhanced follow-on to the original Cosmo-SkyMed system.
+
+"COSMO-SkyMed Second Generation['s] purpose is to monitor the Earth for the sake of emergency prevention, strategy, scientific and commercial purposes, providing data on a global scale to support a variety of applications among which risk management, cartography, forest and environment protection, natural resources exploration, land management, defense and security, maritime surveillance, food and agriculture management," European Space Agency officials wrote in a .
+
+The first CSG satellite, CSG-1, launched atop an Arianespace Soyuz rocket from Kourou, French Guiana in December 2019 and is currently operating in a sun-synchronous polar orbit with an altitude of 385 miles (620 kilometers). CSG-2 will operate in the same orbit.
+
+Today's launch is part of a very busy 10-day stretch for SpaceX. Its robotic Dragon cargo spacecraft on Jan. 24, and the company is planning to launch a batch of its Starlink internet satellites from Florida on Tuesday (Feb. 1) as well as the NROL-87 mission for the U.S. National Reconnaissance Office on Wednesday (Feb. 2) from Vandenberg Space Force Base in California.
+
+Editor's note: This story has been updated multiple times, most recently at 7:20 p.m. EST on Jan. 31, to provide details about delays and ultimate launch success.
+
+Mike Wall is the author of " " (Grand Central Publishing, 2018; illustrated by Karl Tate), a book about the search for alien life. Follow him on Twitter . Follow us on Twitter or on .

@@ -1,0 +1,11 @@
+Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt.
+
+Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update. The “rolling stop” feature allows vehicles to go through intersections with all-way stop signs at up to 5.6 miles per hour.
+
+The docments say Tesla agreed to the recall after two meetings with officials from the National Highway Traffic Safety Administration. Tesla knows of no crashes or injuries caused by feature.
+
+The recall covers Model S sedans and X SUVs from 2016 through 2022, as well as 2017 to 2022 Model 3 sedans and 2020 through 2022 Model Y SUVs.
+
+Selected Tesla drivers are “beta testing” the “Full Self-Driving” software. The company says the cars cannot drive themselves and drivers must be ready to take action at all times.
+
+A firmware release to disable the rolling stops is expected to be sent out in early February.

@@ -1,93 +1,41 @@
-You bought new eyeglasses, squeaked in a dental appointment and stocked up on over-the-counter drugs. But if there’s still money in your flexible spending account (FSA), you better spend those pretax dollars quickly before they disappear.
+A dedicated WhatsApp app on an iPad is something users have wanted for many years.
 
-That’s why we’ve rounded up a quick and easy list of products available in the FSA Store, which offers more than 4,000 items that are guaranteed FSA eligible or your money back.
+And it looks like the world’s most popular messaging app might finally be about to deliver.
 
-If you’re not sure exactly what an FSA is and why it’s important that you spend your pretax dollars, we’ve got you covered with a quick guide.
+Will Cathcart, the CEO of WhatsApp, hinted to tech site The Verge that an iPad version is on the way.
 
-What is an FSA?
+‘People have wanted an iPad app for a long time,’ he said.
 
-A flexible spending account (FSA) is offered through many employer benefit plans and allows you to set aside pretax money for eligible health care-related, out-of-pocket expenses for you, your spouse and dependents.
+Amazingly, WhatsApp first launched 13 years ago – just a year before Apple revealed the first iPad to the world.
 
-How does an FSA work?
+The reason it’s taken this long to get a proper WhatsApp app for iPad is due to the way the messaging service handles encryption.
 
-With each paycheck you receive, a certain amount of money is put aside before taxes. This pretax money is for FSA spending, and is meant to be used on eligible health care expenses throughout the year. While the specific amount differs depending on your tax bracket, there are calculators available to help you estimate your savings amount.
+At present, only one device (your phone) holds the key to encrypt and decrypt messages on your account. WhatsApp is trying to add multi-device support, but making it all work seamlessly is tricky.
 
-Why do I have to spend my FSA dollars before a certain date?
+But it sounds like the company – which is owned by Facebook’s parent company Meta – has just about got there.
 
-Most FSA participants are part of a “use it or lose it” plan, which states that all the money left in your account by the end of the year must be forfeited. The unused amount left in your account can’t be paid out to you in any other way, and you can’t transfer money to any other FSA. So it’s important to keep in mind the annual December 31 cutoff date.
+‘We did a lot of work on the technology for supporting multiple devices,’ Cathcart said.
 
-The good news is that many employers provide a grace period of up to two and a half months into the new year for you to use the money, giving you until March 15 to spend it all. But you’ll want to check with your employer, because grace periods can be shorter.
+‘Our web and our desktop apps now have that. If I have multi-device on, I can turn my phone off work lose my network connection and still get messages on my desktop.
 
-What can I purchase with my FSA dollars?
+‘That would be really important for a tablet app, to be able to use the app even if your phone isn’t on.
 
-Common purchases include everyday health care products like bandages, thermometers and glasses. Everything from medical expenses that aren’t covered by a health plan (like deductibles and co-pays to dependent day care) to over-the-counter medication can also be eligible.
+Unfortuantely, it seems we’ll still have to wait a bit longer.
 
-The downside is that the specifics of what you can spend your FSA dollars on depend on the plan your employer has in place. The upside? You can skip the extensive research by shopping at the FSA Store.
+But thankfully, there is a bit of a workaround you can employ to get WhatsApp on an iPad today.
 
-So rather than watch that hard-earned money simply go kaput, we’ve rounded up more than 30 ways to spend your dollars at the FSA Store.
+How to get WhatsApp on an iPad
 
-Check your temperature quickly and accurately with this infrared no-contact thermometer. With readings in just three seconds and the ability to store up to 10 previous readings, this thermometer is handy to keep by your side.
+Unfortunately, you will need to have a smartphone to use WhatsApp on an iPad because the two need to be linked and share the same account. If you have an old smartphone lying around, now may be the time to fish it out and use it as the main device for the account. You’ll need an active SIM card in there as well.
 
-This device uses electrical muscle stimulation to relax stiff muscles; help reduce swollen feet and ankles; and help increase blood circulation.
+Once you’ve got that, the good news is you can get WhatsApp on an iPad, the bad news is that it’s a bit trickier than just installing directly from the App Store. As an aside here – beware the lookalike apps that crop up when you try to search the App Store for WhatsApp on iPad, they’re not the real deal.
 
-Revamp your daily face routine with this dermatologist-recommended acne wash from Neutrogena.
+Here are the steps you need to follow to get WhatsApp on an iPad:
+• You’ll be directed to the WhatsApp homepage since you’re visiting on a mobile browser.
+• To switch to the desktop version hold the refresh button and click Request Desktop Site. You should see a QR code.
+• When you open WhatsApp on your phone, go to settings and then WhatsApp Web, and scan the QR code that’s on your iPad screen.
+• Then, you’re good to go.
 
-This nongreasy and soothing ointment from Aquaphor helps treat and protect against dry skin.
+MORE : WhatsApp could soon let you move your chat history between Android and iOS
 
-This little gadget uses suction to instantly soothe irritation from bug bites and stings. We reviewed it over the summer and were pleasantly surprised by how well it works.
-
-Help relieve back pain and discomfort with this gadget that uses a dual inflation mechanism to lift, stretch and separate joints in your spine.
-
-These premium, flexible bandages protect your small cuts and scrapes, plus they come in bold tie-dye patterns and colors.
-
-This cordless steam inhaler can help alleviate symptoms of the common cold, including congestion, sinus infections and more. The handheld device spreads steam right to your nose, throat and mouth for instant relief, plus a medical-grade HEPA filter ensures the steam is germ-free, allergen-free and pollutant-free.
-
-For little ones with runny or stuffy noses, these gentle saline wipes are the perfect solution for quick, effective cleanup. The hypoallergenic wipes have natural saline and moisturizing vitamin E and aloe to prevent any dry noses.
-
-This instant thermometer provides a stable, heat interference-free reading in just one second. It has a wide measurement range from 32 degrees to 212 degrees Fahrenheit, and a beeping, color-coded alert makes sure you know when the temperature is higher than 99.5 degrees.
-
-Keep this handy kit in your car or hiking/camping pack to treat everything from cuts and blisters to insect bites and headaches. Packed in a BPA-free water bottle, it comes with a whistle, wipes, bandages, gauze, moleskin, pain medication and more.
-
-Freeze this go-to gadget for two hours for an icy roller massage of any sore muscle group.
-
-Get subtle color with sun protection when you swipe on this moisturizing, water-resistant, paraben-free tinted lip balm.
-
-Pop this in the freezer or the microwave to help reduce nasal congestion and relieve soreness.
-
-When cold and flu season hits, it hits hard. So be prepared with this handy nasal inhaler to help alleviate congestion, dryness and other symptoms.
-
-Kick your medication storage into high-tech gear with this Bluetooth number that connects to your smartphone and alerts you if your medications (insulin, pen injectors, hormones, etc.) exceed safe levels.
-
-Treat any acne flare-ups with this noninvasive battery and USB-powered device. Choose from six medical-grade LED lights to help prevent or calm acne. Bonus: It’s portable, so add it to your suitcase for treatment on the go.
-
-Who doesn’t love an all-in-one beauty product? This one provides not only sunscreen but a light matte tint and ProVention-R antioxidants (think green tea, cranberry and pomegranate extracts, plus vitamin C).
-
-New shoes? No problem! Whether you’re breaking in a new pair of cross-trainers or stilettos, these synthetic strips help keep blisters and chafing at bay.
-
-Protect and hydrate dry hands with this SPF 40 moisturizing cream.
-
-This transluscent sunscreen powder is portable enough to throw in your purse and comes with a brush for easy application. Plus, it’s paraben-, PABA- and phthalate-free.
-
-Treat yourself to a nightly foot massage with this small roller designed to stretch the plantar fascia and soothe tired, achy feet. Want extra relief? Pop it in the freezer for cooling pain relief.
-
-This back pain kit includes two inserts: one that can be microwaved for heat therapy and another that can be thrown in the fridge for cold therapy. A soft fleece lining and a wide elastic strap ensure it’s easy and comfortable to wear.
-
-This adorable, plush teddy bear can be microwaved to create a warm compress or put in the freezer to help soothe your child’s latest bump or scratch.
-
-This nongreasy, matte cream-to-powder product offers a 100% mineral sunscreen formula that’s also hypoallergenic and water-resistant.
-
-Contact lens wearers: Stock up on this lubricating solution that will keep your eyes moist and healthy.
-
-Developed by the Stanford BioDesign program, this handheld device is safe for ages 3 and up and gently cleans ears, eliminating the need for cotton swabs.
-
-Get +1.00 magnification with these sleek shades that use new lens technology to hide the telltale bifocal line.
-
-When you’re on your feet all day, prevent soreness and pain by using these inserts that use shock guard technology with nodules to add relief to each step you take.
-
-Shoulder pain? Neck pain? Headaches? Target them all with this high-density foam core neck pillow designed to mold to the area where you need relief.
-
-There are many people who grind their teeth at night. But with many mouthguards so expensive, this one allows you to help protect your teeth for less than $25.
-
-This kit holds a whopping 35 items, including bandages, an ice pack, safety pins, small scissors and more.
-
-Whether you’re frequently on long flights or spend hours on your feet, these top-rated socks ensure healthy blood flow and less swelling.
+MORE : WhatsApp tipped to introduce Facebook-style chat feature in 2022

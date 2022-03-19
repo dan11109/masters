@@ -1,0 +1,21 @@
+Nearly 15 million people in the U.S. alone have an alcohol use disorder, and about 95,000 people die every year from alcohol-related deaths, according to the National Institute of Alcohol Abuse and Alcoholism. Most treatment options come in some form of counseling, although scientists have been trying to improve the efficacy of medications that could help make lifestyle changes stick more permanently.
+
+A new option that could emerge in the future is based on a hormone called FGF21, which has now been found to suppress alcohol consumption in monkeys. In a peer-reviewed study published in Cell Metabolism on Tuesday, a team of researchers found that a new analogue compound of FGF21 given to alcohol-loving monkeys reduced booze intake by 50 percent.
+
+“Using hormones as a therapeutic approach to treat substance use disorders is relatively novel,” Kyle Flippo, a neuroscientist and pharmacologist at the University of Iowa, told The Daily Beast. Previous evidence showed that mutations in the receptor for FGF21 have led to increased alcohol consumption in humans across many different ethnic groups and populations around the world. But “this is the first illustration that FGF21 analogues potentially reduce alcohol consumption in non-human primates,” opening the door for a potentially new kind treatment for alcoholism, Flippo said.
+
+The FGF21 analogue tested by Flippo and his team was originally developed by Pfizer as a long-lasting version of the original hormone, with the goal of treating diabetes and obesity in humans. Unfortunately it petered out in clinical testing: The compound was great at helping humans lose weight, but not very effective at reducing blood glucose levels for diabetics.
+
+So Flippo and his team took this compound off the shelf to see if it might have a new life as an inhibitor for alcohol cravings.
+
+Don’t worry—the monkeys in this study weren’t plied with alcohol until they developed an addiction. Flippo and his team turned to a colony of green vervet monkeys on St. Kitts island that are predisposed to finding and consuming alcohol, most likely due to genetic traits that are passed down from generation to generation. “Just as in humans, a certain percentage of monkeys exhibit an innate preference for alcohol,” said Flippo.
+
+One group of monkeys received a placebo and the other received the FGF21 analogue. The researchers recorded alcohol consumption (via fermented fruit) in both groups before stopping treatment of both the hormone analogue as well as the placebo, and allowing the monkeys to return to their previous consumption habits.
+
+The team found that the FGF21 analogue was responsible for a 50 percent reduction in alcohol intake—a pretty remarkable figure.
+
+The biggest implication, of course, is that the findings could be used to develop a FGF21-based therapeutic to help treat alcohol use disorder in people. Although the study is based on animal models, primates are a lot closer to human physiology than mice, so that’s a major plus toward getting approval for clinical testing.
+
+In addition, a similar leg of trials was run on mice, who were conditioned to prefer alcohol through exposure to increased concentrations over time. They showed similar results to monkey trials, but Flippo and his team also directly measured brain activity in these mice and identified the brain circuit that’s altered by FGF21. That insight helps fill some gaps in how hormones in general work on the parts of the brain that mediate reward and addiction.
+
+It’s not clear yet how soon we might see the FGF21 analogue tested out on humans, but if those trials are approved and end up being successful, millions of people around the world struggling with alcoholism could soon have a new option to help them stay off the bottle.

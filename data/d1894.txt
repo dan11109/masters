@@ -1,0 +1,13 @@
+Sonos has acquired the Bluetooth audio startup T2 Software, Protocol reports, adding fuel to rumors that Sonos is developing its own headphones. T2 had been working on implementations of the new Bluetooth LE Audio standard and LC3 codec, which delivers better audio quality at lower bitrates for improved headphone battery life.
+
+A recent LinkedIn post from Sonos VP of global marketing and communications Pete Pedersen suggests that a Sonos headphone launch may be imminent. He said the company was looking for a marketing agency to help it launch “a new category” of product, “targeting a new audience/consumer segment.”
+
+A spokesperson for Sonos confirmed the acquisition to Protocol. “Occasionally, we will acquire teams, talent, and/or technology that augment our existing and future product roadmap,” the spokesperson said. T2 Software was acquired by Sonos in November 2021, Protocol reports, around three years after the startup was originally founded.
+
+“Occasionally, we will acquire teams, talent, and/or technology that augment our existing and future product roadmap”
+
+Sonos’ long-rumored debut pair of headphones could have the most to gain from a power-efficient Bluetooth codec like LC3. Headphones typically have to make difficult tradeoffs between having large enough batteries to offer good battery life, and being lightweight enough to wear for extended periods. LC3’s promise is that it can help mitigate this tradeoff with higher audio quality that requires less power.
+
+If you want to hear the kind of benefit the LC3 Codec can provide, the Bluetooth SIG has an interactive comparison available on its website which lets you toggle between different audio encoders and bitrates. The tool shows how LC3 audio remains listenable at bitrates far lower than the usual SBC codec. And, most interestingly, it notes that the encoded audio streams were provided by “T2 Labs,” the old name of T2 Software.
+
+Sonos historically shunned streaming over Bluetooth in favor of Wi-Fi for its home speakers, and has only embraced Bluetooth audio more recently for portable speakers like the Sonos Move and Sonos Roam. Sonos’ headphones will reportedly compete with high-end competitors from Sony and Bose while also neatly integrating with Sonos’ existing speakers.

@@ -1,0 +1,9 @@
+Federal Communications Commission (FCC) Chairwoman Jessica Rosenworcel issued a proposal that could make it much harder for robocallers to leave “ringless” voicemails in your inbox without getting your permission first. Ringless voicemails are those annoying messages that appear in your voicemail inbox without your phone actually ringing first.
+
+Ringless voicemails are messages that appear on your phone without it ringing
+
+Rosenworcel says the technology behind ringless voicemails should be subject to the same rules laid out by the Telephone Consumer Protection Act (TCPA), which is supposed to block robocallers from dialing your number without your consent. The TCPA sets a number of other rules as well, requiring telemarketing agencies to create and abide by a “Do Not Call” list and barring them from calling residences between 9PM and 8AM.
+
+“Ringless voicemail can be annoying, invasive, and can lead to fraud like other robocalls — so it should face the same consumer protection rules,” Rosenworcel said. “This FCC action would continue to empower consumers to choose which parties they give permission to contact them.”
+
+Rosenworcel’s proposal is a response to a petition filed in 2017 by robocalling company All About the Message (PDF). The company argued robocalls that go straight to voicemail shouldn’t be protected by the TCPA, claiming that they’re technically not phone calls and, thus, shouldn’t be lumped in with the law. Last year, the FCC started requiring all phone providers to implement a call verification service to help consumers identify robocalls.

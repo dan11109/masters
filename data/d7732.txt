@@ -1,0 +1,1 @@
+"I was sceptical because even in simple competitive problems it is often required not only to implement the algorithm but also - and this is the most difficult part - to invent it."

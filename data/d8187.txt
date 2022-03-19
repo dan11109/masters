@@ -1,0 +1,33 @@
+(Reuters) - More robots joined the U.S. workforce last year than ever before, taking on jobs from plucking bottles and cans off conveyor belts at trash recycling plants to putting small consumer goods into cardboard boxes at e-commerce warehouses.
+
+It looks like still more robots will come aboard in 2022.
+
+Companies across North America laid out more than $2 billion for almost 40,000 robots in 2021 to help them contend with record demand and a pandemic-fueled labor shortage. Robots went to work in a growing number of industries, expanding well beyond their historic surge in the automotive sector.
+
+“With human labor, what they produce depends on if they’re hungry or are they tired or have they had their coffee,” said Brian Tu, chief revenue officer for DCL Logistics in Fremont, California, which started installing robots on e-commerce fulfillment lines during the pandemic. Robots are dependably fast and do not take breaks.
+
+Factories and other industrial users ordered 39,708 robots in 2021, 28% more than in 2020, according to data compiled by the industry group the Association for Advancing Automation, also known as A3. The previous annual record for robot orders was set in 2017 - when North American companies ordered 34,904 robots valued at $1.9 billion.
+
+As recently as 2016, more than twice as many robots were sold to auto makers as to all other industry sectors combined. But in 2020, other businesses eclipsed automakers as buyers of the advanced machines, and the share of robots going to non-auto companies grew further in 2021.
+
+Some of the fastest growth in robot orders is in the metals and food and consumer goods industries, according to A3.
+
+E-commerce is another fast growth sector. At DCL, which has five U.S. fulfillment centers and will soon open a sixth, the lines that have gotten robots can operate with fewer people - yet produce 200% more, according to Tu.
+
+“We still have employees working around the robots,” he added, “but we can reduce labor by roughly half.”
+
+The A3 data mostly tracks orders for traditional industrial robots - large systems that typically replace an entire section of an assembly line with moving arms. But a growing share of robots are a new breed of “cobots,” designed to work alongside humans on assembly lines.
+
+“The number one driver for automation is the labor shortage in manufacturing,” said Joe Campbell, a senior manager for applications development at Universal Robots, a unit of Massachusetts-based Teradyne Inc, which specializes in cobots. And the pandemic is not the only factor driving the change. Universal estimates 2,000 Baby Boomers are retiring daily in manufacturing, robbing factory floors of veteran expertise.
+
+Campbell said cobots are making inroads into many industries that long resisted automation. In construction, for instance, the company has sold robot arms to a firm that uses them to install drywall in large building projects: a notoriously labor-intensive process.
+
+Auto plants are also finding new uses for cobots. Stellantis N.V., the Dutch automaker, is now using Universal’s cobots in the final assembly area of its factory in Turin, Italy, to help produce the new Fiat 500 electric vehicle. The arms are attached to a framework that moves over the car, where they locate and fasten nuts, said Campbell.
+
+While auto plants have used robots for decades to do jobs like weld metal, he said, it is “very new” for cobots to do final assembly jobs.
+
+Last week, Tesla Inc Chief Executive Elon Musk said his engineers would launch a humanoid robot called Optimus in its factories next year. In the short term, Musk said these robots might carry items around a factory and could eventually address labor shortages.
+
+As of December, U.S. employers had 10.9 million vacant positions, nominally below the record 11.1 million from earlier in 2021. There are now an unprecedented 1.7 open jobs for every unemployed worker, and at least one policymaker at the Federal Reserve - St. Louis Fed President James Bullard - sees the U.S. unemployment rate dropping below 3% this year for the first time since the 1950s.
+
+“Never say never,” said Universal Robots’ Campbell, “but I don’t see anything to slow us down.”

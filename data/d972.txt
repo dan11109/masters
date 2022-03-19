@@ -1,21 +1,57 @@
-After spending more than four years debating Brexit, on Dec. 30 the British Parliament spent only about four hours discussing Prime Minister Boris Johnson’s last-minute trade deal with the European Union before approving it by a 521-73 margin. Reached on Dec. 24, only days before the year-end deadline, the agreement will allow Britain to formally end the so-called transition period and leave the EU for good. The vote passed easily in the House of Commons, given the opposition Labour Party’s support, and sailed through the House of Lords, receiving royal assent at 12:25 a.m. on Dec. 31. It comes as the country is reeling from a new strain of the coronavirus that has pushed infections higher than ever and hospitalization numbers beyond the April peak of COVID-19’s first wave.
+How some states are trying to upgrade their glitchy, outdated health care technology
 
-Johnson famously pledged to “get Brexit done”—and has now delivered on that promise. Unfortunately, the public health crisis that engulfed the country while his government was busy trying to “take back control” from the EU is far from over, and Britain’s coronavirus curve now seems to be on an uncontrolled upward trajectory.
+In October, when Jamie Taylor's household monthly income fit within new state income limits after Missouri's 2021 expansion of Medicaid, she applied for health coverage. She received a rejection letter within days, stating that her earnings exceeded the acceptable limit.
 
-Here are five of Foreign Policy’s top stories on British politics from 2020.
+It was the latest blow in Taylor's ongoing campaign to get assistance from Missouri's safety net. Taylor, 41, has spent hours on the phone, enduring four-hour hold times and dropped calls. Time-sensitive documents were mailed to her home in Sikeston but by the time they arrived she had little time to act.
 
-In May, a quarantine violation by Johnson’s advisor Dominic Cummings blew up into a national scandal. FP’s James Palmer explained how Cummings’s cross-country drive while exhibiting coronavirus symptoms and a later lockdown jaunt to a local castle turned him into a pariah for blatantly breaking the rules while tens of millions of Britons suffered in order to obey them. The scandal also confirmed that “Johnson finds the idea of any of his friends being held accountable abhorrent.”
+Her latest rejection – she would later find out – resulted from a preprogrammed glitch in her application that a technician enrolling her failed to catch.
 
-2. Brexit Is a Distraction From the United Kingdom’s Real Economic Woes
+Taylor's struggles to get a benefit she was in fact qualified for are not uncommon in Missouri or nationally. They stem from extremely outdated technology used by a humongous web of government agencies, from local public health to state-run benefits programs. Matt Salo, the National Association of State Medicaid Directors executive director, calls the need for technology upgrades "the next great challenge that government has to solve."
 
-In September, before COVID-19 came roaring back, Tej Parikh argued that the U.K. government had a rare opportunity to reset the economy. “Successive governments have discussed ad nauseam the need to capitalize on the United Kingdom’s economic strengths and to invest where it is weak. But it never happens,” Parikh wrote. With uncertainty still hanging over London’s lucrative financial sector and its future in a post-Brexit world, the need to rewire the economy for the long haul remains.
+The COVID crisis exposed just how antiquated and ill-equipped many systems are to handle the unprecedented demand. While private-sector businesses beefed up the ability to stream TV shows, created apps for food deliveries, and moved offices online, some public health officials tracked COVID outbreaks by fax machine.
 
-3. Deal or No Deal Is No Longer the Point
+But momentum is finally building for government tech updates. With once-in-a-generation pools of money available from pandemic relief funding and higher than expected tax revenues, some efforts are underway. President Joe Biden issued an executive order in December calling on benefits enrollment to be streamlined. State lawmakers are urging the use of unspent COVID relief money to address the issue.
 
-As Britain was still toying with the idea of crashing out of the EU without a deal earlier this year and talking tough in negotiations, Joseph de Weck argued that Brexit would be a blow to the British economy whether or not there was a deal—for the simple reason that any deal “still leaves British firms’ at a significant competitive disadvantage in the EU’s 448-million-person market compared with their EU rivals.”
+That's critical because outdated information systems can trigger ripple effects throughout the public benefits system, according to Jessica Kahn, who is a partner at the McKinsey & Co. consulting firm and previously led data and systems for Medicaid at the Centers for Medicare & Medicaid Services. One example: Hard-to-navigate online benefits applications can push more applicants to call phone help lines. That can strain call centers that, like many industries, are having difficulty meeting staffing needs.
 
-4. Why a Biden Win Is Bad News for Boris Johnson
+Some states are already eyeing improvements:
 
-In the wake of the U.S. presidential election, Nick Cohen argued that Johnson had aligned himself too closely with Donald Trump’s far-right nationalist vision and will be in for a rude awakening once Joe Biden takes office in January. “The British prime minister now looks like yesterday’s man,” Cohen wrote. “The spirit of the age has left him behind, and he seems a relic of a discredited past.”
+In Wisconsin, Democratic Gov. Tony Evers has directed up to $80 million to replace the state's old unemployment infrastructure.
 
-Last week, Harriet Williamson reflected on Johnson’s miserable Christmas and how his slow reactions and ongoing indecisiveness had doomed Britain to a far higher death toll than countries that reacted swiftly to rising caseloads—both in March and now in early winter. “A ‘great year for Britain,’ in Johnson’s cocky words in January, has turned into an unprecedented disaster,” she wrote.
+Kansas is among the first states working with the U.S. Department of Labor's newly created Office of Unemployment Insurance Modernization set to manage $2 billion in funds appropriated by the American Rescue Plan Act last year.
+
+In Missouri, a bipartisan state Senate committee recommended using surplus COVID relief funds for the Department of Social Services to update the benefit computer systems. The department also has proposed using federal pandemic money on artificial intelligence to process some 50,000 documents per week. That work is currently done manually at an average of two minutes per document.
+
+Underfunding is nothing new to public health and safety-net programs. Public officials have been reluctant to allocate the money necessary to overhaul dated computer systems — projects that can cost tens of millions of dollars. But even when the money is there, recent history suggests these improvements may be easier said than done.
+
+More than 10 years ago, the Obama administration invested $36 billion to develop and mandate the national use of electronic health records for patients. Despite the billions invested, the digitizing of patients' records has been plagued with problems. Indeed, to benefit from the new Biden administration requirement that insurers reimburse them for rapid tests, patients have to fax or mail in claims and receipts.
+
+The Affordable Care Act also offered a chance to improve state technology infrastructure. From 2011 through 2018, the federal government offered to cover up to 90% of the funds necessary to replace or update old Medicaid IT systems, many of which were programmed in COBOL, a computer programming language dating to 1959. Those updates could have benefited other parts of the government safety net as well, since state-administered assistance programs frequently share technology and personnel.
+
+But, Salo says, the ACA required these new Medicaid computer systems to communicate directly with the health care exchanges created under the law. States faced varying degrees of trouble. Tennessee applications got lost, leading to a class-action lawsuit. Many states never fully overhauled their benefit systems.
+
+During the pandemic, tech issues became impossible to ignore. Amid the early lockdowns, hundreds of thousands of people waited months for unemployment help as states such as New Jersey, Kansas, and Wisconsin struggled to program newly created benefits into existing software. Local and state vaccine registration sites were plagued with so many problems they were inaccessible to many, including blind people, a violation of federal disability laws.
+
+In Missouri, where Jamie Taylor lives, a 2019 McKinsey assessment of the state's Medicaid program noted the system was made up of about 70 components, partially developed within a mainframe from 1979, that was "not positioned to meet both current and future needs."
+
+In a 2020 report for the state, Department of Social Services staffers called the benefits enrollment process "siloed" and "built on workarounds," while participants called it "dehumanizing."
+
+Taylor experienced that first-hand. Eight years ago, a mysterious medical condition forced her out of the workforce, causing her to lose her job-based health insurance. At various times, she's been diagnosed with ulcerative colitis, Crohn's disease, gastritis, inflammatory bowel disease, and gastroparesis, but lacking insurance and unable to qualify for Medicaid, she was forced to seek treatment in emergency rooms. She has been hospitalized repeatedly over the years. She estimated her medical debt tops $100,000.
+
+At the behest of hospital social workers, Taylor applied for Medicaid, the federal-state public health insurance program for people with low incomes, six times beginning in 2019, although she didn't meet the state's income requirements that were among the lowest in the nation before voters approved expanding the program. Her first two rejection letters began, "Good news," a mistake state officials blame on a programming error.
+
+The October rejection was the most heartbreaking because that time she knew she qualified under the state's new guidelines.
+
+At a loss, Taylor reached out to state Rep. Sarah Unsicker. The Democratic lawmaker represents a district 145 miles away in St. Louis, but Taylor had seen her championing Medicaid expansion on Twitter. After Unsicker queried the department, she learned that a default answer in her application that a technician enrolling her missed is what had disqualified Taylor from getting Medicaid. It incorrectly listed her as receiving Medicare — the public insurance designed for older Americans that Taylor does not qualify for.
+
+"Within 24 hours, I had a message back from Sarah saying that another letter was on the way and I should be much happier with the answer," Taylor recalls.
+
+Finally enrolled in Medicaid, Taylor is now struggling to get nutrition assistance, called SNAP, which in Missouri is processed through a separate eligibility system. Medicaid and SNAP applications are combined in 31 states, according to a 2019 analysis from the Code for America advocacy group. But not in hers. The programs have similar income requirements, but Taylor was not able to verify her income over the phone for SNAP as she could for Medicaid.
+
+Instead, she received a letter on Nov. 26 requesting her tax returns by Nov. 29. By the time she was able to locate and email those documents on Dec. 1, she had been denied. Every call to sort out the issue has been met with hold times upward of four hours or queues so full that her call gets dropped, she said.
+
+"It just doesn't make sense to me why Medicaid can verify my tax income over the phone, but SNAP needs me to send them a copy of the whole thing," Taylor says.
+
+Eventually, she gave up and started the whole process over. She's still waiting.
+
+KHN (Kaiser Health News) is a national newsroom that produces in-depth journalism about health issues. KHN is an editorially independent operation program of KFF (Kaiser Family Foundation). KFF is an endowed nonprofit organization providing information on health issues to the nation.

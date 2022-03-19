@@ -1,1 +1,47 @@
-Click to share on Facebook (Opens in new window)
+Here's What You Need to Know: The AGM-53 Condor missile was riddled with issues and setbacks throughout its development in the latter half of the 1960s.
+
+In the later years of the Cold War, Lockheed proposed arming their high-flying U-2 spy plane with experimental long-range anti-ship missiles that would have made it a terror over the high seas. Had the concept been coupled with American efforts to field the U-2 aboard aircraft carriers, it could have offered the U.S. Navy a ship killer with a long scope and even longer range.
+
+When the U-2 first entered service in 1955, it brought with it an incredible jump in America’s reconnaissance capabilities. Designed and built by Kelly Johnson’s legendary team at Lockheed’s Skunk Works in less than a year, the U-2 was capable of flying at altitudes higher than 70,000 feet, well beyond the reach of even the most advanced and capable Soviet missiles or fighters of the day.
+
+But it wasn’t just incredible altitudes that made the U-2 special. In an era when aerial refueling had only recently become commonplace for fighter operations, the original U-2 design could cover 3,000 miles without the need for tankers, giving it incredible range and endurance for covert operations over enemy territory. The original camera mounted in the payload bay of the U-2 could capture images with a resolution of just 2.5 feet from an altitude of 60,000, but the U-2 has since seen a slew of updated equipment housed within its fuselage, from the most powerful optical sensors in the U.S. arsenal to some of the first line-of-sight data link systems.
+
+But with all the high-tech gear to grace the U-2 spy plane’s interior, one thing the aircraft has never carried is missiles… but Lockheed had plans to change that.
+
+Lockheed was looking for a way to sell more U-2s
+
+Earlier this month, we reported on America’s varied (and largely successful) efforts to field the U-2 aboard U.S. Navy aircraft carriers as part of a push to eliminate the CIA’s reliance on foreign airstrips. Pilots successfully landed and took off from the Navy’s flat tops with multiple iterations of the U-2 under both CIA and Navy programs, but neither organization ultimately found the practical value in the difficult operations.
+
+An element of that story that got left on the cutting room floor during its initial edit was Lockheed’s drive to find a good reason to ramp up U-2 production and sell Uncle Sam as many high-flying Dragon Ladies as the taxpayer would allow. In all, Lockheed built and sold some 104 U-2 spy planes between 1955 and the end of the latest production run in 1989, but the firm knew they could dramatically increase that tally if only they could find another good use for the unusual platform.
+
+By the late 1970s, Lockheed wasn’t considered one of the world’s best defense contractors as it had been in the past and would be again in the future. A series of financial scandals, poor business decisions, and terrible press had put the company’s future in jeopardy. In 1971, Lockheed was forced to accept a $200 million loss (about $1.3 billion in 2021 dollars) over cost overruns and contract disputes with the Pentagon.
+
+That same year, one of Lockheed’s primary commercial engine suppliers, Rolls Royce Ltd, filed for bankruptcy, and the firm was once again forced to approach the U.S. government for a $250 million loan to keep it in operation. By the end of the decade, Lockheed’s value had slipped all the way down to 6th place in the list of American defense contractors, lagging behind competitors like General Dynamics, coming off its success with the F-16, and McDonnell Douglas, who was riding high on their own fighter program, the F-15 Eagle.
+
+Lockheed needed a win, and although they had a number of programs under development, the U-2 was already a proven performer with an existing production line. And despite being incredibly difficult to fly, there was good reason to look for ways to expand its operational uses. Some may have thought Gary Powers’ U-2 being shot down over the Soviet Union in 1960 would have spelled the end for the aircraft; after all, it was designed to fly high specifically to operate beyond the reach of Soviet air defenses, but the U-2’s broad capabilities as an extended-range, long duration, reconnaissance platform were too potent to ignore, even as the faster and higher-flying SR-71 came into service and satellites were coming of age.
+
+If they could convince the U.S. Navy to buy into the U-2 program, it could have meant a fairly quick influx of revenue the company sorely needed.
+
+Arming the U-2 with missiles to go ship hunting
+
+Although Lockheed failed to convince the Navy to operate a sensor-packed version of the U-2 from aircraft carriers for maritime surveillance, they still had one more trick up their sleeve.
+
+When U-2 designer Kelly Johnson first approached the U.S. Air Force with his CL-282 design that would culminate in the U-2, he was dismissed outright by legendary commander of the Strategic Air Command (SAC), Curtis LeMay. According to reports, LeMay told Lockheed that he had no interest in an airplane “without wheels or guns.”
+
+Lockheed seemed to take that criticism to heart, and while they didn’t change out the landing gear or add any guns to the U-2, they did take a crack at missiles.
+
+Dubbed the 315B design, this new iteration of the U-2 would come with a second crew station, not unlike the two-seat U-2 training aircraft Lockheed already had in production. That second crew member would serve as a sort of Radar Intercept Officer, not unlike the backseater in operational Navy fighters of the day like the F-14 Tomcat.
+
+The 315B U-2 would be armed with new and experimental (at the time) AGM-53 Condor long-range air-to-surface missiles to engage enemy warships at distances of up to 60 miles. The Condor missile utilized an electro-optical (television) guidance system with a data link back to the aircraft that would allow the secondary crew member to literally guide the weapon into its target via remote control. The missiles could also be “locked” onto a target using this system, freeing up the crew aboard the U-2 to start scouring for other enemy ships.
+
+Eventually, the Condor missiles were intended to carry both conventional warheads and nuclear ones, which would have made the U-2 a potential nuclear attack aircraft had the 315B design and Condor missiles ever come to fruition. Unfortunately for Lockheed and for the Condor’s designer, Rockwell, neither effort would make it into production.
+
+The missiles meant for the U-2 turned out to be duds
+
+The AGM-53 Condor missile was riddled with issues and setbacks throughout its development in the latter half of the 1960s, from an unreliable propulsion system to the skyrocketing costs of fielding a capable data link for the weapon. Worse still, the missile’s relatively small warhead made its exorbitant price tag (largely due to the expensive data link technology) seem downright unreasonable. Despite originally placing an order for 250 missiles to be delivered in 1976, the program was canceled that year before any could be.
+
+Like the missiles that would arm it, the 315B U-2 Lockheed proposed would never make it into service with the U.S. Navy either. Lockheed would find itself once again leading the way in military aviation just a few short years later, however, when the world’s first operational stealth aircraft, the F-117 Nighthawk, would begin test flights.
+
+The U-2 spy plane would continue to find valuable uses for the U.S. Air Force extending all the way into the 21st century. Today, there are more than 30 U-2s in operational service filling a wider variety of roles than ever. Some have even been used as nodes in secure data links between the most advanced fighters the U.S. has to offer, the F-22 Raptor and F-35 Joint Strike Fighter–both of which come from the same Lockheed Skunk Works stable as the U-2 did itself decades ago.
+
+This article first appeared at Sandboxx News. It is being reprinted due to reader interest.

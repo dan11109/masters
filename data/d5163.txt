@@ -1,0 +1,67 @@
+Hanging over the $800 billion Paycheck Protection Program, one of the government’s most expensive pandemic relief efforts, is a simple question.
+
+New research, drawing on millions of wage and payroll records, suggests a complicated answer: Yes, but at an extraordinarily high cost.
+
+Sign up for The Morning newsletter from the New York Times
+
+One new analysis found that only about a quarter of the money spent by the program paid wages that would have otherwise been lost, partly because the government steadily loosened the rules for how businesses could use the money as the pandemic dragged on. And because many businesses remained healthy enough to survive without the program, another analysis found, the looser rules meant the Paycheck Protection Program ended up subsidizing business owners more than their workers.
+
+“Jobs and businesses are two separate things,” said David Autor, an economics professor at the Massachusetts Institute of Technology who led a 10-member team that studied the program. “We tried to figure out, ‘Where did the money go?’ — and it turns out it didn’t primarily go to workers who would have lost jobs. It went to business owners and their shareholders and their creditors.”
+
+Questions about the success of the program have gained urgency as the omicron variant of the coronavirus disrupts the country’s economic upswing, intensifying calls from hard-hit industries like restaurants for a new round of federal aid.
+
+Congress rushed to create the Paycheck Protection Program in the pandemic’s early days, trying to prevent struggling small companies from gutting their workforces and adding to the staggering unemployment rate. The program offered business owners low-interest loans of up to $10 million to cover roughly two months of payroll and a few additional expenses. The loans would be forgiven as long as the money went to permitted costs.
+
+Nearly every company in America with 500 or fewer workers (and some larger ones) qualified: law firms, construction companies and restaurant chains as well as Uber drivers, freelancers and the bars, boutiques, grocery stores and hair salons that are the backbone of many Main Streets.
+
+Early studies of the program — which generally focused on the largest small companies — were not flattering, finding it had little effect on preserving jobs. But Michael Dalton, a research economist for the Bureau of Labor Statistics who drew on extensive wage records collected by the government that other researchers did not have access to, said it had performed better than he expected.
+
+Within one month of being approved, companies that got loans had an average head count 8% higher than comparable businesses that didn’t. After seven months, their workforces were still 4% larger, maintaining a lead even as hiring nationwide began to bounce back.
+
+And some ventures that would have been forced out of business stayed alive. Businesses that received a loan from the program were 5.8% less likely to be closed one month after receiving the money, and 3.5% less likely to be shut down after seven months, Dalton found.
+
+The effects were strongest for the smallest businesses and for those in areas with higher poverty rates. “There are long-term impacts to businesses closing, on local communities and the local economies in those areas,” Dalton said.
+
+Dawn Kelly isn’t sure the Nourish Spot, a juice bar and sandwich shop in the Queens borough of New York City, would have survived without an $11,220 Paycheck Protection Program loan and other aid.
+
+Kelly opened the store five years ago in what she calls a “food swamp,” an urban neighborhood where shops with fresh produce are scarce. During the first two years, she mostly staffed the shop on her own 11 hours a day, six days a week, and struggled to turn a profit. But her sales grew, and she brought on interns from youth job programs, hiring the best as part-time workers. At the end of 2019, she had about 10 employees and was finally breaking even.
+
+But the pandemic wiped out foot traffic and sit-down dining. Kelly’s smoothies and snacks adapted well to a takeout model, but the fees charged by delivery apps had a steep financial toll.
+
+“It took everything for me to apply for the PPP loan, because I was scared of loans, especially during COVID,” said Kelly, who started the business after she was laid off from a 30-year career in corporate communications.
+
+The loan helped stabilize the shop. She cut her hours — but not her staff — and new opportunities, like a contract last summer for concessions space at Forest Hills Stadium, have helped her keep eight employees on the job.
+
+The Nourish Spot’s loan worked exactly as lawmakers first intended: a relatively modest amount that supported workers long enough for the business to recover organically.
+
+But overall, the Paycheck Protection Program was extremely inefficient. For every $1 in wages that it prevented from being lost, it handed out $3.13 that went somewhere else, Dalton found. The analysis by Autor’s group, circulated for comment last month by the National Bureau of Economic Research, put the cost of saving a job for a year at $169,300 — far more than the $58,200 average compensation for those jobs, according to the group’s calculations.
+
+So where did the rest of the money go? Into deeper pockets.
+
+Seventy-two percent of the program’s relief money ended up in the hands of those whose household income is in America’s top 20%, Autor’s group found. That is because the relief effort’s shifting goals ultimately put less of a premium on worker pay.
+
+When lawmakers created the program in March 2020, they anticipated a short period of intense disruption. Covering employers’ payrolls for eight weeks, they figured, would be enough to get them through the worst of the COVID-19 crisis.
+
+They guessed wrong. As the pandemic dragged on and businesses’ woes deepened, lawmakers softened the program’s rules and refashioned it into a more general small-business support effort.
+
+Most notably, they gutted the requirement that borrowers who wanted their loans forgiven maintain their pre-pandemic head counts. And they reduced the percentage of the loan that borrowers seeking forgiveness had to spend on payroll, to 60% from 75%.
+
+That allowed business owners to spend more of the money on rent, utilities and other expenses. (Some of those payments, in turn, propped up other industries: An analysis last year found that Paycheck Protection Program money reduced commercial mortgage delinquencies.)
+
+Out of the roughly $510 billion the program lent in 2020, a maximum of $175 billion — about 34% — went to paying workers who would have lost their jobs, Autor’s team found. Money that didn’t specifically preserve jobs was effectively a windfall for business owners — on the whole a wealthy group.
+
+“This program was highly, highly regressive,” Autor said, using the economic term for policies that favor the richest.
+
+Lawmakers in both parties have backed the Paycheck Protection Program — it was created during the Trump administration and distributed an additional round of funding after President Joe Biden took office — in part because every congressional district is filled with entrepreneurs like Kelly.
+
+Sen. Marco Rubio, R-Fla., speaks glowingly of Island Grove Wine, a winery and wedding site that the pandemic turned into “a money pit,” in the words of its owner. Rep. Carolyn Bourdeaux, D-Ga., praised the program for giving local mainstays like the Aurora Theater, an arts venue, “the resources they need to get back on their feet.”
+
+And Rep. Steve Chabot, R-Ohio, brought Dr. Rich Coleman, owner of Four Paws Animal Hospital, to a House hearing. Coleman testified that the program had allowed his 34 employees “to go home every night knowing that they could pay their rent, feed their family and, more importantly, feed the massive amounts of pets that they own.”
+
+The Paycheck Protection Program ran dry and closed down in May, and Biden and Congress have shown little interest in reviving it. But some small-business owners — particularly in the restaurant industry — are hoping for additional aid as omicron heightens the pressures they feel from high inflation and a tight labor market.
+
+In a recent survey of business owners participating in a Goldman Sachs training program, 71% said omicron had taken a toll on their sales. More than a third said they had to close temporarily or scale back operations because of rising COVID case counts.
+
+Kelly is prepared to white-knuckle her way through the uncertainty. When the Paycheck Protection Program offered a second round of loans last year, she didn’t apply.
+
+“I didn’t need it,” she said. “We’re doing OK.”

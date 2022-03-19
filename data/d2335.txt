@@ -1,0 +1,29 @@
+Smart guns have been back in the headlines. It’s not really because there’s anything overly new to report, but because the companies that make these guns have been beating the bush with the press, trying to get coverage.
+
+My guess is that cash is getting tight and they’re trying to gin up some new investments.
+
+However, anytime smart guns come up, it’s important that we discuss the reality about them. We’ve done it a time or two.
+
+But now the NRA has some thoughts on them as well.
+
+The NRA conducted real-world testing of the Armatix iP1, a “smart gun” that depended on a radio-frequency identification (RFID) chip in a matching, battery-powered wristwatch. Once activated, the watch “unlocked” the gun provided the gun remained within a 10-inch range. Contrary to the assertion of the gun’s designer that “it’s operating perfectly,” the NRA testers flagged a number of serious problems and design flaws, including a 12-second wait time before the gun would fire, even after set-up. Other issues related to the gun’s “kill switch” functionality, and how easily the RFID connection could be hacked or disabled. The answer to the latter was provided courtesy of “Plore,” a hacker who demonstrated (video here) that the security features could be circumvented entirely: [H]e can extend the range of the watch’s radio signal, allowing anyone to fire the gun when it’s more than ten feet away. He can jam the gun’s radio signals to prevent its owner from firing it – even when the watch is inches away and connected. And most disturbingly, he can mechanically disable the gun’s locking mechanism by placing some cheap magnets alongside its barrel, firing the gun at will even when the watch is completely absent. This year, a different model of “smart gun” made its debut. The LodeStar Works LS9, a 9mm pistol, apparently also uses RFID as its “basic authentication technology” but “will offer several if not all authentication technologies at the option of the consumer.” The manufacturer advises that the gun is “Bluetooth enabled for optional smartphone activation [and] data collection.” In a section on the “downside risk to public safety as a result of Personalized Firearms,” the website claims that, although some in the “gun owning community worry about the reliability of a personalized gun when it is needed for self defense,” the “LS9 will be proven to be as – if not more – reliable than its mechanical counterparts.” A Reuters reporter describing the LS9 indicates that the gun uses “both a fingerprint reader and a near-field communication chip activated by a phone app, plus a PIN pad.” In case the fingerprint scanner on the grip fails (“when wet or in other adverse conditions”), the PIN pad backup would activate the gun “as quickly as users can open the app on their phones.” According to the reporter, in a live-fire demonstration of a third-generation prototype, the gun was fired “in its different settings without issue.” However, a video of the event posted by a different reporter seems to show that the gun failed to fire the second of just two intended shots.
+
+All of this was to point out how President Biden’s claim that smart gun technology was already here and viable is anything but true.
+
+The problem you’re always going to have with smart guns is that the more complicated you make a device, the more failure points you introduce. Firearms are already complicated enough as it is, but we’ve had more than a century to refine the technology so they work reliably.
+
+Now, though, people want to add in electronics, which is a whole other kettle of fish.
+
+“It just uses your cell phone to help unlock the gun, which is useful if your fingers are wet.”
+
+Dude. My cell phone takes way too long just to make a call. There’s no way in hell I’m interested in trusting my life to an app opening quickly or else I die.
+
+And that’s assuming the gun actually works when it’s unlocked, which is far from assured.
+
+But as the NRA points out, fears over mandates are far from overblown. New Jersey already tried it. In the process, the made it politically untenable for any traditional firearm manufacturer to explore the technology. They reversed that a bit a couple of years ago, mandating that gun stores would need to have at least one smart gun available for sale, but not eliminating everything else.
+
+Yet the only reason New Jersey changed that position wasn’t that they realized they were wrong. They did it because they figured out they were actually discouraging companies from pursuing smart gun technology.
+
+And there’s little reason to think they won’t try it again.
+
+The truth is, smart guns are a waste of time, money, and resources. As a free-market guy, I’m fine with letting them do so, but it doesn’t change the facts.

@@ -1,0 +1,21 @@
+Congressman Ted Lieu (D-CA) called for the Department of Justice to investigate allegations that the NSO Group — a private Israeli surveillance company that provides software to governments to help them track terrorists, criminals, and anyone else they may want to target — offered “bags of cash” to representatives of an American mobile-security firm to gain access to date from worldwide cellular networks, according to an article in The Washington Post.
+
+According to The Post:
+
+“The mobile-phone security expert Gary Miller alleges that the offer came during a conference call in August 2017 between NSO Group officials and representatives of his employer at the time, Mobileum, a California-based company that provides security services to cellular companies worldwide. The NSO officials specifically were seeking access to what is called the SS7 network, which helps cellular companies route calls and services as their users roam the world, according to Miller.”
+
+Access to the network allows surveillance companies like the NSO Group to pinpoint the location of mobile phone users and provide other information to their customers seeking to spy on targets that in the past have allegedly included journalists, human rights activists, business executives, and two women close to murdered Saudi journalist Jamal Khashoggi, according to an earlier investigation by The Washington Post.
+
+NSO is the company behind the notorious Pegasus spyware package which it licenses to intelligence agencies and police departments around the globe, allowing its users to tap into smartphones it targets and not only determine their location but also listen to calls, monitor social media activity, and access the phone’s camera.
+
+Miller, a former vice president of Mobileum who is now a mobile-security researcher for Citizen Lab, has been a harsh critic of NSO’s spyware and surveillance operations.
+
+“The NSO Group was specifically interested in the mobile networks,” Miller said. “They stated explicitly that their product was designed for surveillance and it was designed to surveil not the good guys but the bad guys,” The Washington Post quotes the mobile security expert. “In Miller’s account to the Justice Department, when one of Mobileum’s representatives pointed out that security companies do not ordinarily offer services to surveillance companies and asked how such an arrangement would work, NSO co-founder Omri Lavie allegedly said, “We drop bags of cash at your office,” the newspaper reports.
+
+After reporting the incident to an FBI tip line and getting no response, Miller contacted Congressman Lieu last year on account of the lawmaker’s documented interest in mobile phone security.
+
+After hearing Miller’s accusations, Rep. Lieu sent a criminal referral to the Justice Department, saying that “having such access would allow the NSO to spy on vast numbers of cellphones in the United States and foreign countries.”
+
+In a subsequent interview with The Washington Post, Congressman Lieu expressed his view that the alleged offer of “bags of cash” could indicate evidence of criminal intent on the part of NSO.
+
+A statement from NSO claims that it has “never done any business with” Mobileum, that it “does not do business using cash as a form of payment,” and is not “aware of any DOJ investigation,” The Post reports. While the Justice Department declined to comment on any potential investigation of NSO, John Tye of Whistleblower Aid, Miller’s attorney, reminded the public what was at stake. “Now we know that NSO Group tried to purchase access to our mobile communications,” Tye said. “This should terrify every American. We urge the Department of Justice to investigate whether any laws were broken.” Stay tuned for further developments in this important story. Original reporting by Craig Timberg at The Washington Post. We want to hear what YOU have to say. Scroll down and let us know in our comment section! Add your name to call on prosecutors to ARREST DONALD TRUMP for his crimes! Advertisements

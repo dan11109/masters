@@ -1,0 +1,7 @@
+Summary: Carnosic acid, a compound found in the herb rosemary, can block the interaction with the COVID-19 SARS_CoV_2 spike protein and ACE2, the protein receptor the virus uses to gain access into cells. The compound appears to have anti-inflammatory effects and has previously been associated with a reduction in Alzheimer’s symptoms.
+
+A team co-led by scientists at Scripps Research has found evidence that a compound contained in the medicinal and culinary herb rosemary could be a two-pronged weapon against the SARS-CoV-2 coronavirus that causes COVID-19.
+
+The scientists, in experiments described in a paper published January 6, 2022 in the journal Antioxidants, found that the compound, carnosic acid, can block the interaction between the SARS-CoV-2 outer “spike” protein and the receptor protein, ACE2, which the virus uses to gain entry to cells.
+
+The team also presented evidence, and reviewed evidence from prior studies, that carnosic acid has a separate effect in inhibiting a powerful inflammatory pathway—a pathway that is active in severe COVID-19 as well as in other diseases including Alzheimer’s. …

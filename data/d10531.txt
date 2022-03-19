@@ -1,0 +1,31 @@
+Scientists deliberately infected young, healthy volunteers with SARS-CoV-2, the that causes COVID-19 — and now, they've shared their first results from that experiment.
+
+The new study, published Tuesday (Feb. 1) in Springer Nature’s preprint database, , has not yet been peer reviewed, but it could provide insight into how mild COVID-19 unfolds, from the moment of exposure to the point that the virus is eliminated from the body.
+
+For the study, the researchers recruited 34 healthy volunteers ages 18 to 30; none of the participants had ever been infected with SARS-CoV-2 or received a COVID-19 vaccine, . All participants tested negative for antibodies against SARS-CoV-2 at the start of the study, the researchers noted in their report.
+
+After this screening process, each volunteer received a low dose of SARS-CoV-2 via drops delivered up the nose. These drops contained roughly the same amount of found in a single droplet of nasal fluid from a person infected with the novel coronavirus at the point when they're most infectious, the statement notes.
+
+Related: 20 of the worst epidemics and pandemics in history
+
+The version of SARS-CoV-2 used in the study predated the (or B.1.1.7, first detected in September 2020), but it differed from the original version of the virus in that it carried a called D614G. This mutation affects the spike protein, which the virus uses to infect cells, and is thought to increase the virus's transmissibility.
+
+After being exposed to the virus, 18 of the volunteers became infected, and of those, 16 developed mild to moderate symptoms, such as sore throat, headache, muscle and joint aches, fatigue and fever. Roughly a third (or 13) of the infected participants lost their sense of smell; for 10 of these people, their senses of smell returned to normal within three months, but the final three still experienced deficits at that point.
+
+Thankfully, "there were no severe symptoms or clinical concerns in our challenge infection model of healthy young adult participants," the trial's chief investigator, Dr. Christopher Chiu, an infectious-diseases physician and immunologist in the Department of Infectious Disease and the Institute of Infection at Imperial College London, said in the statement. For this reason, the study's results are most representative of mild infections rather than severe ones, he said.
+
+In the 18 infected participants, the average incubation period — the time period from initial exposure to first detection of the virus via tests — was 42 hours, the team reported. The researchers took swab samples from the participants' throats and noses twice a day and calculated the amount of viable, or infectious, virus present using PCR tests and laboratory assays.
+
+They found that the amount of virus in the participants quickly increased following the incubation period. The virus could be detected in the throat first, about 40 hours after exposure, and then the nose, about 58 hours after exposure.
+
+On average, the participants' viral loads peaked five days after their initial exposure. Viral levels in the throat generally remained lower than those in the nose and also peaked sooner, the team reported. Notably, all of the infected participants showed similar viral loads, regardless of their symptoms, according to The Guardian .
+
+Lateral flow tests — a type of rapid COVID-19 test — reliably detected the virus throughout the course of infection but were slightly less sensitive at the start and end of infection, when viral loads are relatively low. In other words, the tests were less likely to detect the virus at low levels, meaning there was a greater likelihood of "false negative" results at those times.
+
+"We found that overall, lateral flow tests correlate very well with the presence of infectious virus" as confirmed by laboratory tests, Chiu said in the statement. "Even though in the first day or two they may be less sensitive, if you use them correctly and repeatedly, and act on them if they read positive, this will have a major impact on interrupting viral spread."
+
+Looking forward, the team plans to investigate why some participants did not become infected with SARS-CoV-2, while others did; they also plan to run a similar challenge trial with the delta variant. (They did not note if they also plan to pursue a trial using omicron.)
+
+"While there are differences in transmissibility due to the emergence of variants, such as delta and omicron, fundamentally, this is the same disease, and the same factors will be responsible for protection against it," Chiu said.
+
+"From the point of view of virus transmission related to the very high viral loads, we are likely if anything to be underestimating infectivity because we were using an older strain of the virus," he said. "With a newer strain, there might be differences in terms of size of response, but ultimately, we expect our study to be fundamentally representative of this kind of infection."
