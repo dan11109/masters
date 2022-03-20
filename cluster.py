@@ -34,4 +34,5 @@ for i in range(len(clustering.labels_)):
 			clusters[temp] = [stored_order[i]]
 
 
-print(clusters)
+with open('clusters.pkl', 'wb') as outp:
+    pickle.dump(clusters, outp, pickle.HIGHEST_PROTOCOL)
