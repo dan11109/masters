@@ -1,6 +1,17 @@
 
 import urllib.request, json 
 import math
+import re
+from collections import Counter
+from build_index import Index
+from scipy import spatial
+import pickle
+from bert.sentenceTransformers.sentence_transformers import SentenceTransformer
+model = SentenceTransformer('all-MiniLM-L6-v2')
+
+query_doc = "d1.txt"
+query_doc1 = query_doc[:-4]
+
 
 
 #f = open('data/rpi_school.json')
@@ -60,6 +71,24 @@ with open('data/info.json', 'w') as outfile:
 
 
 f.close()
+
+
+## read data into pickle file
+inn=Index()
+inn.retrieve_file()
+inn.tok_lem_stem(type_op='lemmatize')
+inn.inverted_index_constr()
+inn.calculate_tf_idf(test_file=query_doc)
+inn.tfidf_of_query(query_doc1)
+
+with open('all_data.pkl', 'wb') as outp:
+    
+    pickle.dump(inn, outp, pickle.HIGHEST_PROTOCOL)
+
+
+
+
+
 
 
 
