@@ -54,13 +54,17 @@ dists = []
 
 for i in clusters.keys():
 	clust = clusters[i]
-
+	dists.append([])
 	for pt in clust:
-		if(stored_order[pt] != centers[i]):
-			print(stored_order[pt])
-			break
+		if(pt != centers[i]):
+			dists[i].append(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt) )
+			
 
-	break
+for d in dists:
+	print()
+	for i in d:
+		print(str(i[0]) + ' ' + str(i[1]))
+
 
 
 
