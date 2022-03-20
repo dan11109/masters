@@ -1,7 +1,0 @@
-PURPOSE: Pomegranate peels are rich in anthocyanins. The present study aimed to explore the beneficial effects of pomegranate peel anthocyanins (PPA) on obesity and gut microbiota in mice with high-fat diet (HFD)-induced obesity.
-
-METHODS: Specific pathogen-free (SPF) male C57BL/6 J mice were randomly divided into three groups and fed with low-fat diet (LFD, 10% fat energy), HFD (45% fat energy), or HFD supplemented with PPA by intragastric administration for 15 weeks. Body weight and food intake were monitored weekly. The obesity-related biochemical indexes and hepatic gene expression levels were determined. The compositions of the gut microbiota were analyzed by 16S rRNA sequencing, and the association between the gut microbiota and obesity-related indicators was investigated by Spearman correlation analysis.
-
-RESULTS: The results showed that the body weight gain, steatosis scores and insulin resistance index in the PPA group decreased by 27.46%, 56.25%, and 46.07%, respectively, compared to the HFD group. Gene expression analysis indicated that PPA supplement improved the genes expression profiles involved in glucose and lipid metabolism compared with the mice fed HFD alone. Meanwhile, PPA significantly changed the composition of the gut microbiota, which were closely correlated with the obesity-related biomarkers.
-
-CONCLUSION: This study suggested that PPA could be a beneficial treatment option for alleviating HFD-induced obesity and related metabolic disorders by targeting microbiota and lipid metabolism.

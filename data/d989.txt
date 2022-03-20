@@ -1,5 +1,0 @@
-WASHINGTON (Reuters) – Tesla Inc will recall 53,822 U.S. vehicles with the company’s Full Self-Driving (Beta) software that may allow some models to conduct “rolling stops” and not come to a complete stop at some intersections posing a safety risk.
-
-The National Highway Traffic Safety Administration (NHTSA) said the recall covers some 2016-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles. NHTSA said the feature may allow vehicles to travel through an all-way stop intersection without first coming to a stop.
-
-Tesla will perform an over-the-air software update that disables the “rolling stop” functionality, NHTSA said. Tesla did not immediately comment.

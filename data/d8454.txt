@@ -1,9 +1,0 @@
-BACKGROUND: Oxidative stress is related to many chronic diseases such as type 2 diabetes, cancers, hypertension, and heart diseases. Antioxidant activity of pomegranate due to high content of polyphenols, flavonoids, and several other types of antioxidant compounds has been of interest; however, the findings on its antioxidant effects are inconsistent.
-
-OBJECTIVE: To assess the effects of pomegranate consumption on multiple oxidative stress biomarkers using a systematic review and meta-analysis of randomized controlled clinical trials (RCTs).
-
-METHODS: A comprehensive electronic search on PubMed, Scopus, ISI Web of Science, and Google Scholar was conducted up to May 2021. The risk of bias assessment was evaluated by Cochrane Collaboration's tool and a random-effects model was used to estimate the pooled effect size of the included studies.
-
-RESULTS: Our search identified 1692 studies, of which 21 were entered in the final analysis. The results showed that the consumption of pomegranate compared with the control group was associated with a significant elevation in the levels of TAC [SMD = 0.72, 95% confidence interval (CI): 0.42, 1.02, P
-
-CONCLUSIONS: The present meta-analysis provides evidence that pomegranate can effectively improve some oxidative stress factors. Nevertheless, well-designed RCTs are recommended to validate these findings.

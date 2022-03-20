@@ -1,9 +1,0 @@
-Microsoft Lists is now available as a free preview to users with personal Microsoft accounts — but only for the first 200,000 people who sign up to try it. Lists, which is a sort of task management meets to-do list app, has only been available to business and enterprise users up until now.
-
-Microsoft says the preview is built off “the core of Microsoft Lists,” and comes with some new features, including tabbed views and the ability to add images in-line. The preview isn’t a feature-complete version of Lists, unfortunately, as Microsoft mentions that it’s missing some functionalities of the standard app (although it’s not clear exactly what). It’s also not available on the iOS or Android app yet.
-
-If you do decide to try out the preview, keep in mind that there are some limitations on storage — rather generous ones, at least. You can create up to 50 lists with a limit of up to 2,000 items per list and can upload up to 200MB worth of videos, files, and images to each list.
-
-First launched in 2020, Lists is still a fairly new product — at its core, it essentially lets users create, manage, and share various lists across devices and with colleagues. It offers ready-made templates (like most of Microsoft’s products) for several different needs, such as some for an event itinerary, asset manager, onboarding checklist, and more.
-
-And if you already use other task management apps, like Asana and Airtable, you’ll probably be familiar with Lists’ feature that lets you swap between a calendar, grid, and custom layout while viewing your project. For businesses, I could see how Lists might come in handy for work-related tasks, like keeping track of potential job candidates or managing content on a website. But for the rest of us, it might be a handy tool for managing a book club, organizing recipes, or keeping track of our job applications.

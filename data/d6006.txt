@@ -1,3 +1,0 @@
-VISION: The James Webb Space Telescope will map the atmosphere of exoplanets.
-
-I remember back in the ’70s when Jerry Pournelle was writing about space-based telescopes that could map the cloud patterns on planets around other stars. Now we have one of those.
