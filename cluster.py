@@ -13,7 +13,7 @@ from scipy import spatial
 # ssh steved7@acidburn.cs.rpi.edu
 
 f = open('data/info.json')
-	info = json.load(f)
+info = json.load(f)
 
 with open('all_data.pkl', 'rb') as inp:
     inn = pickle.load(inp)
