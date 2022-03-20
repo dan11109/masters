@@ -62,7 +62,7 @@ for word in inn.doc_sim_score.keys(): #sorted(inn.doc_sim_score.keys()):
 		else:
 			tfidf[doc[0]]= [doc[1]]
 
-				
+
 
 centers = [0] * len(clusters.keys())
 
@@ -86,8 +86,10 @@ for i in clusters.keys():
 
 for d in dists:
 	print()
+	print("For center: " + str())
+	print("Count: " + str(len(d)))
 	for i in d:
-		print(str(i[0]) + ' ' + str(i[1]))
+		print('\t' + str(i[0]) + ' ' + str(i[1]))
 
 
 
