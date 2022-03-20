@@ -1,9 +1,0 @@
-Background: Actinic keratoses (AKs) are sun-induced cutaneous lesions that may progress to squamous cell carcinoma (SCC). Photodynamic therapy (PDT) is an ideal treatment option for AKs because it allows for treatment of field cancerization, selective destruction of diseased tissue, good cosmetic outcomes, and limited downtime.
-
-Objectives: This study sought to determine the efficacy and safety of pretreating AKs of the dorsal hands and forearms with adapalene gel, an inexpensive and over-the-counter retinoid, prior to debridement of the target area and PDT with aminolevulinic hydrochloride acid (ALA, 10%) gel and narrowband red light.
-
-Methods: Fifteen patients with AK lesions of the right or left dorsal hands or forearms were pretreated with adapalene gel (0.1%) twice daily for one week prior to ALA-PDT. The other hand or forearm was treated with ALA-PDT (standard therapy), but not pretreated. For PDT, all treated areas were debrided with sandpaper, degreased with acetone, incubated for one hour with 10% ALA gel under occlusion, and illuminated with narrowband red light (~635 nm). All patients experienced one PDT treatment session.
-
-Results: Eight weeks after treatment, 12 subjects in the adapalene-pretreated group achieved 50% to 100% clearance compared to 10 subjects in the standard therapy group. The median lesion count reduction in the adapalene-pretreated group was -79% compared to -57% in the standard therapy group, and this difference was significant (=0.0164). The treatment was well-tolerated and the level of patient satisfaction was high.
-
-Conclusions: Pretreatment with adapalene gel twice daily for one week may enhance efficacy in a single ALA-PDT treatment of AK lesions of the dorsal hand or forearm.

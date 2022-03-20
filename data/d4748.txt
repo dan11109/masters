@@ -1,5 +1,0 @@
-Netflix has finally added the option for users to manually delete shows and movies from their “Continue Watching” row. That means you can finally get rid of the half-finished documentaries that you gave up on or binge-watched TV shows that you never quite got around to finishing that haunt the row of Netflix’s user interface.
-
-The new feature is already out on Netflix’s web, mobile, and TV apps. To remove a show or movie, all you have to do is select the offending card in the row and scroll down to the new “Remove from Continue Watching” option to clear it. Clicking a second time will quickly undo the removal, in the event you accidentally remove that octopus documentary that you’ve been really, truly meaning to get around to watching one of these days.
-
-While the update isn’t the most monumental change to Netflix’s UI, the Continue Watching row does hold an important place in the streaming site’s design: it’s one of the first things that users see when they open up Netflix on their phones or TVs. So giving everyone just a little bit more control and curation over what actually shows up in that row is a welcome addition.

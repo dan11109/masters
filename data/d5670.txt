@@ -1,5 +1,0 @@
-Look through yesterday's political donation data for 2020-21 and you'll see a common type of number. They're curiously exact figures without any clear reason: $55,000; $22,000; $27,500; $16,500; $11,000; $33,000. They crop up over and over again.
-
-Donors reported about 1600 donations and other contributions to political parties during the year: $33,000 pops up 10 times; $27,500 35 times; $16,500 13 times; $11,000 43 times; $22,000 17 times; $55,000 14 times. Even $13,200 is there a few times.
-
-What do they all have in common? They're easily divisible by 11. In other words, they're the result of adding 10% to a nice round number. And they all demonstrate that we live in a two-speed democracy, where one set of people -- political donors -- get far more of a say than the rest of us.

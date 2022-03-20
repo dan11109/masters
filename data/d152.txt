@@ -1,1 +1,0 @@
-In research funded by the firm (which is yet to be peer-reviewed), Prof George Oikonomou and his team compared mobility scores for cattle made by two human experts with those made by CattleEye. They found that the technology was roughly 80-90% in agreement with the two experts - in terms of judging which animals were lame.

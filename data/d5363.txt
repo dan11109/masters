@@ -1,1 +1,0 @@
-But for Diem’s Stuart Levey, the technology it developed addressed many key concerns that have emerged as cryptocurrencies have taken off: “One of our highest priorities in designing the Diem Payment Network was building in controls to protect it against misuse by illicit actors.

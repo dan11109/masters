@@ -1,5 +1,0 @@
-MOSCOW, February 2. /TASS/. The Yandex.Routing logistical platform started operations in the UAE, press service of the Russian technology company told TASS.
-
-"Yandex.Routing, the platform to manage logistics on the last mile, started operations in the UAE. Retailers in the region will be able to plan routes automatically with consideration of 200 operating parameters and constraints, including specific features of the local address system, where exact addresses of recipients are not known," the company said.
-
-The automatic route planning technology enables optimal distribution of orders among couriers and find the best route for each one, Yandex said. The platform provides an opportunity of developing routes subject to cargo dimensions, transport capacity, permissible delivery time and throughput capacity of warehouses.

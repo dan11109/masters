@@ -1,9 +1,0 @@
-BACKGROUND: St John's Wort (Hypericum perforatum, SJW) is widely used to treat postpartum depression (PPD) because of its high safety. Hypericin (HY) is the main effective component of SJW. The physiological roles of NLRP3 inflammasome activation and glucocorticoid metabolism are closely linked to depression. But, it remains elusive whether HY relieve PPD through targeting NLRP3 inflammasome activation or other mechanism. This study aimed to clarify the therapeutic effects of HY on PPD model rats and its underlying mechanisms in vivo.
-
-METHODS: hormone-simulated pregnancy model was used, and behavioral tests was used to assess depressive state. Inflammatory factors in serum were tested by Enzyme-linked immunosorbent assay.
-
-RESULTS: Changes in the classic behavioral tests reflected that HY could alleviate the symptoms of PPD as effective as fluoxetine (FLU). Both of HY and FLU could significantly inhibit the protein expression of NLRP3, caspase-1 in hypothalamus and decrease the levels of inflammatory factors (IL-6, IL-1β, TNF - α) in serum. For hormone level determination, HY can not only significantly reduce the level of CORT, but also reverse the activity of 11β - HSD2 enzyme, which is different from FLU.
-
-LIMITATIONS: More experiments will be needed to verify the target of HY.
-
-CONCLUSION: All those data suggest that HY can effectively relieve PPD by reversing glucocorticoid metabolism, increasing ER expression, and then relieve neuroinflammation.
