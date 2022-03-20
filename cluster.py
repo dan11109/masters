@@ -12,8 +12,8 @@ from scipy import spatial
 
 # ssh steved7@acidburn.cs.rpi.edu
 
-#with open('all_data.pkl', 'rb') as inp:
-#    inn = pickle.load(inp)
+with open('all_data.pkl', 'rb') as inp:
+    inn = pickle.load(inp)
 
 with open('embeddings.pkl', "rb") as fIn:
 	    stored_data = pickle.load(fIn)
@@ -42,10 +42,7 @@ for i in range(len(clustering.labels_)):
 			clusters[temp] = [stored_order[i]]
 
 
-for i in clusters.keys():
-	print(len(clusters[i]))
-	print(i)
-	print()
+
 
 
 #store 
@@ -80,7 +77,16 @@ for i in clusters.keys():
 			centers[i] = stored_order[p]
 			break
 
-	
+
+clust = clusters[0]
+for pt in clust:
+	if(pt != centers[0]):
+		print(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[0]])), pt) )
+
+
+
+
+
 dists = [[]] * len(clusters.keys())
 
 for i in clusters.keys():
@@ -89,6 +95,7 @@ for i in clusters.keys():
 	for pt in clust:
 		if(pt != centers[i]):
 			dists[i].append(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt) )
+
 			
 '''
 for d in dists:
