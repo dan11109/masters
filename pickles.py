@@ -9,18 +9,17 @@ import pickle
 from bert.sentenceTransformers.sentence_transformers import SentenceTransformer
 #model = SentenceTransformer('all-MiniLM-L6-v2')
 
-query_doc = "d1.txt"
-query_doc1 = query_doc[:-4]
+
 
 
 
 
 
 with open('all_data.pkl', 'rb') as inp:
-    temp1 = pickle.load(inp)
+    inn = pickle.load(inp)
     
 
-    
+print(inn.all_words)
 
 
 
