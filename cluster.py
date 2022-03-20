@@ -12,6 +12,8 @@ from scipy import spatial
 
 # ssh steved7@acidburn.cs.rpi.edu
 
+with open('all_data.pkl', 'rb') as inp:
+    inn = pickle.load(inp)
 
 with open('embeddings.pkl', "rb") as fIn:
 	    stored_data = pickle.load(fIn)
@@ -39,11 +41,28 @@ for i in range(len(clustering.labels_)):
 		else:
 			clusters[temp] = [stored_order[i]]
 
-
+#store 
 #with open('clusters.pkl', 'wb') as outp:
 #    pickle.dump(clusters, outp, pickle.HIGHEST_PROTOCOL)
 
+tfidf = {}
+	for word in inn.doc_sim_score.keys(): #sorted(inn.doc_sim_score.keys()):
+		
+		count = 0
+		for doc in inn.doc_sim_score[word]:
+			if(doc[1] != 0):
+				count += 1
 
+		if(count <= 1): #filter out 
+			continue
+
+		for doc in inn.doc_sim_score[word]:
+			if(doc[0] in tfidf.keys()): 
+				tfidf[doc[0]].append(doc[1])
+			else:
+				tfidf[doc[0]]= [doc[1]]
+
+				
 
 centers = [0] * len(clusters.keys())
 
