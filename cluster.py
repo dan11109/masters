@@ -77,12 +77,13 @@ for i in clusters.keys():
 			centers[i] = stored_order[p]
 			break
 
-
+counter = 0
 clust = clusters[3]
 for pt in clust:
 	if(pt != centers[3]):
+		counter+= 1
 		print(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[3]])), pt) )
-
+print(couter)
 
 
 
