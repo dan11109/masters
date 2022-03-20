@@ -3,6 +3,11 @@ from sklearn.cluster import DBSCAN
 import numpy as np
 import json 
 import pickle
+import math
+import re
+from collections import Counter
+from build_index import Index
+from scipy import spatial
 
 
 # ssh steved7@acidburn.cs.rpi.edu
