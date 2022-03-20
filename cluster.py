@@ -76,7 +76,7 @@ for i in clusters.keys():
 		if(stored_order[p] in clusters[i]):
 			centers[i] = stored_order[p]
 			break
-
+'''
 counter = 0
 clust = clusters[3]
 for pt in clust:
@@ -85,7 +85,7 @@ for pt in clust:
 		print(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[3]])), pt) )
 print(couter)
 
-
+'''
 
 
 dists = [[]] * len(clusters.keys())
@@ -98,14 +98,16 @@ for i in clusters.keys():
 			dists[i].append(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt) )
 
 			
-'''
+
 for d in dists:
+	print(len(d))
+	'''
 	print()
 	print("For center: " + str())
 	print("Count: " + str(len(d)))
 	for i in d:
 		print('\t' + str(i[0]) + ' ' + str(i[1]))
 
-'''
+	'''
 
 
