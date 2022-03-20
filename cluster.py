@@ -50,9 +50,17 @@ for i in clusters.keys():
 			break
 
 	
-print(centers)
+dists = []
 
+for i in clusters.keys():
+	clust = clusters[i]
 
+	for pt in clust:
+		if(stored_order[pt] != centers[i]):
+			print(stored_order[pt])
+			break
+
+	break
 
 
 
