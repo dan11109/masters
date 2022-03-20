@@ -25,12 +25,13 @@ print(np.count_nonzero(clustering.labels_ == -1))
 
 clusters = {}
 
-for i in clustering.labels_:
-	if(i != -1):
-		if(i in clusters.keys()):
-			clusters[i] += 1
+for i in range(len(clustering.labels_)):
+	temp = clustering.labels_[i]
+	if(temp != -1):
+		if(temp in clusters.keys()):
+			clusters[temp].append(stored_order[i])
 		else:
-			clusters[i] = 1
+			clusters[temp] = [stored_order[i]]
 
 
 print(clusters)
