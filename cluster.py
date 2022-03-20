@@ -21,8 +21,8 @@ lst = clustering.labels_
 
 #print(clustering.labels_)
 #print(max(clustering.labels_))
-#print(np.count_nonzero(clustering.labels_ == -1))
-print( clustering.core_sample_indices_ )
+print(np.count_nonzero(clustering.labels_ == -1))
+print( np.count_nonzero(clustering.core_sample_indices_ == -1))
 
 clusters = {}
 
