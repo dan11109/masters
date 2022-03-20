@@ -12,6 +12,9 @@ from scipy import spatial
 
 # ssh steved7@acidburn.cs.rpi.edu
 
+f = open('data/info.json')
+	info = json.load(f)
+
 with open('all_data.pkl', 'rb') as inp:
     inn = pickle.load(inp)
 
@@ -76,16 +79,6 @@ for i in clusters.keys():
 		if(stored_order[p] in clusters[i]):
 			centers[i] = stored_order[p]
 			break
-'''
-counter = 0
-clust = clusters[3]
-for pt in clust:
-	if(pt != centers[3]):
-		counter+= 1
-		print(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[3]])), pt) )
-print(couter)
-
-'''
 
 
 dists = {}
@@ -101,13 +94,56 @@ for i in clusters.keys():
 				dists[i] = [((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt)]
 			
 
+
+
+
+
+
+'''
 for j in dists.keys():
 	d = dists[j]
 	print()
-	print("For center: " + str())
+	print("For center: " + str(centers[j]))
 	print("Count: " + str(len(d)))
 	for i in sorted(d,reverse = True):
 		print('\t' + str(i[0]) + ' ' + str(i[1]))
+'''
+
+
+file = open("outClust.html","w")
+file.write("<br />\n")
+
+for j in dists.keys():
+	d = dists[j]
+	file.write("<br />\n")
+	file.write("For center: ")
+	file.write(info[centers[j]]['title'])
+	file.write("<br />\n")
+	file.write(info[centers[j]]['url'])
+	file.write("<br />\n")
+	file.write('<a href="' + info[centers[j]]['url'] + '"> Link </a>')
+	file.write("<br />\n")
+	file.write("Count: " + str(len(d)))
+	file.write("<br />\n")
+	file.write("<br />\n")
+	for i in sorted(d,reverse = True):
+
+		file.write('Cos score: ' + str(i[0]))
+		file.write("<br />\n")
+		file.write(info[i[1]]['title'])
+		file.write("<br />\n")
+		file.write(info[i[1]]['url'])
+		file.write("<br />\n")
+		file.write('<a href="' + info[i[1]]['url'] + '"> Link </a>')
+		file.write("<br />\n")
+		file.write("<br />\n")
+		#print('\t' + str(i[0]) + ' ' + str(i[1]))
+
+
+file.close()
+
+
+
 
 
 
