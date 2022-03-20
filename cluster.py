@@ -23,7 +23,10 @@ with open('embeddings.pkl', "rb") as fIn:
 
 clustering = DBSCAN(eps=.8, min_samples=10).fit(stored_embeddings)
 
+
+lst = clustering.labels_
+
 print(clustering.labels_)
 print(max(clustering.labels_))
-print(clustering.labels_.count(-1))
+print(np.count_nonzero(clustering.labels_ == 1))
 
