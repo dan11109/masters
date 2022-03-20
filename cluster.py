@@ -46,21 +46,21 @@ for i in range(len(clustering.labels_)):
 #    pickle.dump(clusters, outp, pickle.HIGHEST_PROTOCOL)
 
 tfidf = {}
-	for word in inn.doc_sim_score.keys(): #sorted(inn.doc_sim_score.keys()):
-		
-		count = 0
-		for doc in inn.doc_sim_score[word]:
-			if(doc[1] != 0):
-				count += 1
+for word in inn.doc_sim_score.keys(): #sorted(inn.doc_sim_score.keys()):
+	
+	count = 0
+	for doc in inn.doc_sim_score[word]:
+		if(doc[1] != 0):
+			count += 1
 
-		if(count <= 1): #filter out 
-			continue
+	if(count <= 1): #filter out 
+		continue
 
-		for doc in inn.doc_sim_score[word]:
-			if(doc[0] in tfidf.keys()): 
-				tfidf[doc[0]].append(doc[1])
-			else:
-				tfidf[doc[0]]= [doc[1]]
+	for doc in inn.doc_sim_score[word]:
+		if(doc[0] in tfidf.keys()): 
+			tfidf[doc[0]].append(doc[1])
+		else:
+			tfidf[doc[0]]= [doc[1]]
 
 				
 
