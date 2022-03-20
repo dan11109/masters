@@ -25,5 +25,5 @@ clustering = DBSCAN(eps=.8, min_samples=10).fit(stored_embeddings)
 
 print(clustering.labels_)
 print(max(clustering.labels_))
-
+print(clustering.labels_.count(-1))
 
