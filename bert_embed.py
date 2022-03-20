@@ -13,13 +13,17 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 query_doc = "d1.txt"
 query_doc1 = query_doc[:-4]
 
+'''
 inn=Index()
 inn.retrieve_file()
 inn.tok_lem_stem(type_op='lemmatize')
 inn.inverted_index_constr()
 inn.calculate_tf_idf(test_file=query_doc)
 inn.tfidf_of_query(query_doc1)
+'''
 
+with open('all_data.pkl', 'rb') as inp:
+    inn = pickle.load(inp)
 
 sentences = []
 order = []
