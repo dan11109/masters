@@ -50,11 +50,11 @@ for i in clusters.keys():
 			break
 
 	
-dists = []
+dists = [[]] * len(clusters.keys())
 
 for i in clusters.keys():
 	clust = clusters[i]
-	dists.append([])
+	
 	for pt in clust:
 		if(pt != centers[i]):
 			dists[i].append(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt) )
