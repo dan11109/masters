@@ -19,9 +19,10 @@ clustering = DBSCAN(eps=.83, min_samples=10).fit(stored_embeddings)
 
 lst = clustering.labels_
 
-print(clustering.labels_)
-print(max(clustering.labels_))
-print(np.count_nonzero(clustering.labels_ == -1))
+#print(clustering.labels_)
+#print(max(clustering.labels_))
+#print(np.count_nonzero(clustering.labels_ == -1))
+print( clustering.core_sample_indices_ )
 
 clusters = {}
 
