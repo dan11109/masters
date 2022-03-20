@@ -88,26 +88,27 @@ print(couter)
 '''
 
 
-dists = [[]] * len(clusters.keys())
+dists = {}
 
 for i in clusters.keys():
 	clust = clusters[i]
 	
 	for pt in clust:
 		if(pt != centers[i]):
-			dists[i].append(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt) )
-
+			if(i in dists.keys()):
+				dists[i].append(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt) )
+			else:
+				dists[i] = [((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt)]
 			
 
-for d in dists:
-	print(len(d))
-	'''
+for j in dists.keys():
+	d = dists[j]
 	print()
 	print("For center: " + str())
 	print("Count: " + str(len(d)))
 	for i in d:
 		print('\t' + str(i[0]) + ' ' + str(i[1]))
 
-	'''
+
 
 
