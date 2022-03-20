@@ -21,8 +21,8 @@ lst = clustering.labels_
 
 #print(clustering.labels_)
 #print(max(clustering.labels_))
-print(np.count_nonzero(clustering.labels_ == -1))
-print( np.count_nonzero(clustering.core_sample_indices_ != -1))
+#print(np.count_nonzero(clustering.labels_ == -1))
+#print( np.count_nonzero(clustering.core_sample_indices_ != -1))
 
 clusters = {}
 
@@ -35,5 +35,24 @@ for i in range(len(clustering.labels_)):
 			clusters[temp] = [stored_order[i]]
 
 
-with open('clusters.pkl', 'wb') as outp:
-    pickle.dump(clusters, outp, pickle.HIGHEST_PROTOCOL)
+#with open('clusters.pkl', 'wb') as outp:
+#    pickle.dump(clusters, outp, pickle.HIGHEST_PROTOCOL)
+
+
+
+centers = [0] * len(clusters.keys())
+
+for i in clusters.keys():
+
+	for p in clustering.core_sample_indices_:
+		if(stored_order[p] in clusters[i]):
+			centers[i] = stored_order[p]
+			break
+
+	
+print(centers)
+
+
+
+
+
