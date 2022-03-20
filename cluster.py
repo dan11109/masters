@@ -106,7 +106,7 @@ for j in dists.keys():
 	print()
 	print("For center: " + str())
 	print("Count: " + str(len(d)))
-	for i in d:
+	for i in sorted(d,reverse = True):
 		print('\t' + str(i[0]) + ' ' + str(i[1]))
 
 
