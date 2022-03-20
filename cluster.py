@@ -78,10 +78,10 @@ for i in clusters.keys():
 			break
 
 
-clust = clusters[0]
+clust = clusters[3]
 for pt in clust:
-	if(pt != centers[0]):
-		print(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[0]])), pt) )
+	if(pt != centers[3]):
+		print(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[3]])), pt) )
 
 
 
