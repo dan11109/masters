@@ -5,7 +5,7 @@ import math
 
 #f = open('data/rpi_school.json')
 #f = open('data/dec2020.json')
-f = open('2022-02-01to03.json')
+f = open('data/2022-02-01to03.json')
 
 data = json.load(f)
 
