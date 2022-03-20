@@ -5,14 +5,7 @@ import json
 import pickle
 
 
-#X = np.array([[1, 2], [2, 2], [2, 3], [8, 7], [8, 8], [25, 80]])
-#clustering = DBSCAN(eps=10, min_samples=2).fit(X)
-
-#print(clustering.labels_)
-
-#print(clustering.n_features_in_)
-#print(clustering.components_)
-#print(clustering.core_sample_indices_)
+# ssh steved7@acidburn.cs.rpi.edu
 
 
 with open('embeddings.pkl', "rb") as fIn:
@@ -30,3 +23,14 @@ print(clustering.labels_)
 print(max(clustering.labels_))
 print(np.count_nonzero(clustering.labels_ == -1))
 
+clusters = {}
+
+for i in clustering.labels_:
+	if(i != -1):
+		if(i in clusters.keys()):
+			clusters[i] += 1
+		else:
+			clusters[i] = 1
+
+
+print(clusters)
