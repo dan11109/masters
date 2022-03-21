@@ -127,6 +127,9 @@ for j in dists.keys():
 	file.write("<br />\n")
 	file.write("<br />\n")
 	for i in sorted(d,reverse = True):
+		
+		if(i[0] < 0.35):
+			continue
 
 		file.write(str(j) + ': Cos score: ' + str(i[0]))
 		file.write("<br />\n")
