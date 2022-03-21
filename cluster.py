@@ -116,7 +116,7 @@ file.write("<br />\n")
 for j in dists.keys():
 	d = dists[j]
 	file.write("<br />\n")
-	file.write("Center "+j+": ")
+	file.write("Center "+ centers[j] +": ")
 	file.write(info[centers[j]]['title'])
 	file.write("<br />\n")
 	file.write(info[centers[j]]['url'])
