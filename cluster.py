@@ -128,9 +128,9 @@ for j in dists.keys():
 	file.write("<br />\n")
 	for i in sorted(d,reverse = True):
 
-		file.write('Cos score: ' + str(i[0]))
+		file.write(str(j) + ': Cos score: ' + str(i[0]))
 		file.write("<br />\n")
-		file.write(info[i[1]]['title'])
+		file.write(str(i[0]) + ': ' + info[i[1]]['title'])
 		file.write("<br />\n")
 		file.write(info[i[1]]['url'])
 		file.write("<br />\n")
