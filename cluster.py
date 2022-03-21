@@ -116,7 +116,7 @@ file.write("<br />\n")
 for j in dists.keys():
 	d = dists[j]
 	file.write("<br />\n")
-	file.write("For center: ")
+	file.write("Center "+j+": ")
 	file.write(info[centers[j]]['title'])
 	file.write("<br />\n")
 	file.write(info[centers[j]]['url'])
@@ -130,7 +130,7 @@ for j in dists.keys():
 
 		file.write(str(j) + ': Cos score: ' + str(i[0]))
 		file.write("<br />\n")
-		file.write(str(i[0]) + ': ' + info[i[1]]['title'])
+		file.write(str(i[1]) + ': ' + info[i[1]]['title'])
 		file.write("<br />\n")
 		file.write(info[i[1]]['url'])
 		file.write("<br />\n")
