@@ -21,7 +21,7 @@ f = open('data/2022-02-01to03.json')
 data = json.load(f)
 
 
-n = 200#00##math.inf; #100
+n = 2000 ##math.inf; #100
 
 files = 'd.txt' # 'data/d.txt'
 number = 1
@@ -39,7 +39,7 @@ while(True):
         if(len(art['content']) < 500): #filter out small articles 
             continue
 
-        if(len(art['title']) > 125): #filter out small articles 
+        if(len(art['title']) > 120): #filter out small articles 
             continue
 
         size_cont += len(art['content'])
@@ -78,7 +78,7 @@ while(True):
 print(size_cont/n)
 print(size_tit/n)
 
-'''
+
 
 # Serializing json 
 json_object = json.dumps(title_url, indent = 4)
@@ -102,11 +102,6 @@ inn.tfidf_of_query(query_doc1)
 with open('all_data.pkl', 'wb') as outp:
     
     pickle.dump(inn, outp, pickle.HIGHEST_PROTOCOL)
-
-
-
-
-'''
 
 
 
