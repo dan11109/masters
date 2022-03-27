@@ -92,7 +92,7 @@ for i in clusters.keys():
 				d[(cent,tmp[j])] = dist
 				tmp.pop(j)
 			else:
-				j++
+				j+=1
 
 
 for i in d.keys():
