@@ -5,6 +5,7 @@ import json
 import pickle
 import math
 import re
+import random
 from collections import Counter
 from build_index import Index
 from scipy import spatial
@@ -15,8 +16,8 @@ from scipy import spatial
 f = open('data/info.json')
 info = json.load(f)
 
-#with open('all_data.pkl', 'rb') as inp:
-#    inn = pickle.load(inp)
+with open('all_data.pkl', 'rb') as inp:
+    inn = pickle.load(inp)
 
 with open('embeddings.pkl', "rb") as fIn:
 	    stored_data = pickle.load(fIn)
@@ -34,7 +35,7 @@ print(max(clustering.labels_))
 print(np.count_nonzero(clustering.labels_ == -1))
 print(np.count_nonzero(clustering.core_sample_indices_ != -1))
 	
-'''bbb
+
 
 clusters = {}
 
@@ -72,9 +73,39 @@ for word in inn.doc_sim_score.keys(): #sorted(inn.doc_sim_score.keys()):
 			tfidf[doc[0]]= [doc[1]]
 
 
+# [(d1,d1)] = cos#
+d = {}
+
+for i in clusters.keys():
+
+	tmp = clusters[i].copy()
+
+	while(len(tmp) > 1):
+
+		idx = random.randrange(0,len(tmp))
+		cent = tmp.pop(idx)
+		j = 0
+
+		while(j < len(tmp)):
+			dist = (1-spatial.distance.cosine(tfidf[cent], tfidf[tmp[j]] ))
+			if(dist > .68):
+				d[(cent,tmp[j])] = dist
+				tmp.pop(j)
+			else:
+				j++
+
+
+for i in d.keys():
+	print(i,end=': ')
+	print(d[i])
+			
+
+
+
+
+
 
 centers = [0] * len(clusters.keys())
-
 for i in clusters.keys():
 
 	for p in clustering.core_sample_indices_:
@@ -82,9 +113,7 @@ for i in clusters.keys():
 			centers[i] = stored_order[p]
 			break
 
-
 dists = {}
-
 for i in clusters.keys():
 	clust = clusters[i]
 	
@@ -96,8 +125,6 @@ for i in clusters.keys():
 				dists[i] = [((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt)]
 			
 
-bbb
-'''
 
 
 
@@ -111,7 +138,7 @@ for j in dists.keys():
 		print('\t' + str(i[0]) + ' ' + str(i[1]))
 '''
 
-'''bbb
+
 
 file = open("outClust.html","w")
 file.write("<br />\n")
@@ -149,7 +176,7 @@ for j in dists.keys():
 file.close()
 
 
-bbb'''
+
 
 
 
