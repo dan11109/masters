@@ -24,7 +24,7 @@ with open('embeddings.pkl', "rb") as fIn:
 	    stored_embeddings = stored_data['embeddings']
 
 
-clustering = DBSCAN(eps=.30, min_samples=10, metric='cosine').fit(stored_embeddings)
+clustering = DBSCAN(eps=.80, min_samples=10, metric='cosine').fit(stored_embeddings)
 
 
 lst = clustering.labels_
@@ -32,7 +32,7 @@ lst = clustering.labels_
 #print(clustering.labels_)
 print(max(clustering.labels_))
 print(np.count_nonzero(clustering.labels_ == -1))
-print( np.count_nonzero(clustering.core_sample_indices_ != -1))
+print(np.count_nonzero(clustering.core_sample_indices_ != -1))
 	
 '''bbb
 
