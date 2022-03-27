@@ -15,8 +15,8 @@ from scipy import spatial
 f = open('data/info.json')
 info = json.load(f)
 
-with open('all_data.pkl', 'rb') as inp:
-    inn = pickle.load(inp)
+#with open('all_data.pkl', 'rb') as inp:
+#    inn = pickle.load(inp)
 
 with open('embeddings.pkl', "rb") as fIn:
 	    stored_data = pickle.load(fIn)
