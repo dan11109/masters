@@ -101,10 +101,40 @@ for i in d.keys():
 			
 
 
+file = open("outClust.html","w")
+file.write("<br />\n")
+
+for i in d.keys():
+	a = i[0]
+	b = i[1]
+
+	file.write(info[a]['title'])
+	file.write("<br />\n")
+	file.write(info[a]['url'])
+	file.write("<br />\n")
+	file.write('<a href="' + info[a]['url'] + '"> Link </a>')
+	file.write("<br />\n")
+	file.write(info[b]['title'])
+	file.write("<br />\n")
+	file.write(info[b]['url'])
+	file.write("<br />\n")
+	file.write('<a href="' + info[b]['url'] + '"> Link </a>')
+	file.write("<br />\n")
+	file.write('Cosine score: ' + str(d[i]))
+	file.write("<br />\n")
+	file.write("<br />\n")
+	
+
+
+file.close()
 
 
 
 
+
+
+'''
+# Old approach  
 centers = [0] * len(clusters.keys())
 for i in clusters.keys():
 
@@ -122,9 +152,8 @@ for i in clusters.keys():
 			if(i in dists.keys()):
 				dists[i].append(((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt) )
 			else:
-				dists[i] = [((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt)]
-			
-
+				dists[i] = [((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt)]		
+'''
 
 
 
@@ -139,7 +168,7 @@ for j in dists.keys():
 '''
 
 
-
+'''
 file = open("outClust.html","w")
 file.write("<br />\n")
 
@@ -174,7 +203,7 @@ for j in dists.keys():
 
 
 file.close()
-
+'''
 
 
 
