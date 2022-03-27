@@ -36,11 +36,11 @@ while(True):
 
     for art in data['results']:
 
-        #if(len(art['content'] < 500)): #filter out small articles 
-        #    continue
+        if(len(art['content'] < 500)): #filter out small articles 
+            continue
 
-        #if(len(art['title'] > 100)): #filter out small articles 
-        #    continue
+        if(len(art['title'] > 100)): #filter out small articles 
+            continue
 
         size_cont += len(art['content'])
         size_tit += len(art['title'])
