@@ -21,22 +21,29 @@ f = open('data/2022-02-01to03.json')
 data = json.load(f)
 
 
-n = 20#00##math.inf; #100
+n = 200#00##math.inf; #100
 
 files = 'd.txt' # 'data/d.txt'
 number = 1
 
 title_url = {}
 
+size_cont = 0
+size_tit = 0
+
+
 while(True):
 
     for art in data['results']:
 
-        if(len(art['content'] < 500)): #filter out small articles 
-            continue
+        #if(len(art['content'] < 500)): #filter out small articles 
+        #    continue
 
-        if(len(art['title'] > 100)): #filter out small articles 
-            continue
+        #if(len(art['title'] > 100)): #filter out small articles 
+        #    continue
+
+        size_cont += len(art['content'])
+        size_tit += len(art['title'])
 
         file = 'data/' + files[:1] + str(number) + files[1:]
 
@@ -68,6 +75,10 @@ while(True):
         data = json.loads(url.read().decode())
 
 
+print(size_cont/n)
+print(size_tit/n)
+
+'''
 
 # Serializing json 
 json_object = json.dumps(title_url, indent = 4)
@@ -95,7 +106,7 @@ with open('all_data.pkl', 'wb') as outp:
 
 
 
-
+'''
 
 
 
