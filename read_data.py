@@ -21,7 +21,7 @@ f = open('data/2022-02-01to03.json')
 data = json.load(f)
 
 
-n = 2000##math.inf; #100
+n = 20#00##math.inf; #100
 
 files = 'd.txt' # 'data/d.txt'
 number = 1
@@ -31,6 +31,12 @@ title_url = {}
 while(True):
 
     for art in data['results']:
+
+        if(len(art['content'] < 500)): #filter out small articles 
+            continue
+
+        if(len(art['title'] > 100)): #filter out small articles 
+            continue
 
         file = 'data/' + files[:1] + str(number) + files[1:]
 
@@ -47,6 +53,7 @@ while(True):
         title_url[files[:1] + str(number)]['title'] = art['title']
         
         number += 1
+
         if(number > n):
             break
 
