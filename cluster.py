@@ -24,15 +24,17 @@ with open('embeddings.pkl', "rb") as fIn:
 	    stored_embeddings = stored_data['embeddings']
 
 
-clustering = DBSCAN(eps=.83, min_samples=10).fit(stored_embeddings)
+clustering = DBSCAN(eps=.80, min_samples=10, metric='cosine').fit(stored_embeddings)
 
 
 lst = clustering.labels_
 
 #print(clustering.labels_)
-#print(max(clustering.labels_))
-#print(np.count_nonzero(clustering.labels_ == -1))
-#print( np.count_nonzero(clustering.core_sample_indices_ != -1))
+print(max(clustering.labels_))
+print(np.count_nonzero(clustering.labels_ == -1))
+print( np.count_nonzero(clustering.core_sample_indices_ != -1))
+	
+'''bbb
 
 clusters = {}
 
@@ -94,8 +96,8 @@ for i in clusters.keys():
 				dists[i] = [((1-spatial.distance.cosine(tfidf[pt], tfidf[centers[i]])), pt)]
 			
 
-
-
+bbb
+'''
 
 
 
@@ -109,6 +111,7 @@ for j in dists.keys():
 		print('\t' + str(i[0]) + ' ' + str(i[1]))
 '''
 
+'''bbb
 
 file = open("outClust.html","w")
 file.write("<br />\n")
@@ -127,8 +130,8 @@ for j in dists.keys():
 	file.write("<br />\n")
 	file.write("<br />\n")
 	for i in sorted(d,reverse = True):
-		
-		if(i[0] < 0.35):
+
+		if(i[0] < 0.30):
 			continue
 
 		file.write(str(j) + ': Cos score: ' + str(i[0]))
@@ -146,7 +149,7 @@ for j in dists.keys():
 file.close()
 
 
-
+bbb'''
 
 
 
