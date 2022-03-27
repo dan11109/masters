@@ -24,7 +24,7 @@ with open('embeddings.pkl', "rb") as fIn:
 	    stored_embeddings = stored_data['embeddings']
 
 
-clustering = DBSCAN(eps=.80, min_samples=10, metric='cosine').fit(stored_embeddings)
+clustering = DBSCAN(eps=.20, min_samples=10, metric='cosine').fit(stored_embeddings)
 
 
 lst = clustering.labels_
