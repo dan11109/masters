@@ -75,25 +75,31 @@ for word in inn.doc_sim_score.keys(): #sorted(inn.doc_sim_score.keys()):
 
 # [(d1,d1)] = cos#
 d = {}
+number = 0
 
 for i in clusters.keys():
 
 	tmp = clusters[i].copy()
-
 	while(len(tmp) > 1):
 
 		idx = random.randrange(0,len(tmp))
 		cent = tmp.pop(idx)
 		j = 0
-
+		first = True
 		while(j < len(tmp)):
 			dist = (1-spatial.distance.cosine(tfidf[cent], tfidf[tmp[j]] ))
-			if(dist > .68):
+			if(dist > .8):
 				d[(cent,tmp[j])] = dist
 				tmp.pop(j)
+				if(first):
+					number += 1
+				first = False
+				number+=1
+
 			else:
 				j+=1
 
+print("Number of articles flagged (cos): " + str(number))
 
 for i in d.keys():
 	print(i,end=': ')
