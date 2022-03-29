@@ -92,6 +92,7 @@ for word in inn.doc_sim_score.keys(): #sorted(inn.doc_sim_score.keys()):
 
 ##########COSINE##############
 # [(d1,d1)] = cos#
+set_cos = set()
 d = {}
 number = 0
 
@@ -109,7 +110,9 @@ for i in clusters.keys():
 			if(dist > .8):
 				d[(cent,tmp[j])] = dist
 				tmp.pop(j)
+				set_cos.add(tmp[j])
 				if(first):
+					set_cos.add(cent)
 					number += 1
 				first = False
 				number+=1
@@ -154,7 +157,7 @@ file.close()
 # [(d1,d1)] = cos#
 d = {}
 number = 0
-
+set_kl = set()
 for i in clusters.keys():
 
 	tmp = clusters[i].copy()
@@ -166,10 +169,12 @@ for i in clusters.keys():
 		first = True
 		while(j < len(tmp)):
 			dist = KL(tfidf[cent], tfidf[tmp[j]])
-			if(dist < .5):
+			if(dist < .8):
 				d[(cent,tmp[j])] = dist
 				tmp.pop(j)
+				set_kl.add(tmp[j])
 				if(first):
+					set_kl.add(cent)
 					number += 1
 				first = False
 				number+=1
@@ -178,6 +183,8 @@ for i in clusters.keys():
 				j+=1
 
 print("Number of articles flagged (kl): " + str(number))
+print("Number in commom KL and Cosine: " + str(len(set_cos.intersection(set_kl))))
+
 
 for i in d.keys():
 	print(i,end=': ')
