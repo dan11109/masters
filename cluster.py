@@ -168,7 +168,7 @@ for i in d.keys():
 	print(d[i])
 			
 
-file = open("outClustkl.html","w")
+file = open("outClustKL.html","w")
 file.write("<br />\n")
 
 for i in d.keys():
@@ -187,7 +187,7 @@ for i in d.keys():
 	file.write("<br />\n")
 	file.write('<a href="' + info[b]['url'] + '"> Link </a>')
 	file.write("<br />\n")
-	file.write('Cosine score: ' + str(d[i]))
+	file.write('KL score: ' + str(d[i]))
 	file.write("<br />\n")
 	file.write("<br />\n")
 	
