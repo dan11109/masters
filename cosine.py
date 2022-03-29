@@ -4,9 +4,29 @@ import re
 from collections import Counter
 from build_index import Index
 from scipy import spatial
+import numpy as np
+
 
 
 WORD = re.compile(r"\w+")
+
+
+def KL(vec1, vec2):
+
+	p = np.asarray(vec1)
+	q = np.asarray(vec2)
+
+	p  = p  / np.linalg.norm(p )
+	q = q / np.linalg.norm(q)
+
+	epsilon = 0.00001
+
+    p = p+epsilon
+    q = q+epsilon
+
+    divergence = np.sum(p*np.log(p/q))
+
+    return divergence 
 
 
 def get_cosine(vec1, vec2):
@@ -106,8 +126,8 @@ def compute(target):
 
 if __name__ == "__main__":
 
-	compute("d1.txt")
-
+	print(KL([.2,.3,.3,.2],[.1,.4,.4,.1]))
+	print(KL([.2,.4,.4,.2],[.0,.0,.5,.5]))
 
 
 
