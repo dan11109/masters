@@ -109,8 +109,8 @@ for i in clusters.keys():
 			dist = (1-spatial.distance.cosine(tfidf[cent], tfidf[tmp[j]] ))
 			if(dist > .8):
 				d[(cent,tmp[j])] = dist
-				tmp.pop(j)
 				set_cos.add(tmp[j])
+				tmp.pop(j)
 				if(first):
 					set_cos.add(cent)
 					number += 1
@@ -171,8 +171,8 @@ for i in clusters.keys():
 			dist = KL(tfidf[cent], tfidf[tmp[j]])
 			if(dist < .8):
 				d[(cent,tmp[j])] = dist
-				tmp.pop(j)
 				set_kl.add(tmp[j])
+				tmp.pop(j)
 				if(first):
 					set_kl.add(cent)
 					number += 1
