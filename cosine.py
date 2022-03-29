@@ -12,7 +12,6 @@ WORD = re.compile(r"\w+")
 
 
 def KL(vec1, vec2):
-
 	p = np.asarray(vec1)
 	q = np.asarray(vec2)
 
@@ -21,12 +20,12 @@ def KL(vec1, vec2):
 
 	epsilon = 0.00001
 
-    p = p+epsilon
-    q = q+epsilon
+	p = p+epsilon
+	q = q+epsilon
 
-    divergence = np.sum(p*np.log(p/q))
+	divergence = np.sum(p*np.log(p/q))
 
-    return divergence 
+	return divergence 
 
 
 def get_cosine(vec1, vec2):
