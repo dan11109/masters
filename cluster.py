@@ -13,6 +13,22 @@ from scipy import spatial
 
 # ssh steved7@acidburn.cs.rpi.edu
 
+
+def KL(vec1, vec2):
+	p = np.asarray(vec1)
+	q = np.asarray(vec2)
+	p  = p  / np.linalg.norm(p )
+	q = q / np.linalg.norm(q)
+	epsilon = 0.00001
+	p = p+epsilon
+	q = q+epsilon
+	divergence = np.sum(p*np.log(p/q))
+	return divergence 
+
+
+
+
+
 f = open('data/info.json')
 info = json.load(f)
 
