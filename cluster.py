@@ -32,7 +32,7 @@ lst = clustering.labels_
 
 #print(clustering.labels_)
 print(max(clustering.labels_))
-print(np.count_nonzero(clustering.labels_ == -1))
+print(np.count_nonzero(clustering.labels_ != -1))
 print(np.count_nonzero(clustering.core_sample_indices_ != -1))
 	
 
@@ -73,6 +73,8 @@ for word in inn.doc_sim_score.keys(): #sorted(inn.doc_sim_score.keys()):
 			tfidf[doc[0]]= [doc[1]]
 
 
+
+##########COSINE##############
 # [(d1,d1)] = cos#
 d = {}
 number = 0
@@ -106,7 +108,6 @@ for i in d.keys():
 	print(d[i])
 			
 
-
 file = open("outClust.html","w")
 file.write("<br />\n")
 
@@ -130,9 +131,84 @@ for i in d.keys():
 	file.write("<br />\n")
 	file.write("<br />\n")
 	
+file.close()
 
+
+##############KL##############
+# [(d1,d1)] = cos#
+d = {}
+number = 0
+
+for i in clusters.keys():
+
+	tmp = clusters[i].copy()
+	while(len(tmp) > 1):
+
+		idx = random.randrange(0,len(tmp))
+		cent = tmp.pop(idx)
+		j = 0
+		first = True
+		while(j < len(tmp)):
+			dist = KL(tfidf[cent], tfidf[tmp[j]])
+			if(dist < .5):
+				d[(cent,tmp[j])] = dist
+				tmp.pop(j)
+				if(first):
+					number += 1
+				first = False
+				number+=1
+
+			else:
+				j+=1
+
+print("Number of articles flagged (kl): " + str(number))
+
+for i in d.keys():
+	print(i,end=': ')
+	print(d[i])
+			
+
+file = open("outClustkl.html","w")
+file.write("<br />\n")
+
+for i in d.keys():
+	a = i[0]
+	b = i[1]
+
+	file.write(info[a]['title'])
+	file.write("<br />\n")
+	file.write(info[a]['url'])
+	file.write("<br />\n")
+	file.write('<a href="' + info[a]['url'] + '"> Link </a>')
+	file.write("<br />\n")
+	file.write(info[b]['title'])
+	file.write("<br />\n")
+	file.write(info[b]['url'])
+	file.write("<br />\n")
+	file.write('<a href="' + info[b]['url'] + '"> Link </a>')
+	file.write("<br />\n")
+	file.write('Cosine score: ' + str(d[i]))
+	file.write("<br />\n")
+	file.write("<br />\n")
+	
 
 file.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
