@@ -40,10 +40,18 @@ with open('embeddings.pkl', "rb") as fIn:
 	    stored_embeddings = stored_data['embeddings']
 
 
-for i in range(2000 - 500):#filter out 
-	idx = random.randrange(0,len(stored_order))
-	stored_order.pop(idx)
-	stored_embeddings.pop(idx)
+
+temp_order = []
+temp_embeddings = []
+rand_idxs = random.sample(range(0, 2000), 500)
+for i in rand_idxs: #filter out 
+	temp_order.append(stored_order[i])
+	temp_embeddings.append(stored_embeddings[i])
+
+stored_order = temp_order
+stored_embeddings = temp_embeddings
+
+
 
 
 clustering = DBSCAN(eps=.30, min_samples=10, metric='cosine').fit(stored_embeddings)
@@ -171,3 +179,57 @@ for i in d.keys():
 	print(i,end=': ')
 	print(d[i])
 			
+
+
+##########BASELINE COSINE##############
+
+base_clust = []
+
+for i in clusters.keys():
+
+	tmp = clusters[i].copy()
+	while(len(tmp) > 1):
+
+		idx = random.randrange(0,len(tmp))
+		cent = tmp.pop(idx)
+		j = 0
+		first = True
+		while(j < len(tmp)):
+			dist = (1-spatial.distance.cosine(tfidf[cent], tfidf[tmp[j]] ))
+			if(dist > .8):
+				d[(cent,tmp[j])] = dist
+				#set_cos.add(tmp[j])
+				tmp.pop(j)
+				if(first):
+					base_clust.append([cent])
+					#set_cos.add(cent)
+					number += 1
+				first = False
+				base_clust[-1].append(tmp[j])
+				number+=1
+
+			else:
+				j+=1
+
+print("Number of articles flagged (BASELINE): " + str(number))
+
+for i in d.keys():
+	print(i,end=': ')
+	print(d[i])
+
+print()
+for i in clusters_cos:	
+	print(i)
+
+
+
+
+
+
+
+
+
+
+
+
+
