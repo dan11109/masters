@@ -43,7 +43,7 @@ with open('embeddings.pkl', "rb") as fIn:
 
 temp_order = []
 temp_embeddings = []
-rand_idxs = random.sample(range(0, 2000), 500)
+rand_idxs = random.sample(range(0, 2000), 1000)
 for i in rand_idxs: #filter out 
 	temp_order.append(stored_order[i])
 	temp_embeddings.append(stored_embeddings[i])
@@ -197,7 +197,7 @@ for i in clusters.keys():
 		while(j < len(tmp)):
 			dist = (1-spatial.distance.cosine(tfidf[cent], tfidf[tmp[j]] ))
 			if(dist > .8):
-				d[(cent,tmp[j])] = dist
+				#d[(cent,tmp[j])] = dist
 				#set_cos.add(tmp[j])
 				tmp.pop(j)
 				if(first):
@@ -213,12 +213,8 @@ for i in clusters.keys():
 
 print("Number of articles flagged (BASELINE): " + str(number))
 
-for i in d.keys():
-	print(i,end=': ')
-	print(d[i])
-
 print()
-for i in clusters_cos:	
+for i in base_clust:	
 	print(i)
 
 
