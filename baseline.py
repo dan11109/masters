@@ -119,13 +119,13 @@ for i in clusters.keys():
 			if(dist > .8):
 				d[(cent,tmp[j])] = dist
 				set_cos.add(tmp[j])
-				tmp.pop(j)
 				if(first):
 					clusters_cos.append([cent])
 					set_cos.add(cent)
 					number += 1
 				first = False
 				clusters_cos[-1].append(tmp[j])
+				tmp.pop(j)
 				number+=1
 
 			else:
@@ -185,31 +185,28 @@ for i in d.keys():
 
 base_clust = []
 
-for i in clusters.keys():
+#for i in clusters.keys():
 
-	tmp = clusters[i].copy()
-	while(len(tmp) > 1):
+tmp = stored_order.copy()
+while(len(tmp) > 1):
 
-		idx = random.randrange(0,len(tmp))
-		cent = tmp.pop(idx)
-		j = 0
-		first = True
-		while(j < len(tmp)):
-			dist = (1-spatial.distance.cosine(tfidf[cent], tfidf[tmp[j]] ))
-			if(dist > .8):
-				#d[(cent,tmp[j])] = dist
-				#set_cos.add(tmp[j])
-				tmp.pop(j)
-				if(first):
-					base_clust.append([cent])
-					#set_cos.add(cent)
-					number += 1
-				first = False
-				base_clust[-1].append(tmp[j])
-				number+=1
+	idx = random.randrange(0,len(tmp))
+	cent = tmp.pop(idx)
+	j = 0
+	first = True
+	while(j < len(tmp)):
+		dist = (1-spatial.distance.cosine(tfidf[cent], tfidf[tmp[j]] ))
+		if(dist > .8):
+			if(first):
+				base_clust.append([cent])
+				number += 1
+			first = False
+			base_clust[-1].append(tmp[j])
+			tmp.pop(j)
+			number+=1
 
-			else:
-				j+=1
+		else:
+			j+=1
 
 print("Number of articles flagged (BASELINE): " + str(number))
 
