@@ -8,6 +8,8 @@ import random
 from collections import Counter
 from build_index import Index
 from scipy import spatial
+import time
+
 
 
 # ssh steved7@acidburn.cs.rpi.edu
@@ -99,6 +101,7 @@ for word in inn.doc_sim_score.keys():
 
 
 ##########COSINE##############
+start = time.time()
 # [(d1,d1)] = cos#
 set_cos = set()
 d = {}
@@ -130,7 +133,8 @@ for i in clusters.keys():
 
 			else:
 				j+=1
-
+end = time.time()
+print("Time for Cosine: " + str(end - start))
 print("Number of articles flagged (cos): " + str(number))
 
 for i in d.keys():
@@ -143,6 +147,7 @@ for i in clusters_cos:
 
 
 ##############KL##############
+start = time.time()
 # [(d1,d1)] = cos#
 d = {}
 number = 0
@@ -170,7 +175,8 @@ for i in clusters.keys():
 
 			else:
 				j+=1
-
+end = time.time()
+print("Time for KL: " + str(end - start))
 print("Number of articles flagged (kl): " + str(number))
 print("Number in commom KL and Cosine: " + str(len(set_cos.intersection(set_kl))))
 
@@ -184,9 +190,8 @@ for i in d.keys():
 ##########BASELINE COSINE##############
 
 base_clust = []
-
-#for i in clusters.keys():
-
+base_set = set()
+start = time.time()
 tmp = stored_order.copy()
 while(len(tmp) > 1):
 
@@ -199,15 +204,19 @@ while(len(tmp) > 1):
 		if(dist > .8):
 			if(first):
 				base_clust.append([cent])
+				base_set.add(cent)
 				number += 1
 			first = False
 			base_clust[-1].append(tmp[j])
+			base_set.add(tmp[j])
 			tmp.pop(j)
 			number+=1
 
 		else:
 			j+=1
 
+end = time.time()
+print("Time for bruit force: " + str(end - start))
 print("Number of articles flagged (BASELINE): " + str(number))
 
 print()
@@ -216,13 +225,6 @@ for i in base_clust:
 
 
 
-
-
-
-
-
-
-
-
+print("Number in Cosine and BASELINE: " + str(len(set_cos.intersection(set(base_set)))))
 
 
