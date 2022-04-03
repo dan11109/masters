@@ -152,11 +152,13 @@ for i in set_cos:
 print("Number of sources (COS): ", end = '')
 print(len(sources))
 
+print("Number of clusters: ",end ='')
+print(len(clusters_cos))
 
 
 ##############KL##############
 start = time.time()
-# [(d1,d1)] = cos#
+counter = 0
 d = {}
 number = 0
 set_kl = set()
@@ -178,6 +180,7 @@ for i in clusters.keys():
 				if(first):
 					set_kl.add(cent)
 					number += 1
+					counter += 1
 				first = False
 				number+=1
 
@@ -200,6 +203,9 @@ for i in set_kl:
 
 print("Number of sources (KL): ", end = '')
 print(len(sources))		
+
+print("Number of clusters: ",end ='')
+print(counter)
 
 
 ##########BASELINE COSINE##############
@@ -249,6 +255,7 @@ for i in base_set:
 print("Number of sources (BASELINE): ", end = '')
 print(len(sources))
 
-
+print("Number of clusters: ",end ='')
+print(len(base_clust))
 
 
