@@ -145,6 +145,14 @@ print()
 for i in clusters_cos:	
 	print(i)
 
+sources = set()
+for i in set_cos:
+	sources.add(info[i]['source'])
+
+print("Number of sources (COS): ", end = '')
+print(len(sources))
+
+
 
 ##############KL##############
 start = time.time()
@@ -184,7 +192,14 @@ print("Number in commom KL and Cosine: " + str(len(set_cos.intersection(set_kl))
 for i in d.keys():
 	print(i,end=': ')
 	print(d[i])
-			
+	
+
+sources = set()
+for i in set_kl:
+	sources.add(info[i]['source'])
+
+print("Number of sources (KL): ", end = '')
+print(len(sources))		
 
 
 ##########BASELINE COSINE##############
@@ -226,5 +241,14 @@ for i in base_clust:
 
 
 print("Number in Cosine and BASELINE: " + str(len(set_cos.intersection(set(base_set)))))
+
+sources = set()
+for i in base_set:
+	sources.add(info[i]['source'])
+
+print("Number of sources (BASELINE): ", end = '')
+print(len(sources))
+
+
 
 
