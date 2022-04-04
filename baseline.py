@@ -173,7 +173,7 @@ for i in clusters.keys():
 		first = True
 		while(j < len(tmp)):
 			dist = KL(tfidf[cent], tfidf[tmp[j]])
-			if(dist < 4.0):
+			if(dist < 8.0):
 				d[(cent,tmp[j])] = dist
 				set_kl.add(tmp[j])
 				tmp.pop(j)
