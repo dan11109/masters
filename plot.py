@@ -34,7 +34,7 @@ for i in range(len(clustering.labels_)):
 		else:
 			clusters[temp] = [stored_order[i]]
 
-df = pd.DataFrame(lst) 
+df = pd.DataFrame(vects) 
 
 
 
