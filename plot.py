@@ -36,5 +36,5 @@ for i in range(len(clustering.labels_)):
 
 df = pd.DataFrame(vects) 
 
-
+print(df)
 
