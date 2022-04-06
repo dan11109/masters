@@ -9,6 +9,7 @@ from collections import Counter
 from build_index import Index
 from scipy import spatial
 import time
+
 #import plotly.express as px
 from sklearn.decomposition import PCA
 import pandas as pd 
@@ -38,3 +39,7 @@ df = pd.DataFrame(vects)
 
 print(df)
 print(len(stored_embeddings[0]))
+
+
+pca  = PCA()
+components = pca.fit_transform(df)
