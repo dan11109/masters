@@ -46,3 +46,4 @@ pca  = PCA(n_components=2)
 components = pca.fit_transform(df)
 
 plt.plot(components[0], components[1], 'ro')
+plt.show()
