@@ -11,6 +11,7 @@ from scipy import spatial
 import time
 
 #import plotly.express as px
+import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 import pandas as pd 
 
