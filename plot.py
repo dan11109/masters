@@ -41,5 +41,7 @@ print(df)
 print(len(stored_embeddings[0]))
 
 
-pca  = PCA()
+pca  = PCA(n_components=2)
 components = pca.fit_transform(df)
+
+
