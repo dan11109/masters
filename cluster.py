@@ -9,7 +9,7 @@ import random
 from collections import Counter
 from build_index import Index
 from scipy import spatial
-
+import time
 
 # ssh steved7@acidburn.cs.rpi.edu
 
@@ -136,17 +136,17 @@ for i in d.keys():
 
 	file.write(info[a]['title'])
 	file.write("<br />\n")
-	file.write(info[a]['source'])
-	file.write("<br />\n")
-	file.write('<a href="' + info[a]['url'] + '"> Link </a>')
-	file.write("<br />\n")
+	#file.write(info[a]['source'])
+	#file.write("<br />\n")
+	#file.write('<a href="' + info[a]['url'] + '"> Link </a>')
+	#file.write("<br />\n")
 	file.write(info[b]['title'])
-	file.write("<br />\n")
-	file.write(info[b]['source'])
-	file.write("<br />\n")
-	file.write('<a href="' + info[b]['url'] + '"> Link </a>')
-	file.write("<br />\n")
-	file.write('Cosine score: ' + str(d[i]))
+	#file.write("<br />\n")
+	#file.write(info[b]['source'])
+	#file.write("<br />\n")
+	#file.write('<a href="' + info[b]['url'] + '"> Link </a>')
+	#file.write("<br />\n")
+	#file.write('Cosine score: ' + str(d[i]))
 	file.write("<br />\n")
 	file.write("<br />\n")
 	
