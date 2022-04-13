@@ -153,7 +153,7 @@ while(len(tmp) > 1):
 	first = True
 	while(j < len(tmp)):
 		dist = KL(tfidf[cent], tfidf[tmp[j]])
-			if(dist < 10.0):
+		if(dist < 10.0):
 			if(first):
 				base_clust.append([cent])
 				base_set.add(cent)
@@ -239,7 +239,7 @@ while(len(tmp) > 1):
 	first = True
 	while(j < len(tmp)):
 		dist = KL(embedded_dict[cent], embedded_dict[tmp[j]])
-			if(dist < 10.0):
+		if(dist < 10.0):
 			if(first):
 				base_clust.append([cent])
 				base_set.add(cent)
