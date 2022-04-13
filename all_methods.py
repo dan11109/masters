@@ -44,7 +44,7 @@ with open('embeddings.pkl', "rb") as fIn:
 embedded_dict = {}
 temp_order = []
 temp_embeddings = []
-n = 100#sys.argv[1]
+n = 1000#sys.argv[1]
 rand_idxs = random.sample(range(0, 2000), n)
 for i in rand_idxs: #filter out 
 	embedded_dict[stored_order[i]] = stored_embeddings[i]
