@@ -19,7 +19,7 @@ import time
 def KL(vec1, vec2):
 	p = np.asarray(vec1)
 	q = np.asarray(vec2)
-	p  = p  / np.linalg.norm(p )
+	p  = p  / np.linalg.norm(p)
 	q = q / np.linalg.norm(q)
 	epsilon = 0.00001
 	p = p+epsilon
@@ -44,7 +44,7 @@ with open('embeddings.pkl', "rb") as fIn:
 embedded_dict = {}
 temp_order = []
 temp_embeddings = []
-n = 1000#sys.argv[1]
+n = 100#sys.argv[1]
 rand_idxs = random.sample(range(0, 2000), n)
 for i in rand_idxs: #filter out 
 	embedded_dict[stored_order[i]] = stored_embeddings[i]
@@ -212,6 +212,7 @@ while(len(tmp) > 1):
 			j+=1
 
 end = time.time()
+print()
 print("Baseline cosine BERT: " + str(end - start))
 print("Number of articles flagged (BASELINE): " + str(number))
 
@@ -254,6 +255,7 @@ while(len(tmp) > 1):
 			j+=1
 
 end = time.time()
+print()
 print("Baseline KL BERT: " + str(end - start))
 print("Number of articles flagged (BASELINE): " + str(number))
 
@@ -267,11 +269,194 @@ print(len(sources))
 print("Number of clusters: ",end ='')
 print(len(base_clust))
 
-#cluster bert, cosine tf-idf
-#cluster bert, KL tf-idf
-#cluster bert, cosine bert
-#cluster bert, KL bert
 
+##### cluster bert, cosine tf-idf ##### 
+start = time.time()
+set_cos = set()
+d = {}
+number = 0
+clusters_cos = []
+
+for i in clusters.keys():
+	tmp = clusters[i].copy()
+	while(len(tmp) > 1):
+		idx = random.randrange(0,len(tmp))
+		cent = tmp.pop(idx)
+		j = 0
+		first = True
+		while(j < len(tmp)):
+			dist = (1-spatial.distance.cosine(tfidf[cent], tfidf[tmp[j]] ))
+			if(dist > .8):
+				d[(cent,tmp[j])] = dist
+				set_cos.add(tmp[j])
+				if(first):
+					clusters_cos.append([cent])
+					set_cos.add(cent)
+					number += 1
+				first = False
+				clusters_cos[-1].append(tmp[j])
+				tmp.pop(j)
+				number+=1
+
+			else:
+				j+=1
+end = time.time()
+print()
+print("Time for clustering with BERT, and Cosine TF-IDF: " + str(end - start))
+print("Number of articles flagged (cos): " + str(number))
+
+sources = set()
+for i in set_cos:
+	sources.add(info[i]['source'])
+
+print("Number of sources (COS): ", end = '')
+print(len(sources))
+
+print("Number of clusters: ",end ='')
+print(len(clusters_cos))
+
+##### cluster bert, KL tf-idf #####
+start = time.time()
+counter = 0
+d = {}
+number = 0
+set_kl = set()
+for i in clusters.keys():
+
+	tmp = clusters[i].copy()
+	while(len(tmp) > 1):
+
+		idx = random.randrange(0,len(tmp))
+		cent = tmp.pop(idx)
+		j = 0
+		first = True
+		while(j < len(tmp)):
+			dist = KL(tfidf[cent], tfidf[tmp[j]])
+			if(dist < 10.0):
+				d[(cent,tmp[j])] = dist
+				set_kl.add(tmp[j])
+				tmp.pop(j)
+				if(first):
+					set_kl.add(cent)
+					number += 1
+					counter += 1
+				first = False
+				number+=1
+
+			else:
+				j+=1
+
+end = time.time()
+print()
+print("Time for clustering with BERT, and KL TF-IDF: " + str(end - start))
+print("Number of articles flagged (kl): " + str(number))
+print("Number in commom KL and Cosine: " + str(len(set_cos.intersection(set_kl))))
+	
+sources = set()
+for i in set_kl:
+	sources.add(info[i]['source'])
+
+print("Number of sources (KL): ", end = '')
+print(len(sources))		
+
+print("Number of clusters: ",end ='')
+print(counter)
+
+
+##### cluster bert, cosine bert #####
+start = time.time()
+set_cos = set()
+d = {}
+number = 0
+clusters_cos = []
+
+for i in clusters.keys():
+	tmp = clusters[i].copy()
+	while(len(tmp) > 1):
+		idx = random.randrange(0,len(tmp))
+		cent = tmp.pop(idx)
+		j = 0
+		first = True
+		while(j < len(tmp)):
+			dist = (1-spatial.distance.cosine(embedded_dict[cent], embedded_dict[tmp[j]] ))
+			if(dist > .8):
+				d[(cent,tmp[j])] = dist
+				set_cos.add(tmp[j])
+				if(first):
+					clusters_cos.append([cent])
+					set_cos.add(cent)
+					number += 1
+				first = False
+				clusters_cos[-1].append(tmp[j])
+				tmp.pop(j)
+				number+=1
+
+			else:
+				j+=1
+end = time.time()
+print()
+print("Time for clustering with BERT, and Cosine BERT: " + str(end - start))
+print("Number of articles flagged (cos): " + str(number))
+
+sources = set()
+for i in set_cos:
+	sources.add(info[i]['source'])
+
+print("Number of sources (COS): ", end = '')
+print(len(sources))
+
+print("Number of clusters: ",end ='')
+print(len(clusters_cos))
+
+
+
+
+##### cluster bert, KL bert #####
+start = time.time()
+counter = 0
+d = {}
+number = 0
+set_kl = set()
+for i in clusters.keys():
+
+	tmp = clusters[i].copy()
+	while(len(tmp) > 1):
+
+		idx = random.randrange(0,len(tmp))
+		cent = tmp.pop(idx)
+		j = 0
+		first = True
+		while(j < len(tmp)):
+			dist = KL(embedded_dict[cent], embedded_dict[tmp[j]])
+			if(dist < 10.0):
+				d[(cent,tmp[j])] = dist
+				set_kl.add(tmp[j])
+				tmp.pop(j)
+				if(first):
+					set_kl.add(cent)
+					number += 1
+					counter += 1
+				first = False
+				number+=1
+
+			else:
+				j+=1
+
+end = time.time()
+print()
+print("Time for clustering with BERT, and KL BERT: " + str(end - start))
+print("Number of articles flagged (kl): " + str(number))
+print("Number in commom KL and Cosine: " + str(len(set_cos.intersection(set_kl))))
+	
+sources = set()
+for i in set_kl:
+	sources.add(info[i]['source'])
+
+print("Number of sources (KL): ", end = '')
+print(len(sources))		
+
+print("Number of clusters: ",end ='')
+print(counter)
 
 
 
