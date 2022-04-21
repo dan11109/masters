@@ -457,6 +457,11 @@ print("Number of clusters: ",end ='')
 print(counter)
 
 
+dump_lst = [set1,set2,set3,set4,set5,set6,set7,set8]
+
+with open('outputSets.pkl', 'wb') as outp:
+    pickle.dump(dump_lst, outp, pickle.HIGHEST_PROTOCOL)
+
 
 
 print("Articles in common: ")
