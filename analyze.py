@@ -13,7 +13,7 @@ import time
 
 
 
-with open('all_data.pkl', 'rb') as inp:
+with open('outputSets.pkl', 'rb') as inp:
     lsts = pickle.load(inp)
 
 print(lsts)
