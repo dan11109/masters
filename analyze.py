@@ -16,7 +16,7 @@ import time
 with open('outputSets.pkl', 'rb') as inp:
     lsts = pickle.load(inp)
 
-print(lsts)
+
 
 
 f = open('data/info.json')
@@ -26,10 +26,10 @@ info = json.load(f)
 # TFIDF COSINE: 0  
 
 tmp = lsts[0].intersection(lsts[2])
-print(tmp)
+
 only_bert = lsts[2] - tmp
 
-print()
+
 for i in only_bert:
 
     print(info[i]['title'])
