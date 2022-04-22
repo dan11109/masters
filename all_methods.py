@@ -97,7 +97,7 @@ for word in inn.doc_sim_score.keys():
 
 ##### baseline cosine tf-idf #####
 number = 0
-base_clust = []
+clusters1 = []
 set1 = set()
 start = time.time()
 tmp = stored_order.copy()
@@ -111,11 +111,11 @@ while(len(tmp) > 1):
 		dist = (1-spatial.distance.cosine(tfidf[cent], tfidf[tmp[j]] ))
 		if(dist > .8):
 			if(first):
-				base_clust.append([cent])
+				clusters1.append([cent])
 				set1.add(cent)
 				number += 1
 			first = False
-			base_clust[-1].append(tmp[j])
+			clusters1[-1].append(tmp[j])
 			set1.add(tmp[j])
 			tmp.pop(j)
 			number+=1
@@ -135,7 +135,7 @@ print("Number of sources (BASELINE): ", end = '')
 print(len(sources))
 
 print("Number of clusters: ",end ='')
-print(len(base_clust))
+print(len(clusters1))
 
 
 
@@ -185,7 +185,7 @@ print(len(base_clust))
 
 ##### baseline cosine bert #####
 number = 0
-base_clust = []
+clusters3 = []
 set3 = set()
 start = time.time()
 tmp = stored_order.copy()
@@ -199,11 +199,11 @@ while(len(tmp) > 1):
 		dist = (1-spatial.distance.cosine(embedded_dict[cent], embedded_dict[tmp[j]] ))
 		if(dist > .8):
 			if(first):
-				base_clust.append([cent])
+				clusters3.append([cent])
 				set3.add(cent)
 				number += 1
 			first = False
-			base_clust[-1].append(tmp[j])
+			clusters3[-1].append(tmp[j])
 			set3.add(tmp[j])
 			tmp.pop(j)
 			number+=1
@@ -224,7 +224,7 @@ print("Number of sources (BASELINE): ", end = '')
 print(len(sources))
 
 print("Number of clusters: ",end ='')
-print(len(base_clust))
+print(len(clusters3))
 
 ##### baseline KL bert #####
 number = 0
@@ -462,7 +462,9 @@ dump_lst = [set1,set2,set3,set4,set5,set6,set7,set8]
 with open('outputSets.pkl', 'wb') as outp:
     pickle.dump(dump_lst, outp, pickle.HIGHEST_PROTOCOL)
 
-
+clusts = [clusters1,clusters3]
+with open('cosineclusters.pkl', 'wb') as outp:
+    pickle.dump(clusts, outp, pickle.HIGHEST_PROTOCOL)
 
 print("Articles in common: ")
 print()
