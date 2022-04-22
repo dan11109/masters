@@ -18,7 +18,7 @@ with open('all_data.pkl', 'rb') as inp:
 
 
 f = open('data/info.json')
-    info = json.load(f)
+info = json.load(f)
 
 # BERT COSINE: 2
 # TFIDF COSINE: 0  
