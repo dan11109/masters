@@ -38,16 +38,24 @@ for i in only_bert:
     print()
 '''
 print("Clusters found in Cosine BERT but not in Cosine tfidf:")
-print()
 
+
+out_string = ''
 for i in clusters[1]:
-    print()
+    tmp = ''
+    count = 0
     for j in i:
         if(j in only_bert):
+            count += 1
+            tmp += '\n' + info[j]['title'] + '\n\t' + info[j]['url']
+    if(count > 1):
+        out_string += '\n\n' + tmp        
+            '''
             print(info[j]['title'])
             print('',end='\t')
             print(info[j]['url'])
-            
+            '''
+print(out_string)       
 
 
 
