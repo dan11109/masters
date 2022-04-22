@@ -73,8 +73,20 @@ for i in only_bert_clust:
 
     cosines.append((max_cos,i))
 
-for i in sorted(cosines):
-    print(i)
+file = open("BERT_Clusters.html","w")
+
+file.write("<br />\n")
+
+
+for i in sorted(cosines,reverse=True):
+    file.write('Cosine score: ' + str(i[0]))
+    file.write("<br />\n")
+    for j in i[1]:
+        file.write(info[j]['title'])
+        file.write(' <a href="' + info[j]['url'] + '"> Link </a>')
+        file.write("<br />\n")
+
+        
 
 
 
