@@ -50,11 +50,7 @@ for i in clusters[1]:
             tmp += '\n' + info[j]['title'] + '\n\t' + info[j]['url']
     if(count > 1):
         out_string += '\n\n' + tmp        
-            '''
-            print(info[j]['title'])
-            print('',end='\t')
-            print(info[j]['url'])
-            '''
+            
 print(out_string)       
 
 
