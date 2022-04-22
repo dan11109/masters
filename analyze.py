@@ -42,8 +42,8 @@ for i in clusters[1]:
     print()
     for j in i:
         if(j in only_bert):
-            print(info[i]['title'])
-            print(info[i]['url'])
+            print(info[j]['title'])
+            print(info[j]['url'])
             
 
 
