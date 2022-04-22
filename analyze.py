@@ -16,7 +16,8 @@ import time
 with open('outputSets.pkl', 'rb') as inp:
     lsts = pickle.load(inp)
 
-
+with open('cosineclusters.pkl', 'rb') as inp:
+    clusters = pickle.load(inp)
 
 
 f = open('data/info.json')
@@ -29,12 +30,21 @@ tmp = lsts[0].intersection(lsts[2])
 
 only_bert = lsts[2] - tmp
 
-
+'''
 for i in only_bert:
 
     print(info[i]['title'])
     print(info[i]['url'])
     print()
+'''
+
+for i in clusters[1]:
+    print()
+    for j in i:
+        if(j in only_bert):
+            print(info[i]['title'])
+            print(info[i]['url'])
+            
 
 
 
