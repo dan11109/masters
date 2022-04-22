@@ -31,7 +31,7 @@ tmp = lsts[0].intersection(lsts[2])
 only_bert = lsts[2] - tmp
 
 
-print("Clusters found in Cosine BERT but not in Cosine tfidf:")
+#print("Clusters found in Cosine BERT but not in Cosine tfidf:")
 
 with open('embeddings.pkl', "rb") as fIn:
         stored_data = pickle.load(fIn)
@@ -85,7 +85,8 @@ for i in sorted(cosines,reverse=True):
         file.write(info[j]['title'])
         file.write(' <a href="' + info[j]['url'] + '"> Link </a>')
         file.write("<br />\n")
-
+    file.write("<br />\n")
+    file.write("<br />\n")
         
 
 
