@@ -29,7 +29,7 @@ only_bert = lsts[2] - tmp
 
 print()
 for i in only_bert:
-    
+
     print(info[i]['title'])
     print(info[i]['url'])
     print()
