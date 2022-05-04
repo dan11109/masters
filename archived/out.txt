@@ -1,0 +1,233 @@
+
+
+Baseline cosine tf-idf: 3756.5471484661102
+Number of articles flagged (BASELINE): 84
+Number of sources (BASELINE): 35
+Number of clusters: 39
+
+Baseline KL tf-idf: 6316.81023144722
+Number of articles flagged (BASELINE): 75
+Number of sources (BASELINE): 34
+Number of clusters: 35
+
+Baseline cosine BERT: 14.070650815963745
+Number of articles flagged (BASELINE): 209
+Number of sources (BASELINE): 75
+Number of clusters: 87
+
+Baseline KL BERT: 11.059404611587524
+Number of articles flagged (BASELINE): 32
+Number of sources (BASELINE): 22
+Number of clusters: 16
+
+Time for clustering with BERT, and Cosine TF-IDF: 13.587109327316284
+Number of articles flagged (cos): 17
+Number of sources (COS): 12
+Number of clusters: 8
+
+Time for clustering with BERT, and KL TF-IDF: 20.186638593673706
+Number of articles flagged (kl): 14
+Number of sources (KL): 10
+Number of clusters: 7
+
+Time for clustering with BERT, and Cosine BERT: 0.07271695137023926
+Number of articles flagged (cos): 65
+Number of sources (COS): 34
+Number of clusters: 25
+
+Time for clustering with BERT, and KL BERT: 0.050850629806518555
+Number of articles flagged (kl): 8
+Number of sources (KL): 6
+Number of clusters: 4
+Articles in common:
+
+Baseline cosine tf-idf:
+75
+79
+32
+17
+14
+16
+8
+
+Baseline KL tf-idf:
+75
+72
+32
+14
+14
+14
+8
+
+Baseline cosine BERT:
+79
+72
+32
+17
+14
+58
+8
+
+Baseline KL BERT:
+32
+32
+32
+8
+8
+8
+8
+
+Clustering with BERT, and Cosine TF-IDF:
+17
+14
+17
+8
+14
+16
+8
+
+Clustering with BERT, and KL TF-IDF:
+14
+14
+14
+8
+14
+14
+8
+
+Clustering with BERT, and Cosine BERT:
+16
+14
+58
+8
+16
+14
+8
+
+Clustering with BERT, and KL BERT:
+8
+8
+8
+8
+8
+8
+8
+
+####### 
+
+10
+174
+101
+Baseline cosine tf-idf: 5507.693963527679
+Number of articles flagged (BASELINE): 55
+Number of sources (BASELINE): 23
+Number of clusters: 26
+
+Baseline KL tf-idf: 9861.096873998642
+Number of articles flagged (BASELINE): 37
+Number of sources (BASELINE): 21
+Number of clusters: 17
+
+Baseline cosine BERT: 25.98671269416809
+Number of articles flagged (BASELINE): 186
+Number of sources (BASELINE): 62
+Number of clusters: 73
+
+Baseline KL BERT: 19.207115173339844
+Number of articles flagged (BASELINE): 13
+Number of sources (BASELINE): 6
+Number of clusters: 6
+
+Time for clustering with BERT, and Cosine TF-IDF: 22.98555588722229
+Number of articles flagged (cos): 12
+Number of sources (COS): 8
+Number of clusters: 6
+
+Time for clustering with BERT, and KL TF-IDF: 38.32872247695923
+Number of articles flagged (kl): 12
+Number of sources (KL): 9
+Number of clusters: 6
+
+Time for clustering with BERT, and Cosine BERT: 0.06911230087280273
+Number of articles flagged (cos): 88
+Number of sources (COS): 45
+Number of clusters: 29
+
+Time for clustering with BERT, and KL BERT: 0.05995368957519531
+Number of articles flagged (kl): 4
+Number of sources (KL): 2
+Number of clusters: 2
+Articles in common:
+
+Baseline cosine tf-idf:
+35
+47
+13
+12
+8
+12
+4
+
+Baseline KL tf-idf:
+35
+34
+13
+8
+10
+8
+4
+
+Baseline cosine BERT:
+47
+34
+13
+12
+11
+84
+4
+
+Baseline KL BERT:
+13
+13
+13
+4
+4
+4
+4
+
+Clustering with BERT, and Cosine TF-IDF:
+12
+8
+12
+4
+8
+11
+4
+
+Clustering with BERT, and KL TF-IDF:
+8
+10
+11
+4
+8
+10
+4
+
+Clustering with BERT, and Cosine BERT:
+12
+8
+84
+4
+11
+10
+4
+
+Clustering with BERT, and KL BERT:
+4
+4
+4
+4
+4
+4
+4
+
