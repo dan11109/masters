@@ -9,10 +9,8 @@ from bert.sentenceTransformers.sentence_transformers import SentenceTransformer
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 
-
 query_doc = "d1.txt"
 query_doc1 = query_doc[:-4]
-
 
 with open('all_data.pkl', 'rb') as inp:
     inn = pickle.load(inp)
@@ -26,11 +24,8 @@ for file in inn.all_files.keys():
     order.append(file)
     
   
-
-
 #Sentences are encoded by calling model.encode()
 embeddings = model.encode(sentences)
-
 
 
 #Store sentences & embeddings on disc
@@ -39,6 +34,5 @@ embeddings = model.encode(sentences)
 
 
 with open('embeddings.pkl', "wb") as fOut:
-
     pickle.dump({'order': order, 'embeddings': embeddings}, fOut, protocol=pickle.HIGHEST_PROTOCOL)
 

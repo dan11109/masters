@@ -19,9 +19,7 @@ arg1 = sys.argv[1] # = 'data/2022-02-01to03.json'
 #f = open('data/rpi_school.json')
 #f = open('data/dec2020.json')
 f = open(arg1)
-
 data = json.load(f)
-
 n = int(sys.argv[2]) #2000 ##math.inf; #100
 
 files = 'd.txt' # 'data/d.txt'
@@ -89,8 +87,6 @@ inn.calculate_tf_idf(test_file=query_doc)
 inn.tfidf_of_query(query_doc1)
 
 with open('all_data.pkl', 'wb') as outp:
-    
     pickle.dump(inn, outp, pickle.HIGHEST_PROTOCOL)
-
 
 

@@ -87,7 +87,7 @@ for word in inn.doc_sim_score.keys():
 
 
 #---------- cluster ----------
-if(len(sys.argv) == 5 and sys.argv[4] == 'cluster'): 
+if(len(sys.argv) == 6 and sys.argv[5] == 'cluster'): 
 	start = time.time()
 	set5 = set()
 	d = {}
@@ -139,7 +139,7 @@ if(len(sys.argv) == 5 and sys.argv[4] == 'cluster'):
 	print(len(final_clusters))
 
 #---------- no cluster ----------
-elif(len(sys.argv) == 4):
+elif(len(sys.argv) == 5):
 	
 	number = 0
 	final_clusters = []
@@ -199,7 +199,9 @@ for c in final_clusters:
 		rows.append([num, info[art[0]]['title'], art[1], info[art[0]]['url'], info[art[0]]['source'] ])
 	num += 1
 
-with open('output.csv', 'w') as csvfile: 
+out_file = sys.argv[4]
+
+with open(out_file, 'w') as csvfile: 
     # creating a csv writer object 
     csvwriter = csv.writer(csvfile) 
         
